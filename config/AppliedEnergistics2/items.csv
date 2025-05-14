@@ -1273,7 +1273,7 @@ ic2:iteminactivefuelcell, Inactive Fuel Cell
 ic2:itemnouse:0, No Use
 ic2:tile.water, Água
 ic2:tile.lava, Lava
-forge:bucketfilled, Balde com %s
+forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Minério de Quartzo Certus
 appliedenergistics2:charged_quartz_ore, Minério de Quartzo Certus Carregado
 appliedenergistics2:matrix_frame, Armação de Matriz
@@ -2489,11 +2489,7 @@ techguns:itemshared:160, UV Element
 techguns:radaway, RadAway
 techguns:radpills, Anti-RAD Pills
 techguns:gasmask, Gas Mask
-techguns:glider, Glider
-techguns:jumppack, Jumppack
-techguns:scubatanks, Oxygen Tanks
 techguns:nightvisiongoggles, Nightvision Goggles
-techguns:jetpack, Jetpack
 techguns:tacticalmask, Tactical Mask
 techguns:antigravpack, Anti Gravity Device
 techguns:item_door3x3:0, Techdoor
@@ -2595,7 +2591,6 @@ techguns:sonicshotgun, Sonic Rifle
 techguns:pdw, PDW
 techguns:pulserifle, Pulse Rifle
 techguns:mibgun, De-Atomizer Pistol
-techguns:powerhammer, Power Hammer
 techguns:chainsaw, Chainsaw
 techguns:nucleardeathray, Nuclear Death Ray
 techguns:gaussrifle, Gauss Rifle
