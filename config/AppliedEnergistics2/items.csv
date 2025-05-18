@@ -1992,66 +1992,6 @@ betterquesting:submit_station, Object Submission Station (OSS)
 buildcraftlib:guide, BuildCraft Guide Book
 buildcraftlib:guide_note, BuildCraft Guide Book Note
 buildcraftlib:debugger, Debugger
-sevendaystomine:emptycan, Lata Vazia
-sevendaystomine:cookinggrill, Churrasqueira
-sevendaystomine:emptyjar, Pote Vazio
-sevendaystomine:bottledmurkywater, Água Turva Engarrafada
-sevendaystomine:bottledwater, Água Engarrafada
-sevendaystomine:bottledbeer, Cerveja
-sevendaystomine:goldenrodtea, Chá de Goldenrod
-sevendaystomine:bottledcoffee, Café Engarrafado
-sevendaystomine:jarofhoney, Pote de Mel
-sevendaystomine:cannedmurkywater, Água Turva enlatada
-sevendaystomine:cannedwater, Água enlatada
-sevendaystomine:cannedcatfood, Lata de Ração para Gato
-sevendaystomine:cannedchicken, Lata de Frango
-sevendaystomine:cannedchili, Lata de Chili
-sevendaystomine:canneddogfood, Lata de Ração para Cachorro
-sevendaystomine:cannedham, Lata de Presunto
-sevendaystomine:cannedlamb, Lata de Carne de Cordeiro
-sevendaystomine:cannedmiso, Lata de Miso
-sevendaystomine:cannedpasta, Lata de Macarrão
-sevendaystomine:cannedpears, Lata de Peras
-sevendaystomine:cannedpeas, Lata de Ervilhas
-sevendaystomine:cannedsalmon, Lata de Salmão
-sevendaystomine:cannedsoup, Lata de Sopa
-sevendaystomine:cannedstock, Lata de Caldo
-sevendaystomine:cannedtuna, Lata de Atum
-sevendaystomine:coffee_beans, Grãos de Café
-sevendaystomine:corn, Milho
-sevendaystomine:blueberry, Mirtilo
-sevendaystomine:baneberry, Mirtilo Branco
-sevendaystomine:coffee_berry, Frutos de Café
-sevendaystomine:cloth, Tecido
-sevendaystomine:fridgeitem, Geladeira
-sevendaystomine:sleepingbagitem:0, Saco de Dormir Branco
-sevendaystomine:sleepingbagitem:1, Saco de Dormir Laranja
-sevendaystomine:sleepingbagitem:2, Saco de Dormir Magenta
-sevendaystomine:sleepingbagitem:3, Saco de Dormir Azul Claro
-sevendaystomine:sleepingbagitem:4, Saco de Dormir Amarelo
-sevendaystomine:sleepingbagitem:5, Saco de Dormir Limão
-sevendaystomine:sleepingbagitem:6, Saco de Dormir Rosa
-sevendaystomine:sleepingbagitem:7, Saco de Dormir Cinza
-sevendaystomine:sleepingbagitem:8, Saco de Dormir Prata
-sevendaystomine:sleepingbagitem:9, Saco de Dormir Ciano
-sevendaystomine:sleepingbagitem:10, Saco de Dormir Roxo
-sevendaystomine:sleepingbagitem:11, Saco de Dormir Azul
-sevendaystomine:sleepingbagitem:12, Saco de Dormir Marrom
-sevendaystomine:sleepingbagitem:13, Saco de Dormir Verde
-sevendaystomine:sleepingbagitem:14, Saco de Dormir Vermelho
-sevendaystomine:sleepingbagitem:15, Saco de Dormir Preto
-sevendaystomine:survival_guide, Guia de Sobrevivência
-sevendaystomine:bloodmoon, item.bloodmoon.name
-sevendaystomine:mre, item.mre.name
-sevendaystomine:vomit, item.vomit.name
-sevendaystomine:soda, item.soda.name
-sevendaystomine:bandage, Atadura
-sevendaystomine:advancedbandage, Atadura Avançada
-sevendaystomine:firstaidkit, Kit de Primeiros Socorros
-sevendaystomine:bloodbag, Saco de Sangue
-sevendaystomine:blooddrawkit, Kit para Retirada de Sangue
-sevendaystomine:bloodbagcontamined, Saco de Sangue Contaminado
-sevendaystomine:antibiotics, Antibióticos
 sevendaystomine:stick, Varinha
 sevendaystomine:foodpile, Pilha de Comida
 sevendaystomine:scrappile, Pilha de Sucata
@@ -2229,6 +2169,66 @@ sevendaystomine:sofa_lime, tile.sofa_lime.name
 sevendaystomine:sofa_light_blue, tile.sofa_light_blue.name
 sevendaystomine:sofa_silver, tile.sofa_silver.name
 sevendaystomine:sofa_gray, tile.sofa_gray.name
+sevendaystomine:emptycan, Lata Vazia
+sevendaystomine:cookinggrill, Churrasqueira
+sevendaystomine:emptyjar, Pote Vazio
+sevendaystomine:bottledmurkywater, Água Turva Engarrafada
+sevendaystomine:bottledwater, Água Engarrafada
+sevendaystomine:bottledbeer, Cerveja
+sevendaystomine:goldenrodtea, Chá de Goldenrod
+sevendaystomine:bottledcoffee, Café Engarrafado
+sevendaystomine:jarofhoney, Pote de Mel
+sevendaystomine:cannedmurkywater, Água Turva enlatada
+sevendaystomine:cannedwater, Água enlatada
+sevendaystomine:cannedcatfood, Lata de Ração para Gato
+sevendaystomine:cannedchicken, Lata de Frango
+sevendaystomine:cannedchili, Lata de Chili
+sevendaystomine:canneddogfood, Lata de Ração para Cachorro
+sevendaystomine:cannedham, Lata de Presunto
+sevendaystomine:cannedlamb, Lata de Carne de Cordeiro
+sevendaystomine:cannedmiso, Lata de Miso
+sevendaystomine:cannedpasta, Lata de Macarrão
+sevendaystomine:cannedpears, Lata de Peras
+sevendaystomine:cannedpeas, Lata de Ervilhas
+sevendaystomine:cannedsalmon, Lata de Salmão
+sevendaystomine:cannedsoup, Lata de Sopa
+sevendaystomine:cannedstock, Lata de Caldo
+sevendaystomine:cannedtuna, Lata de Atum
+sevendaystomine:coffee_beans, Grãos de Café
+sevendaystomine:corn, Milho
+sevendaystomine:blueberry, Mirtilo
+sevendaystomine:baneberry, Mirtilo Branco
+sevendaystomine:coffee_berry, Frutos de Café
+sevendaystomine:cloth, Tecido
+sevendaystomine:fridgeitem, Geladeira
+sevendaystomine:sleepingbagitem:0, Saco de Dormir Branco
+sevendaystomine:sleepingbagitem:1, Saco de Dormir Laranja
+sevendaystomine:sleepingbagitem:2, Saco de Dormir Magenta
+sevendaystomine:sleepingbagitem:3, Saco de Dormir Azul Claro
+sevendaystomine:sleepingbagitem:4, Saco de Dormir Amarelo
+sevendaystomine:sleepingbagitem:5, Saco de Dormir Limão
+sevendaystomine:sleepingbagitem:6, Saco de Dormir Rosa
+sevendaystomine:sleepingbagitem:7, Saco de Dormir Cinza
+sevendaystomine:sleepingbagitem:8, Saco de Dormir Prata
+sevendaystomine:sleepingbagitem:9, Saco de Dormir Ciano
+sevendaystomine:sleepingbagitem:10, Saco de Dormir Roxo
+sevendaystomine:sleepingbagitem:11, Saco de Dormir Azul
+sevendaystomine:sleepingbagitem:12, Saco de Dormir Marrom
+sevendaystomine:sleepingbagitem:13, Saco de Dormir Verde
+sevendaystomine:sleepingbagitem:14, Saco de Dormir Vermelho
+sevendaystomine:sleepingbagitem:15, Saco de Dormir Preto
+sevendaystomine:survival_guide, Guia de Sobrevivência
+sevendaystomine:bloodmoon, item.bloodmoon.name
+sevendaystomine:mre, item.mre.name
+sevendaystomine:vomit, item.vomit.name
+sevendaystomine:soda, item.soda.name
+sevendaystomine:bandage, Atadura
+sevendaystomine:advancedbandage, Atadura Avançada
+sevendaystomine:firstaidkit, Kit de Primeiros Socorros
+sevendaystomine:bloodbag, Saco de Sangue
+sevendaystomine:blooddrawkit, Kit para Retirada de Sangue
+sevendaystomine:bloodbagcontamined, Saco de Sangue Contaminado
+sevendaystomine:antibiotics, Antibióticos
 techguns:basicmachine:0, Ammo Press
 techguns:basicmachine:1, Metal Press
 techguns:basicmachine:2, Chemical Laboratory
