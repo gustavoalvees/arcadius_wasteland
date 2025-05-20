@@ -63,7 +63,7 @@ jobs:
       run: |
         zip -r projeto.zip . -x '*.git*' '*.github*'
 
-    - name: Criar Release com ZIP
+    - name: Criar Release com ZIP Y
       uses: softprops/action-gh-release@v1
       with:
         name: Release ${{ steps.version.outputs.next_version }}
