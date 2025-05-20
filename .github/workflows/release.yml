@@ -46,10 +46,13 @@ jobs:
         echo "next_version=$NEXT" >> $GITHUB_OUTPUT
 
     - name: Criar e enviar tag
+      env:
+        TOKEN: ${{ secrets.tes }}
       run: |
         git config user.name "github-actions"
-        git config user.email "gustavoalves13711@gmail.com"
+        git config user.email "github-actions@github.com"
         git tag ${{ steps.version.outputs.next_version }}
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
         git push origin ${{ steps.version.outputs.next_version }}
 
     - name: Criar arquivo ZIP
