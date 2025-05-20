@@ -1,11 +1,9 @@
-name: Criar Release ZIP
+name: Release Automática
 
 on:
   push:
     branches:
       - main
-    tags:
-      - '*'
 
 jobs:
   release:
@@ -15,24 +13,54 @@ jobs:
     - name: Checkout do código
       uses: actions/checkout@v3
 
-    - name: Determinar nome da versão
+    - name: Obter última release
+      id: get_release
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const releases = await github.rest.repos.listReleases({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+          });
+
+          const latest = releases.data.find(r => /^0\.11\.\d+(A)?$/.test(r.tag_name));
+          if (latest) {
+            core.setOutput("latest", latest.tag_name);
+          } else {
+            core.setOutput("latest", "0.11.0A");
+          }
+
+    - name: Calcular nova versão
       id: version
       run: |
-        if [[ "${GITHUB_REF}" == refs/tags/* ]]; then
-          echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        LATEST="${{ steps.get_release.outputs.latest }}"
+        BASE="0.11."
+
+        if [[ "$LATEST" == *A ]]; then
+          NEXT="${BASE}1"
         else
-          echo "tag=build-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+          NUM=${LATEST##$BASE}
+          NEXT="${BASE}$((NUM + 1))"
         fi
 
-    - name: Criar arquivo zip
+        echo "next_version=$NEXT" >> $GITHUB_OUTPUT
+
+    - name: Criar e enviar tag
+      run: |
+        git config user.name "github-actions"
+        git config user.email "gustavoalves13711@gmail.com"
+        git tag ${{ steps.version.outputs.next_version }}
+        git push origin ${{ steps.version.outputs.next_version }}
+
+    - name: Criar arquivo ZIP
       run: |
         zip -r projeto.zip . -x '*.git*' '*.github*'
 
-    - name: Criar Release e enviar ZIP
+    - name: Criar Release com ZIP
       uses: softprops/action-gh-release@v1
       with:
-        name: Release ${{ steps.version.outputs.tag }}
-        tag_name: ${{ steps.version.outputs.tag }}
+        name: Release ${{ steps.version.outputs.next_version }}
+        tag_name: ${{ steps.version.outputs.next_version }}
         files: projeto.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
