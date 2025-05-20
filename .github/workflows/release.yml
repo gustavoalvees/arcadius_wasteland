@@ -1,0 +1,27 @@
+name: Criar Release ZIP
+
+on:
+  push:
+    tags:
+      - '*'  # Aciona ao criar qualquer tag (ex: v1.0, release-xyz)
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v3
+
+    - name: Criar arquivo zip
+      run: |
+        zip -r projeto.zip . -x '*.git*' '*.github*'
+
+    - name: Criar Release e enviar ZIP
+      uses: softprops/action-gh-release@v1
+      with:
+        name: Nova versão ${{ github.ref_name }}
+        tag_name: ${{ github.ref_name }}
+        files: projeto.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
