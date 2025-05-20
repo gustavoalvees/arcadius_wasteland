@@ -45,17 +45,21 @@ jobs:
 
         echo "next_version=$NEXT" >> $GITHUB_OUTPUT
 
-    - name: Criar e enviar tag
+    - name: Configurar e enviar nova tag
       env:
-        TOKEN: ${{ secrets.tes }}
+        TOKEN: ${{ secrets.TES }}
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git tag ${{ steps.version.outputs.next_version }}
+
+        # Reposiciona o remote para usar o token TES
         git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+
+        git fetch --tags
+        git tag ${{ steps.version.outputs.next_version }}
         git push origin ${{ steps.version.outputs.next_version }}
 
-    - name: Criar arquivo ZIP
+    - name: Criar arquivo ZIP do projeto
       run: |
         zip -r projeto.zip . -x '*.git*' '*.github*'
 
