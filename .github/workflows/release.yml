@@ -2,8 +2,10 @@ name: Criar Release ZIP
 
 on:
   push:
+    branches:
+      - main
     tags:
-      - '*'  # Aciona ao criar qualquer tag (ex: v1.0, release-xyz)
+      - '*'
 
 jobs:
   release:
@@ -13,6 +15,15 @@ jobs:
     - name: Checkout do código
       uses: actions/checkout@v3
 
+    - name: Determinar nome da versão
+      id: version
+      run: |
+        if [[ "${GITHUB_REF}" == refs/tags/* ]]; then
+          echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        else
+          echo "tag=build-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+        fi
+
     - name: Criar arquivo zip
       run: |
         zip -r projeto.zip . -x '*.git*' '*.github*'
@@ -20,8 +31,8 @@ jobs:
     - name: Criar Release e enviar ZIP
       uses: softprops/action-gh-release@v1
       with:
-        name: Nova versão ${{ github.ref_name }}
-        tag_name: ${{ github.ref_name }}
+        name: Release ${{ steps.version.outputs.tag }}
+        tag_name: ${{ steps.version.outputs.tag }}
         files: projeto.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
