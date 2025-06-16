@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:1.0
+gamma:0.0
 saturation:0.0
 renderDistance:21
 guiScale:3
@@ -88,16 +88,15 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_key.groovyscript.reload:19:CONTROL
 key_equipmentcompare.key.showTooltips:42
-key_keybind.baublesinventory:48
 key_key.betterfoliage.gui:66
-key_key.betterquesting.quests:41
-key_key.betterquesting.back:14
+key_keybind.baublesinventory:48
 key_ALT Key:56
 key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:0
 key_Hub Expand Key:45
 key_Toggle Key:47
+key_key.ftbquests.quests:0
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL

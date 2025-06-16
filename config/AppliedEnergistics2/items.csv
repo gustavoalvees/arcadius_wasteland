@@ -5964,6 +5964,34 @@ appliedenergistics2:facade:0, Fachada de Cabos - Orange Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Orange Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Wool
+appliedenergistics2:facade:0, Fachada de Cabos - Blue Ice
+appliedenergistics2:facade:0, Fachada de Cabos - Coquina
+appliedenergistics2:facade:0, Fachada de Cabos - Coquina Brick
+appliedenergistics2:facade:0, Fachada de Cabos - Coquina Brick Slab
+appliedenergistics2:facade:0, Fachada de Cabos - Dried Dulse Block
+appliedenergistics2:facade:0, Fachada de Cabos - Tube Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Brain Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Bubble Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Fire Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Horn Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dead Tube Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dead Brain Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dead Bubble Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dead Fire Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dead Horn Coral Block
+appliedenergistics2:facade:0, Fachada de Cabos - Dried Kelp Block
+appliedenergistics2:facade:0, Fachada de Cabos - Palm Leaves
+appliedenergistics2:facade:0, Fachada de Cabos - Flowering Palm Leaves
+appliedenergistics2:facade:0, Fachada de Cabos - Palm Log
+appliedenergistics2:facade:0, Fachada de Cabos - Palm Wood
+appliedenergistics2:facade:0, Fachada de Cabos - Stripped Palm Log
+appliedenergistics2:facade:0, Fachada de Cabos - Stripped Palm Wood
+appliedenergistics2:facade:0, Fachada de Cabos - Palm Planks
+appliedenergistics2:facade:0, Fachada de Cabos - Palm Slab
+appliedenergistics2:facade:0, Fachada de Cabos - Nacre Block
+appliedenergistics2:facade:0, Fachada de Cabos - Smooth Nacre Block
+appliedenergistics2:facade:0, Fachada de Cabos - Shelly Sand
+appliedenergistics2:facade:0, Fachada de Cabos - Underwater TNT
 appliedenergistics2:facade:0, Fachada de Cabos - Concreto Reforçado
 appliedenergistics2:facade:0, Fachada de Cabos - Asfalto
 appliedenergistics2:facade:0, Fachada de Cabos - Pedra Musgosa Morta
@@ -6338,14 +6366,6 @@ appliedenergistics2:part:400, Monitor de Armazenamento ME
 appliedenergistics2:part:380, Terminal ME
 appliedenergistics2:part:80, Barramento de Alternância ME
 baubles:ring:0, Anel do Minerador
-betterquesting:placeholder, Item Placeholder
-betterquesting:extra_life:0, Extra Life
-betterquesting:extra_life:1, Half Heart
-betterquesting:extra_life:2, Quarter Heart
-betterquesting:guide_book, Better Questing Starter Guide
-bq_standard:loot_chest, Loot Chest
-betterquesting:quest_book, Quest Book
-betterquesting:submit_station, Object Submission Station (OSS)
 buildcraftlib:guide, BuildCraft Guide Book
 buildcraftlib:guide_note, BuildCraft Guide Book Note
 buildcraftlib:debugger, Debugger
@@ -6354,8 +6374,125 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
+itemfilters:filter, Item Filter
+itemfilters:missing, Item Inexistente
+ftbquests:screen, Tela de Tarefas
+ftbquests:progress_detector, Detector de Progresso de Quests
+ftbquests:detector:0, Redstone Detector
+ftbquests:detector:1, Player Detector
+ftbquests:progress_screen, Tela de Progresso
+ftbquests:chest, Baú de Quests
+ftbquests:loot_crate_storage, Loot Crate Storage
+ftbquests:loot_crate_opener, Loot Crate Opener
+ftbquests:barrier, Quest Barrier
+ftbquests:reward_collector, Reward Collector
+ftbquests:book, Livro de Quests
+ftbquests:lootcrate, Caixa de loot
+ftbquests:custom_icon, Custom Icon
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
+oe:guardian_spike, Guardian Spike
+oe:sea_pickle, Sea Pickle
+oe:turtle_egg, Turtle Egg
+oe:coquina_brick_slab:0, Coquina Brick Slab
+oe:palm_slab:0, Palm Slab
+oe:palm_door, Palm Door
+oe:pickled_head, Pickled Head
+oe:blue_ice, Blue Ice
+oe:coconut, Coconut
+oe:conduit, Conduit
+oe:coquina, Coquina
+oe:coquina_brick, Coquina Brick
+oe:coquina_brick_slab_double, Coquina Brick Slab
+oe:coquina_brick_stairs, Coquina Brick Stairs
+oe:coquina_brick_wall, Coquina Brick Wall
+oe:stagnant, Stagnant
+oe:dulse, Dulse
+oe:dried_dulse_block, Dried Dulse Block
+oe:blue_coral_block, Tube Coral Block
+oe:pink_coral_block, Brain Coral Block
+oe:purple_coral_block, Bubble Coral Block
+oe:red_coral_block, Fire Coral Block
+oe:yellow_coral_block, Horn Coral Block
+oe:blue_coral_block_dead, Dead Tube Coral Block
+oe:pink_coral_block_dead, Dead Brain Coral Block
+oe:purple_coral_block_dead, Dead Bubble Coral Block
+oe:red_coral_block_dead, Dead Fire Coral Block
+oe:yellow_coral_block_dead, Dead Horn Coral Block
+oe:blue_coral_fan, Tube Coral Fan
+oe:pink_coral_fan, Brain Coral Fan
+oe:purple_coral_fan, Bubble Coral Fan
+oe:red_coral_fan, Fire Coral Fan
+oe:yellow_coral_fan, Horn Coral Fan
+oe:blue_coral_fan_dead, Dead Tube Coral Fan
+oe:pink_coral_fan_dead, Dead Brain Coral Fan
+oe:purple_coral_fan_dead, Dead Bubble Coral Fan
+oe:red_coral_fan_dead, Dead Fire Coral Fan
+oe:yellow_coral_fan_dead, Dead Horn Coral Fan
+oe:blue_coral, Tube Coral
+oe:pink_coral, Brain Coral
+oe:purple_coral, Bubble Coral
+oe:red_coral, Fire Coral
+oe:yellow_coral, Horn Coral
+oe:blue_coral_dead, Dead Tube Coral
+oe:pink_coral_dead, Dead Brain Coral
+oe:purple_coral_dead, Dead Bubble Coral
+oe:red_coral_dead, Dead Fire Coral
+oe:yellow_coral_dead, Dead Horn Coral
+oe:kelp, Kelp
+oe:dried_kelp_block, Dried Kelp Block
+oe:palm_sapling, Palm Sapling
+oe:palm_leaves, Palm Leaves
+oe:palm_leaves_flowering, Flowering Palm Leaves
+oe:palm_log, Palm Log
+oe:palm_wood, Palm Wood
+oe:palm_log_stripped, Stripped Palm Log
+oe:palm_wood_stripped, Stripped Palm Wood
+oe:palm_planks, Palm Planks
+oe:palm_slab_double, Palm Slab
+oe:palm_stairs, Palm Stairs
+oe:palm_fence, Palm Fence
+oe:palm_fence_gate, Palm Fence Gate
+oe:prismarine_pot, Prismarine Pot
+oe:nacre_block, Nacre Block
+oe:nacre_smooth, Smooth Nacre Block
+oe:blue_slime_block, Tropical Slime Block
+oe:seagrass, Seagrass
+oe:sea_oats, Sea Oats
+oe:seastar, Sea Star
+oe:shell_sand, Shelly Sand
+oe:tube_sponge, Tube Sponge
+oe:underwater_tnt, Underwater TNT
+oe:underwater_torch, Underwater Torch
+oe:turtle_helmet, Turtle Shell
+oe:trident, Trident
+oe:turtle_scute, Scute
+oe:barnacle_shells, Barnacle Shells
+oe:nautilus_shell, Nautilus Shell
+oe:heart_of_the_sea, Heart of the Sea
+oe:pearl, Pearl
+oe:conch, Conch
+oe:magic_conch, Magic Conch
+oe:charm, Conduit Charm
+oe:glow_ink_sac, Glow Ink Sac
+oe:glow_item_frame, Glow Item Frame
+oe:bleak, Bleak Mulch
+oe:sponge_chunk, Sponge Chunk
+oe:sponge_chunk_wet, Damp Sponge Chunk
+oe:crab, Raw Crab
+oe:cooked_crab, Cooked Crab
+oe:crab_bisque, Crab Bisque
+oe:crustacean_shell, Crustacean Shell
+oe:lobster, Raw Lobster
+oe:cooked_lobster, Cooked Lobster
+oe:lobster_bisque, Lobster Bisque
+oe:blue_slime_ball, Tropical Slimeball
+oe:coconut_open, Cracked Coconut
+oe:dried_kelp, Dried Kelp
+oe:dried_dulse, Dried Dulse
+oe:palm_boat, Palm Boat
+oe:spawn_bucket, Bucket of %s
+oe:heavy_boots, Heavy Boots
 sevendaystomine:stick, Varinha
 sevendaystomine:foodpile, Pilha de Comida
 sevendaystomine:scrappile, tile.ScrapPile.name
@@ -6436,9 +6573,6 @@ sevendaystomine:metal_ladder, Escada de Metal
 sevendaystomine:radiator, Radiador
 sevendaystomine:dark_bricks, tile.dark_bricks.name
 sevendaystomine:cinder, Pilha de Tijolos
-sevendaystomine:backpack_normal, tile.backpack_normal.name
-sevendaystomine:backpack_army, tile.backpack_army.name
-sevendaystomine:backpack_medical, tile.backpack_medical.name
 sevendaystomine:chest_old, tile.chest_old.name
 sevendaystomine:television_broken, tile.television_broken.name
 sevendaystomine:shower_head, tile.shower_head.name
@@ -6830,16 +6964,43 @@ srparasites:armor_helm_sentient, §6Elmo Senciente
 srparasites:armor_chest_sentient, §6Peitoral Senciente
 srparasites:armor_pants_sentient, §6Calças Sencientes
 srparasites:armor_boots_sentient, §6Botas Sencientes
+srpextra:itemmobspawner_hijackedcreeper, Spawn Hijacked Creeper
+srpextra:itemmobspawner_hijackedcreeper_head, Spawn Hijacked Creeper Head
+srpextra:itemmobspawner_hijackedskeleton, Spawn Hijacked Skeleton
+srpextra:itemmobspawner_hijackedskeleton_stray, Spawn Hijacked Skeleton Stray
+srpextra:itemmobspawner_hijackedskeleton_head, Spawn Hijacked Skeleton Head
+srpextra:itemmobspawner_stalker, Spawn Stalker
+srpextra:itemmobspawner_assimilatedwitch, Spawn Assimilated Witch
+srpextra:itemmobspawner_assimilatedwitch_head, Spawn Assimilated Witch Head
+srpextra:itemmobspawner_assimilatedvindicator, Spawn Assimilated Vindicator
+srpextra:itemmobspawner_assimilatedvindicator_head, Spawn Assimilated Vindicator Head
+srpextra:itemmobspawner_assimilatedevoker, Spawn Assimilated Evoker
+srpextra:itemmobspawner_assimilatedocelot, Spawn Assimilated Ocelot
+srpextra:itemmobspawner_assimilatedocelot_head, Spawn Assimilated Ocelot Head
+srpextra:itemremains_check, Remains Analyzer
+srpextra:itemremains_spawn, Remains Reviver
+srpextra:itemremains_canister, Remains Canister
+srpextra:itempinfected_startmelting, Start Melting
+srpdeepseadanger:ada_horgo_drop, Hammerhead Skull Piece
+srpdeepseadanger:luring_hook, Luring Hook
+srpdeepseadanger:tool_fishingrod, §eLiving Fishing Rod
+srpdeepseadanger:tool_fishingrod_sentient, §6Sentient Fishing Rod
+srpdeepseadanger:rotted_fish, Rotted Fish
+srpdeepseadanger:rotted_fish_cooked, Cooked Rotted Fish
+srpdeepseadanger:itemmobspawner_infdrowned, Spawn Assimilated Drowned
+srpdeepseadanger:itemmobspawner_infdolphin, Spawn Assimilated Dolphin
+srpdeepseadanger:itemmobspawner_horgo, Spawn Primitive Hammerhead
+srpdeepseadanger:itemmobspawner_horgoadapted, Spawn Adapted Hammerhead
+srpdeepseadanger:itemmobspawner_ryba, Spawn Swimmer
+srpdeepseadanger:itemmobspawner_rekin, Spawn Leecher
 techguns:basicmachine:0, Ammo Press
 techguns:basicmachine:1, Metal Press
 techguns:basicmachine:2, Chemical Laboratory
 techguns:basicmachine:3, Turret
 techguns:simplemachine:8, Camo Bench
-techguns:simplemachine:9, Repair Bench
+techguns:simplemachine:9, Upgrade Bench
 techguns:simplemachine:10, Charging Station
 techguns:simplemachine:11, Blast Furnace
-techguns:simplemachine2:8, Grinder
-techguns:simplemachine2:9, Upgrade Bench
 techguns:multiblockmachine:0, Fabricator Housing
 techguns:multiblockmachine:1, Fabricator Glass
 techguns:multiblockmachine:2, Fabricator Controller

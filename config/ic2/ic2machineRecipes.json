@@ -209,6 +209,14 @@
   "tile.wood.acacia_To_Sticks_-1415700060": true,
   "tile.wood.big_oak_To_Sticks_-1415699099": true,
   "tile.log.jungle_-1814706450": true,
-  "item.melon_-1083706285": true
+  "item.melon_-1083706285": true,
+  "tile.oe.palm_planks_825010504": true,
+  "tile.oe.palm_planks_894245765": true,
+  "tile.oe.palm_planks_1571776384": true,
+  "tile.oe.palm_planks_-412145181": true,
+  "tile.oe.palm_planks_To_Sticks_-2121764484": true,
+  "tile.oe.palm_planks_To_Sticks_-2121764484_1": true,
+  "tile.oe.palm_planks_To_Sticks_-2121764484_2": true,
+  "tile.oe.palm_planks_To_Sticks_-2121764484_3": true
  }
 }
