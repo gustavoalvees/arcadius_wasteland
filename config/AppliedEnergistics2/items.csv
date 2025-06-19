@@ -5992,49 +5992,6 @@ appliedenergistics2:facade:0, Fachada de Cabos - Nacre Block
 appliedenergistics2:facade:0, Fachada de Cabos - Smooth Nacre Block
 appliedenergistics2:facade:0, Fachada de Cabos - Shelly Sand
 appliedenergistics2:facade:0, Fachada de Cabos - Underwater TNT
-appliedenergistics2:facade:0, Fachada de Cabos - Concreto Reforçado
-appliedenergistics2:facade:0, Fachada de Cabos - Asfalto
-appliedenergistics2:facade:0, Fachada de Cabos - Pedra Musgosa Morta
-appliedenergistics2:facade:0, Fachada de Cabos - Blocos de Tijolos Musgosos Mortos
-appliedenergistics2:facade:0, Fachada de Cabos - Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Mármore
-appliedenergistics2:facade:0, Fachada de Cabos - Riolito
-appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Mármore
-appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Riolito
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito
-appliedenergistics2:facade:0, Fachada de Cabos - Basalto Polido
-appliedenergistics2:facade:0, Fachada de Cabos - Mármore Polido
-appliedenergistics2:facade:0, Fachada de Cabos - Riolito Polido
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - tile.dark_bricks.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_oak.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_birch.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_spruce.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_jungle.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_acacia.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.table_big_oak.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.brick_block_mossy.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.dark_bricks_mossy.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.burnt_log.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.dry_ground.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.redstone_lamp_broken.name
 appliedenergistics2:facade:0, Fachada de Cabos - Terra Infestada
 appliedenergistics2:facade:0, Fachada de Cabos - Tora Infestada
 appliedenergistics2:facade:0, Fachada de Cabos - Pedra Infestada
@@ -6082,6 +6039,66 @@ appliedenergistics2:facade:0, Fachada de Cabos - Minério de Ferro Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério de Lapís Lazuli Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério de Redstone Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério Pestilento
+appliedenergistics2:facade:0, Fachada de Cabos - Concreto Reforçado
+appliedenergistics2:facade:0, Fachada de Cabos - Asfalto
+appliedenergistics2:facade:0, Fachada de Cabos - Pedra Musgosa Morta
+appliedenergistics2:facade:0, Fachada de Cabos - Blocos de Tijolos Musgosos Mortos
+appliedenergistics2:facade:0, Fachada de Cabos - Basalto
+appliedenergistics2:facade:0, Fachada de Cabos - Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Riolito
+appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Basalto
+appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Riolito
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito
+appliedenergistics2:facade:0, Fachada de Cabos - Basalto Polido
+appliedenergistics2:facade:0, Fachada de Cabos - Mármore Polido
+appliedenergistics2:facade:0, Fachada de Cabos - Riolito Polido
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - tile.dark_bricks.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_oak.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_birch.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_spruce.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_jungle.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_acacia.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.table_big_oak.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.brick_block_mossy.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.dark_bricks_mossy.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.burnt_log.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.dry_ground.name
+appliedenergistics2:facade:0, Fachada de Cabos - tile.redstone_lamp_broken.name
+appliedenergistics2:facade:0, Fachada de Cabos - §e"Mesa de Trabalho"
+appliedenergistics2:facade:0, Fachada de Cabos - §bDendritus
+appliedenergistics2:facade:0, Fachada de Cabos - §bMesa de Reivindicação
+appliedenergistics2:facade:0, Fachada de Cabos - §aArauto Beckon
+appliedenergistics2:facade:0, Fachada de Cabos - §eLâmpada do Medo
+appliedenergistics2:facade:0, Fachada de Cabos - §eQuitina
+appliedenergistics2:facade:0, Fachada de Cabos - §eCartilagem
+appliedenergistics2:facade:0, Fachada de Cabos - §6Selador de Poço
+appliedenergistics2:facade:0, Fachada de Cabos - §6Recompensa
+appliedenergistics2:facade:0, Fachada de Cabos - §6Tronco Salgado
+appliedenergistics2:facade:0, Fachada de Cabos - §6Gelo Salgado
+appliedenergistics2:facade:0, Fachada de Cabos - §6Terra Salgada
+appliedenergistics2:facade:0, Fachada de Cabos - §6Rocha Salgada
+appliedenergistics2:facade:0, Fachada de Cabos - §6Madeira Salgada
+appliedenergistics2:facade:0, Fachada de Cabos - §6Engate
+appliedenergistics2:facade:0, Fachada de Cabos - §6Purificador de Sal
+appliedenergistics2:facade:0, Fachada de Cabos - §cEstante Apodrecida
 appliedenergistics2:facade:0, Fachada de Cabos - Copper Ore
 appliedenergistics2:facade:0, Fachada de Cabos - Tin Ore
 appliedenergistics2:facade:0, Fachada de Cabos - Lead Ore
@@ -6389,8 +6406,6 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, Livro de Quests
 ftbquests:lootcrate, Caixa de loot
 ftbquests:custom_icon, Custom Icon
-gravestone:gravestone, Grave
-gravestone:death_info, Obituary
 oe:guardian_spike, Guardian Spike
 oe:sea_pickle, Sea Pickle
 oe:turtle_egg, Turtle Egg
@@ -6493,241 +6508,6 @@ oe:dried_dulse, Dried Dulse
 oe:palm_boat, Palm Boat
 oe:spawn_bucket, Bucket of %s
 oe:heavy_boots, Heavy Boots
-sevendaystomine:stick, Varinha
-sevendaystomine:foodpile, Pilha de Comida
-sevendaystomine:scrappile, tile.ScrapPile.name
-sevendaystomine:garbagepile, Pilha de Lixo
-sevendaystomine:goldenrod, Erva de Ouro
-sevendaystomine:coffeeplant, Planta de Café
-sevendaystomine:cornplant, Planta de Milho
-sevendaystomine:blueberryplant, Arbusto de Blueberry
-sevendaystomine:baneberryplant, Arbusto de Baneberry
-sevendaystomine:reinforcedconcrete, Concreto Reforçado
-sevendaystomine:cardboardbox, Caixa de Papelão
-sevendaystomine:cupboard, Armário
-sevendaystomine:asphalt, Asfalto
-sevendaystomine:armchairblack, Poltrona Preta
-sevendaystomine:armchairblue, Poltrona Azul
-sevendaystomine:armchairbrown, Poltrona Marrom
-sevendaystomine:armchairgreen, Poltrona Verde
-sevendaystomine:armchairpink, Poltrona Rosa
-sevendaystomine:armchairred, Poltrona Vermelha
-sevendaystomine:armchairwhite, Poltrona Branca
-sevendaystomine:armchairyellow, Poltrona Amarela
-sevendaystomine:bookshelf, Estante de Carvalho
-sevendaystomine:writingtable:0, Mesa de Escrita
-sevendaystomine:writingtable:8, Mesa de Escrita
-sevendaystomine:medicalcabinet, Armário Médico
-sevendaystomine:fridge:0, Geladeira
-sevendaystomine:fridge:8, Geladeira
-sevendaystomine:mailbox, Caixa de Correio
-sevendaystomine:birdnest, Ninho de Pássaro
-sevendaystomine:trashcan, Lixeira
-sevendaystomine:sleepingbag, tile.SleepingBag.name
-sevendaystomine:sedan_red:0, tile.sedan_red.name
-sevendaystomine:sedan_green:0, tile.sedan_green.name
-sevendaystomine:sedan_blue:0, tile.sedan_blue.name
-sevendaystomine:sedan_yellow:0, tile.sedan_yellow.name
-sevendaystomine:sedan_white:0, tile.sedan_white.name
-sevendaystomine:sedan_black:0, tile.sedan_black.name
-sevendaystomine:deadmossystone, Pedra Musgosa Morta
-sevendaystomine:deadmossybrick, Blocos de Tijolos Musgosos Mortos
-sevendaystomine:basalt, Basalto
-sevendaystomine:marble, Mármore
-sevendaystomine:rhyolite, Riolito
-sevendaystomine:basaltcobblestone, Pedregulho de Basalto
-sevendaystomine:marblecobblestone, Pedregulho de Mármore
-sevendaystomine:rhyolitecobblestone, Pedregulho de Riolito
-sevendaystomine:basaltbricks, Tijolos de Basalto
-sevendaystomine:marblebricks, Tijolos de Mármore
-sevendaystomine:rhyolitebricks, Tijolos de Riolito
-sevendaystomine:basaltpolished, Basalto Polido
-sevendaystomine:marblepolished, Mármore Polido
-sevendaystomine:rhyolitepolished, Riolito Polido
-sevendaystomine:andesitebricks, Tijolos de Andesito
-sevendaystomine:dioritebricks, Tijolos de Diorito
-sevendaystomine:granitebricks, Tijolos de Granito
-sevendaystomine:catwalk, Passarela
-sevendaystomine:catwalk_stairs, Escadas de Passarela
-sevendaystomine:stonebrick_wall:0, Muro de Tijolos de Pedra
-sevendaystomine:stonebrick_wall:1, Muro de Tijolos Musgosos
-sevendaystomine:stonebrick_wall:2, Muro de Tijolos Quebrados
-sevendaystomine:stonebrick_wall:3, Muro de Tijolos Musgosos Mortos
-sevendaystomine:throttle, Comando
-sevendaystomine:basalt_bricks_cracked, Tijolos de Basalto Quebrados
-sevendaystomine:marble_bricks_cracked, Tijolos de Mármore Quebrados
-sevendaystomine:rhyolite_bricks_cracked, Tijolos de Riolito Quebrados
-sevendaystomine:andesite_bricks_cracked, Tijolos de Andesito Quebrados
-sevendaystomine:diorite_bricks_cracked, Tijolos de Diorito Quebrados
-sevendaystomine:granite_bricks_cracked, Tijolos de Granito Quebrados
-sevendaystomine:basalt_bricks_mossy, Tijolos de Basalto Musgosos
-sevendaystomine:marble_bricks_mossy, Tijolos de Mármore Musgosos
-sevendaystomine:rhyolite_bricks_mossy, Tijolos de Riolito Musgosos
-sevendaystomine:andesite_bricks_mossy, Tijolos de Andesito Musgosos
-sevendaystomine:diorite_bricks_mossy, Tijolos de Diorito Musgosos
-sevendaystomine:granite_bricks_mossy, Tijolos de Granito Musgosos
-sevendaystomine:boards, Tábuas
-sevendaystomine:toilet, Vaso Sanitário
-sevendaystomine:sink_faucet, Torneira da Pia
-sevendaystomine:metal_ladder, Escada de Metal
-sevendaystomine:radiator, Radiador
-sevendaystomine:dark_bricks, tile.dark_bricks.name
-sevendaystomine:cinder, Pilha de Tijolos
-sevendaystomine:chest_old, tile.chest_old.name
-sevendaystomine:television_broken, tile.television_broken.name
-sevendaystomine:shower_head, tile.shower_head.name
-sevendaystomine:corpse_00, tile.corpse_00.name
-sevendaystomine:corpse_01, tile.corpse_01.name
-sevendaystomine:skeleton, tile.skeleton.name
-sevendaystomine:skeleton_sitting, tile.skeleton_sitting.name
-sevendaystomine:chair_oak, tile.chair_oak.name
-sevendaystomine:chair_birch, tile.chair_birch.name
-sevendaystomine:chair_spruce, tile.chair_spruce.name
-sevendaystomine:chair_jungle, tile.chair_jungle.name
-sevendaystomine:chair_acacia, tile.chair_acacia.name
-sevendaystomine:chair_big_oak, tile.chair_big_oak.name
-sevendaystomine:table_oak, tile.table_oak.name
-sevendaystomine:table_birch, tile.table_birch.name
-sevendaystomine:table_spruce, tile.table_spruce.name
-sevendaystomine:table_jungle, tile.table_jungle.name
-sevendaystomine:table_acacia, tile.table_acacia.name
-sevendaystomine:table_big_oak, tile.table_big_oak.name
-sevendaystomine:dresser, tile.dresser.name
-sevendaystomine:big_sign, tile.big_sign.name
-sevendaystomine:sofa_black, tile.sofa_black.name
-sevendaystomine:sofa_white, tile.sofa_white.name
-sevendaystomine:sofa_red, tile.sofa_red.name
-sevendaystomine:sofa_green, tile.sofa_green.name
-sevendaystomine:sofa_blue, tile.sofa_blue.name
-sevendaystomine:sofa_brown, tile.sofa_brown.name
-sevendaystomine:sofa_pink, tile.sofa_pink.name
-sevendaystomine:sofa_yellow, tile.sofa_yellow.name
-sevendaystomine:trash_bin, tile.trash_bin.name
-sevendaystomine:large_rock, tile.large_rock.name
-sevendaystomine:wooden_spikes, tile.wooden_spikes.name
-sevendaystomine:wooden_spikes_blooded, tile.wooden_spikes_blooded.name
-sevendaystomine:wooden_spikes_broken, tile.wooden_spikes_broken.name
-sevendaystomine:brick_block_mossy, tile.brick_block_mossy.name
-sevendaystomine:dark_bricks_mossy, tile.dark_bricks_mossy.name
-sevendaystomine:oak_log_spike, tile.oak_log_spike.name
-sevendaystomine:birch_log_spike, tile.birch_log_spike.name
-sevendaystomine:spruce_log_spike, tile.spruce_log_spike.name
-sevendaystomine:jungle_log_spike, tile.jungle_log_spike.name
-sevendaystomine:acacia_log_spike, tile.acacia_log_spike.name
-sevendaystomine:dark_oak_log_spike, tile.dark_oak_log_spike.name
-sevendaystomine:sandbags, tile.sandbags.name
-sevendaystomine:file_cabinet, tile.file_cabinet.name
-sevendaystomine:cash_register, tile.cash_register.name
-sevendaystomine:burnt_log, tile.burnt_log.name
-sevendaystomine:dry_ground, tile.dry_ground.name
-sevendaystomine:burnt_planks_slab:0, tile.burnt_planks_slab.name
-sevendaystomine:burnt_planks_fence, tile.burnt_planks_fence.name
-sevendaystomine:burnt_chair, tile.burnt_chair.name
-sevendaystomine:stone_brick_stairs_mossy, tile.stone_brick_stairs_mossy.name
-sevendaystomine:globe, tile.globe.name
-sevendaystomine:stand, tile.stand.name
-sevendaystomine:landmine, tile.landmine.name
-sevendaystomine:sirene, tile.sirene.name
-sevendaystomine:fake_anvil, tile.fake_anvil.name
-sevendaystomine:redstone_lamp_broken, tile.redstone_lamp_broken.name
-sevendaystomine:calendar, tile.calendar.name
-sevendaystomine:metal_spikes, tile.metal_spikes.name
-sevendaystomine:bookshelf_spruce, Estante de Abeto
-sevendaystomine:bookshelf_birch, Estante de Bétula
-sevendaystomine:bookshelf_jungle, Estante de Jungle
-sevendaystomine:bookshelf_acacia, Estante de Acácia
-sevendaystomine:bookshelf_dark_oak, Estante de Carvalho Escuro
-sevendaystomine:police_car:0, tile.police_car.name
-sevendaystomine:flower_pot_enhanced, tile.flower_pot_enhanced.name
-sevendaystomine:paper, Papel
-sevendaystomine:sand_layer, tile.sand_layer.name
-sevendaystomine:red_sand_layer, tile.red_sand_layer.name
-sevendaystomine:ambulance:0, tile.ambulance.name
-sevendaystomine:dark_bricks_slab:0, tile.dark_bricks_slab.name
-sevendaystomine:dark_bricks_stairs, tile.dark_bricks_stairs.name
-sevendaystomine:dark_bricks_mossy_slab:0, tile.dark_bricks_mossy_slab.name
-sevendaystomine:dark_bricks_mossy_stairs, tile.dark_bricks_mossy_stairs.name
-sevendaystomine:brick_mossy_stairs, tile.brick_mossy_stairs.name
-sevendaystomine:brick_mossy_slab:0, tile.brick_mossy_slab.name
-sevendaystomine:stone_brick_stairs_cracked, tile.stone_brick_stairs_cracked.name
-sevendaystomine:asphalt_slab:0, tile.asphalt_slab.name
-sevendaystomine:armchair_cyan, Poltrona Ciano
-sevendaystomine:armchair_purple, Poltrona Roxa
-sevendaystomine:armchair_orange, Poltrona Laranja
-sevendaystomine:armchair_magenta, Poltrona Magenta
-sevendaystomine:armchair_lime, Poltrona Limão
-sevendaystomine:armchair_light_blue, Poltrona Azul Claro
-sevendaystomine:armchair_silver, Poltrona Prata
-sevendaystomine:armchair_gray, Poltrona Cinza
-sevendaystomine:sofa_cyan, tile.sofa_cyan.name
-sevendaystomine:sofa_purple, tile.sofa_purple.name
-sevendaystomine:sofa_orange, tile.sofa_orange.name
-sevendaystomine:sofa_magenta, tile.sofa_magenta.name
-sevendaystomine:sofa_lime, tile.sofa_lime.name
-sevendaystomine:sofa_light_blue, tile.sofa_light_blue.name
-sevendaystomine:sofa_silver, tile.sofa_silver.name
-sevendaystomine:sofa_gray, tile.sofa_gray.name
-sevendaystomine:emptycan, Lata Vazia
-sevendaystomine:cookinggrill, Churrasqueira
-sevendaystomine:emptyjar, Pote Vazio
-sevendaystomine:bottledmurkywater, Água Turva Engarrafada
-sevendaystomine:bottledwater, Água Engarrafada
-sevendaystomine:bottledbeer, Cerveja
-sevendaystomine:goldenrodtea, Chá de Goldenrod
-sevendaystomine:bottledcoffee, Café Engarrafado
-sevendaystomine:jarofhoney, Pote de Mel
-sevendaystomine:cannedmurkywater, Água Turva enlatada
-sevendaystomine:cannedwater, Água enlatada
-sevendaystomine:cannedcatfood, Lata de Ração para Gato
-sevendaystomine:cannedchicken, Lata de Frango
-sevendaystomine:cannedchili, Lata de Chili
-sevendaystomine:canneddogfood, Lata de Ração para Cachorro
-sevendaystomine:cannedham, Lata de Presunto
-sevendaystomine:cannedlamb, Lata de Carne de Cordeiro
-sevendaystomine:cannedmiso, Lata de Miso
-sevendaystomine:cannedpasta, Lata de Macarrão
-sevendaystomine:cannedpears, Lata de Peras
-sevendaystomine:cannedpeas, Lata de Ervilhas
-sevendaystomine:cannedsalmon, Lata de Salmão
-sevendaystomine:cannedsoup, Lata de Sopa
-sevendaystomine:cannedstock, Lata de Caldo
-sevendaystomine:cannedtuna, Lata de Atum
-sevendaystomine:coffee_beans, Grãos de Café
-sevendaystomine:corn, Milho
-sevendaystomine:blueberry, Mirtilo
-sevendaystomine:baneberry, Mirtilo Branco
-sevendaystomine:coffee_berry, Frutos de Café
-sevendaystomine:cloth, Tecido
-sevendaystomine:fridgeitem, Geladeira
-sevendaystomine:sleepingbagitem:0, Saco de Dormir Branco
-sevendaystomine:sleepingbagitem:1, Saco de Dormir Laranja
-sevendaystomine:sleepingbagitem:2, Saco de Dormir Magenta
-sevendaystomine:sleepingbagitem:3, Saco de Dormir Azul Claro
-sevendaystomine:sleepingbagitem:4, Saco de Dormir Amarelo
-sevendaystomine:sleepingbagitem:5, Saco de Dormir Limão
-sevendaystomine:sleepingbagitem:6, Saco de Dormir Rosa
-sevendaystomine:sleepingbagitem:7, Saco de Dormir Cinza
-sevendaystomine:sleepingbagitem:8, Saco de Dormir Prata
-sevendaystomine:sleepingbagitem:9, Saco de Dormir Ciano
-sevendaystomine:sleepingbagitem:10, Saco de Dormir Roxo
-sevendaystomine:sleepingbagitem:11, Saco de Dormir Azul
-sevendaystomine:sleepingbagitem:12, Saco de Dormir Marrom
-sevendaystomine:sleepingbagitem:13, Saco de Dormir Verde
-sevendaystomine:sleepingbagitem:14, Saco de Dormir Vermelho
-sevendaystomine:sleepingbagitem:15, Saco de Dormir Preto
-sevendaystomine:survival_guide, Guia de Sobrevivência
-sevendaystomine:bloodmoon, item.bloodmoon.name
-sevendaystomine:mre, item.mre.name
-sevendaystomine:vomit, item.vomit.name
-sevendaystomine:soda, item.soda.name
-sevendaystomine:bandage, Atadura
-sevendaystomine:advancedbandage, Atadura Avançada
-sevendaystomine:firstaidkit, Kit de Primeiros Socorros
-sevendaystomine:bloodbag, Saco de Sangue
-sevendaystomine:blooddrawkit, Kit para Retirada de Sangue
-sevendaystomine:bloodbagcontamined, Saco de Sangue Contaminado
-sevendaystomine:antibiotics, Antibióticos
-srparasites:parasiterubble_slabhalf:0, Laje de Osso fortificado
 srparasites:infestedstain, Terra Infestada
 srparasites:infestremain, Residuo Infestado
 srparasites:infestedtrunk, Tora Infestada
@@ -6964,6 +6744,338 @@ srparasites:armor_helm_sentient, §6Elmo Senciente
 srparasites:armor_chest_sentient, §6Peitoral Senciente
 srparasites:armor_pants_sentient, §6Calças Sencientes
 srparasites:armor_boots_sentient, §6Botas Sencientes
+srparasites:parasiterubble_slabhalf:0, Laje de Osso fortificado
+sevendaystomine:stick, Varinha
+sevendaystomine:foodpile, Pilha de Comida
+sevendaystomine:scrappile, tile.ScrapPile.name
+sevendaystomine:garbagepile, Pilha de Lixo
+sevendaystomine:goldenrod, Erva de Ouro
+sevendaystomine:coffeeplant, Planta de Café
+sevendaystomine:cornplant, Planta de Milho
+sevendaystomine:blueberryplant, Arbusto de Blueberry
+sevendaystomine:baneberryplant, Arbusto de Baneberry
+sevendaystomine:reinforcedconcrete, Concreto Reforçado
+sevendaystomine:cardboardbox, Caixa de Papelão
+sevendaystomine:cupboard, Armário
+sevendaystomine:asphalt, Asfalto
+sevendaystomine:armchairblack, Poltrona Preta
+sevendaystomine:armchairblue, Poltrona Azul
+sevendaystomine:armchairbrown, Poltrona Marrom
+sevendaystomine:armchairgreen, Poltrona Verde
+sevendaystomine:armchairpink, Poltrona Rosa
+sevendaystomine:armchairred, Poltrona Vermelha
+sevendaystomine:armchairwhite, Poltrona Branca
+sevendaystomine:armchairyellow, Poltrona Amarela
+sevendaystomine:bookshelf, Estante de Carvalho
+sevendaystomine:writingtable:0, Mesa de Escrita
+sevendaystomine:writingtable:8, Mesa de Escrita
+sevendaystomine:medicalcabinet, Armário Médico
+sevendaystomine:fridge:0, Geladeira
+sevendaystomine:fridge:8, Geladeira
+sevendaystomine:mailbox, Caixa de Correio
+sevendaystomine:birdnest, Ninho de Pássaro
+sevendaystomine:trashcan, Lixeira
+sevendaystomine:sleepingbag, tile.SleepingBag.name
+sevendaystomine:sedan_red:0, tile.sedan_red.name
+sevendaystomine:sedan_green:0, tile.sedan_green.name
+sevendaystomine:sedan_blue:0, tile.sedan_blue.name
+sevendaystomine:sedan_yellow:0, tile.sedan_yellow.name
+sevendaystomine:sedan_white:0, tile.sedan_white.name
+sevendaystomine:sedan_black:0, tile.sedan_black.name
+sevendaystomine:deadmossystone, Pedra Musgosa Morta
+sevendaystomine:deadmossybrick, Blocos de Tijolos Musgosos Mortos
+sevendaystomine:basalt, Basalto
+sevendaystomine:marble, Mármore
+sevendaystomine:rhyolite, Riolito
+sevendaystomine:basaltcobblestone, Pedregulho de Basalto
+sevendaystomine:marblecobblestone, Pedregulho de Mármore
+sevendaystomine:rhyolitecobblestone, Pedregulho de Riolito
+sevendaystomine:basaltbricks, Tijolos de Basalto
+sevendaystomine:marblebricks, Tijolos de Mármore
+sevendaystomine:rhyolitebricks, Tijolos de Riolito
+sevendaystomine:basaltpolished, Basalto Polido
+sevendaystomine:marblepolished, Mármore Polido
+sevendaystomine:rhyolitepolished, Riolito Polido
+sevendaystomine:andesitebricks, Tijolos de Andesito
+sevendaystomine:dioritebricks, Tijolos de Diorito
+sevendaystomine:granitebricks, Tijolos de Granito
+sevendaystomine:catwalk, Passarela
+sevendaystomine:catwalk_stairs, Escadas de Passarela
+sevendaystomine:stonebrick_wall:0, Muro de Tijolos de Pedra
+sevendaystomine:stonebrick_wall:1, Muro de Tijolos Musgosos
+sevendaystomine:stonebrick_wall:2, Muro de Tijolos Quebrados
+sevendaystomine:stonebrick_wall:3, Muro de Tijolos Musgosos Mortos
+sevendaystomine:throttle, Comando
+sevendaystomine:basalt_bricks_cracked, Tijolos de Basalto Quebrados
+sevendaystomine:marble_bricks_cracked, Tijolos de Mármore Quebrados
+sevendaystomine:rhyolite_bricks_cracked, Tijolos de Riolito Quebrados
+sevendaystomine:andesite_bricks_cracked, Tijolos de Andesito Quebrados
+sevendaystomine:diorite_bricks_cracked, Tijolos de Diorito Quebrados
+sevendaystomine:granite_bricks_cracked, Tijolos de Granito Quebrados
+sevendaystomine:basalt_bricks_mossy, Tijolos de Basalto Musgosos
+sevendaystomine:marble_bricks_mossy, Tijolos de Mármore Musgosos
+sevendaystomine:rhyolite_bricks_mossy, Tijolos de Riolito Musgosos
+sevendaystomine:andesite_bricks_mossy, Tijolos de Andesito Musgosos
+sevendaystomine:diorite_bricks_mossy, Tijolos de Diorito Musgosos
+sevendaystomine:granite_bricks_mossy, Tijolos de Granito Musgosos
+sevendaystomine:boards, Tábuas
+sevendaystomine:toilet, Vaso Sanitário
+sevendaystomine:sink_faucet, Torneira da Pia
+sevendaystomine:metal_ladder, Escada de Metal
+sevendaystomine:radiator, Radiador
+sevendaystomine:dark_bricks, tile.dark_bricks.name
+sevendaystomine:cinder, Pilha de Tijolos
+sevendaystomine:chest_old, tile.chest_old.name
+sevendaystomine:television_broken, tile.television_broken.name
+sevendaystomine:shower_head, tile.shower_head.name
+sevendaystomine:corpse_00, tile.corpse_00.name
+sevendaystomine:corpse_01, tile.corpse_01.name
+sevendaystomine:skeleton, tile.skeleton.name
+sevendaystomine:skeleton_sitting, tile.skeleton_sitting.name
+sevendaystomine:chair_oak, tile.chair_oak.name
+sevendaystomine:chair_birch, tile.chair_birch.name
+sevendaystomine:chair_spruce, tile.chair_spruce.name
+sevendaystomine:chair_jungle, tile.chair_jungle.name
+sevendaystomine:chair_acacia, tile.chair_acacia.name
+sevendaystomine:chair_big_oak, tile.chair_big_oak.name
+sevendaystomine:table_oak, tile.table_oak.name
+sevendaystomine:table_birch, tile.table_birch.name
+sevendaystomine:table_spruce, tile.table_spruce.name
+sevendaystomine:table_jungle, tile.table_jungle.name
+sevendaystomine:table_acacia, tile.table_acacia.name
+sevendaystomine:table_big_oak, tile.table_big_oak.name
+sevendaystomine:dresser, tile.dresser.name
+sevendaystomine:big_sign, tile.big_sign.name
+sevendaystomine:sofa_black, tile.sofa_black.name
+sevendaystomine:sofa_white, tile.sofa_white.name
+sevendaystomine:sofa_red, tile.sofa_red.name
+sevendaystomine:sofa_green, tile.sofa_green.name
+sevendaystomine:sofa_blue, tile.sofa_blue.name
+sevendaystomine:sofa_brown, tile.sofa_brown.name
+sevendaystomine:sofa_pink, tile.sofa_pink.name
+sevendaystomine:sofa_yellow, tile.sofa_yellow.name
+sevendaystomine:trash_bin, tile.trash_bin.name
+sevendaystomine:large_rock, tile.large_rock.name
+sevendaystomine:wooden_spikes, tile.wooden_spikes.name
+sevendaystomine:wooden_spikes_blooded, tile.wooden_spikes_blooded.name
+sevendaystomine:wooden_spikes_broken, tile.wooden_spikes_broken.name
+sevendaystomine:brick_block_mossy, tile.brick_block_mossy.name
+sevendaystomine:dark_bricks_mossy, tile.dark_bricks_mossy.name
+sevendaystomine:oak_log_spike, tile.oak_log_spike.name
+sevendaystomine:birch_log_spike, tile.birch_log_spike.name
+sevendaystomine:spruce_log_spike, tile.spruce_log_spike.name
+sevendaystomine:jungle_log_spike, tile.jungle_log_spike.name
+sevendaystomine:acacia_log_spike, tile.acacia_log_spike.name
+sevendaystomine:dark_oak_log_spike, tile.dark_oak_log_spike.name
+sevendaystomine:sandbags, tile.sandbags.name
+sevendaystomine:file_cabinet, tile.file_cabinet.name
+sevendaystomine:cash_register, tile.cash_register.name
+sevendaystomine:burnt_log, tile.burnt_log.name
+sevendaystomine:dry_ground, tile.dry_ground.name
+sevendaystomine:burnt_planks_slab:0, tile.burnt_planks_slab.name
+sevendaystomine:burnt_planks_fence, tile.burnt_planks_fence.name
+sevendaystomine:burnt_chair, tile.burnt_chair.name
+sevendaystomine:stone_brick_stairs_mossy, tile.stone_brick_stairs_mossy.name
+sevendaystomine:globe, tile.globe.name
+sevendaystomine:stand, tile.stand.name
+sevendaystomine:landmine, tile.landmine.name
+sevendaystomine:sirene, tile.sirene.name
+sevendaystomine:fake_anvil, tile.fake_anvil.name
+sevendaystomine:redstone_lamp_broken, tile.redstone_lamp_broken.name
+sevendaystomine:calendar, tile.calendar.name
+sevendaystomine:metal_spikes, tile.metal_spikes.name
+sevendaystomine:bookshelf_spruce, Estante de Abeto
+sevendaystomine:bookshelf_birch, Estante de Bétula
+sevendaystomine:bookshelf_jungle, Estante de Jungle
+sevendaystomine:bookshelf_acacia, Estante de Acácia
+sevendaystomine:bookshelf_dark_oak, Estante de Carvalho Escuro
+sevendaystomine:police_car:0, tile.police_car.name
+sevendaystomine:flower_pot_enhanced, tile.flower_pot_enhanced.name
+sevendaystomine:paper, Papel
+sevendaystomine:sand_layer, tile.sand_layer.name
+sevendaystomine:red_sand_layer, tile.red_sand_layer.name
+sevendaystomine:ambulance:0, tile.ambulance.name
+sevendaystomine:dark_bricks_slab:0, tile.dark_bricks_slab.name
+sevendaystomine:dark_bricks_stairs, tile.dark_bricks_stairs.name
+sevendaystomine:dark_bricks_mossy_slab:0, tile.dark_bricks_mossy_slab.name
+sevendaystomine:dark_bricks_mossy_stairs, tile.dark_bricks_mossy_stairs.name
+sevendaystomine:brick_mossy_stairs, tile.brick_mossy_stairs.name
+sevendaystomine:brick_mossy_slab:0, tile.brick_mossy_slab.name
+sevendaystomine:stone_brick_stairs_cracked, tile.stone_brick_stairs_cracked.name
+sevendaystomine:asphalt_slab:0, tile.asphalt_slab.name
+sevendaystomine:armchair_cyan, Poltrona Ciano
+sevendaystomine:armchair_purple, Poltrona Roxa
+sevendaystomine:armchair_orange, Poltrona Laranja
+sevendaystomine:armchair_magenta, Poltrona Magenta
+sevendaystomine:armchair_lime, Poltrona Limão
+sevendaystomine:armchair_light_blue, Poltrona Azul Claro
+sevendaystomine:armchair_silver, Poltrona Prata
+sevendaystomine:armchair_gray, Poltrona Cinza
+sevendaystomine:sofa_cyan, tile.sofa_cyan.name
+sevendaystomine:sofa_purple, tile.sofa_purple.name
+sevendaystomine:sofa_orange, tile.sofa_orange.name
+sevendaystomine:sofa_magenta, tile.sofa_magenta.name
+sevendaystomine:sofa_lime, tile.sofa_lime.name
+sevendaystomine:sofa_light_blue, tile.sofa_light_blue.name
+sevendaystomine:sofa_silver, tile.sofa_silver.name
+sevendaystomine:sofa_gray, tile.sofa_gray.name
+sevendaystomine:emptycan, Lata Vazia
+sevendaystomine:cookinggrill, Churrasqueira
+sevendaystomine:emptyjar, Pote Vazio
+sevendaystomine:bottledmurkywater, Água Turva Engarrafada
+sevendaystomine:bottledwater, Água Engarrafada
+sevendaystomine:bottledbeer, Cerveja
+sevendaystomine:goldenrodtea, Chá de Goldenrod
+sevendaystomine:bottledcoffee, Café Engarrafado
+sevendaystomine:jarofhoney, Pote de Mel
+sevendaystomine:cannedmurkywater, Água Turva enlatada
+sevendaystomine:cannedwater, Água enlatada
+sevendaystomine:cannedcatfood, Lata de Ração para Gato
+sevendaystomine:cannedchicken, Lata de Frango
+sevendaystomine:cannedchili, Lata de Chili
+sevendaystomine:canneddogfood, Lata de Ração para Cachorro
+sevendaystomine:cannedham, Lata de Presunto
+sevendaystomine:cannedlamb, Lata de Carne de Cordeiro
+sevendaystomine:cannedmiso, Lata de Miso
+sevendaystomine:cannedpasta, Lata de Macarrão
+sevendaystomine:cannedpears, Lata de Peras
+sevendaystomine:cannedpeas, Lata de Ervilhas
+sevendaystomine:cannedsalmon, Lata de Salmão
+sevendaystomine:cannedsoup, Lata de Sopa
+sevendaystomine:cannedstock, Lata de Caldo
+sevendaystomine:cannedtuna, Lata de Atum
+sevendaystomine:coffee_beans, Grãos de Café
+sevendaystomine:corn, Milho
+sevendaystomine:blueberry, Mirtilo
+sevendaystomine:baneberry, Mirtilo Branco
+sevendaystomine:coffee_berry, Frutos de Café
+sevendaystomine:cloth, Tecido
+sevendaystomine:fridgeitem, Geladeira
+sevendaystomine:sleepingbagitem:0, Saco de Dormir Branco
+sevendaystomine:sleepingbagitem:1, Saco de Dormir Laranja
+sevendaystomine:sleepingbagitem:2, Saco de Dormir Magenta
+sevendaystomine:sleepingbagitem:3, Saco de Dormir Azul Claro
+sevendaystomine:sleepingbagitem:4, Saco de Dormir Amarelo
+sevendaystomine:sleepingbagitem:5, Saco de Dormir Limão
+sevendaystomine:sleepingbagitem:6, Saco de Dormir Rosa
+sevendaystomine:sleepingbagitem:7, Saco de Dormir Cinza
+sevendaystomine:sleepingbagitem:8, Saco de Dormir Prata
+sevendaystomine:sleepingbagitem:9, Saco de Dormir Ciano
+sevendaystomine:sleepingbagitem:10, Saco de Dormir Roxo
+sevendaystomine:sleepingbagitem:11, Saco de Dormir Azul
+sevendaystomine:sleepingbagitem:12, Saco de Dormir Marrom
+sevendaystomine:sleepingbagitem:13, Saco de Dormir Verde
+sevendaystomine:sleepingbagitem:14, Saco de Dormir Vermelho
+sevendaystomine:sleepingbagitem:15, Saco de Dormir Preto
+sevendaystomine:survival_guide, Guia de Sobrevivência
+sevendaystomine:bloodmoon, item.bloodmoon.name
+sevendaystomine:mre, item.mre.name
+sevendaystomine:vomit, item.vomit.name
+sevendaystomine:soda, item.soda.name
+sevendaystomine:bandage, Atadura
+sevendaystomine:advancedbandage, Atadura Avançada
+sevendaystomine:firstaidkit, Kit de Primeiros Socorros
+sevendaystomine:bloodbag, Saco de Sangue
+sevendaystomine:blooddrawkit, Kit para Retirada de Sangue
+sevendaystomine:bloodbagcontamined, Saco de Sangue Contaminado
+sevendaystomine:antibiotics, Antibióticos
+srpcotesia:inf_crafting_table, §e"Mesa de Trabalho"
+srpcotesia:dendritus, §bDendritus
+srpcotesia:reclamation_table, §bMesa de Reivindicação
+srpcotesia:beckonh, §aArauto Beckon
+srpcotesia:gloom_torch, §eTocha do Crepúsculo
+srpcotesia:dread_lamp, §eLâmpada do Medo
+srpcotesia:chitin, §eQuitina
+srpcotesia:chitin_stairs, §eEscada de Quitina
+srpcotesia:chitin_slab:0, §eLaje de Quitina
+srpcotesia:cartilage, §eCartilagem
+srpcotesia:well_sealer, §6Selador de Poço
+srpcotesia:bounty, §6Recompensa
+srpcotesia:salted_log, §6Tronco Salgado
+srpcotesia:salted_ice, §6Gelo Salgado
+srpcotesia:salted_earth, §6Terra Salgada
+srpcotesia:salted_earth_stairs, §6Escadas de Terra Salgada
+srpcotesia:salted_earth_slab:0, §6Laje de Terra Salgada
+srpcotesia:salted_rock, §6Rocha Salgada
+srpcotesia:salted_rock_stairs, §6Escadas de Rocha Salgada
+srpcotesia:salted_rock_slab:0, §6Laje de Rocha Salgada
+srpcotesia:salted_wood, §6Madeira Salgada
+srpcotesia:salted_wood_stairs, §6Escadas de Madeira Salgada
+srpcotesia:salted_wood_slab:0, §6Laje de Madeira Salgada
+srpcotesia:salted_vine, §6Videira Salgada
+srpcotesia:salted_tendril, §6Tendril Salgado
+srpcotesia:saltine, §6Salino
+srpcotesia:clutch, §6Engate
+srpcotesia:salt_purifier, §6Purificador de Sal
+srpcotesia:rotted_bookshelf, §cEstante Apodrecida
+srpcotesia:blood_lotus, §cLótus Sangrento
+srpcotesia:hi_enchanting_table, §cMesa de Encantamento Sequestrada
+srpcotesia:osmosis, §bOsmose
+srpcotesia:lithograph, §bLitografia
+srpcotesia:factory, Fábrica
+srpcotesia:dirty_needle, §4Agulha Suja
+srpcotesia:brew_sac, Saco de Poção
+srpcotesia:mortifying_tentacle, §2Tentáculo Mortificante
+srpcotesia:factory_drop, §eEntranhas da Fábrica
+srpcotesia:bloodstained_saddle, §bSela Ensanguentada
+srpcotesia:nidus_accumulator, §cAcumulador de Nidus
+srpcotesia:macabre_pearl, §bPérola Macabra
+srpcotesia:scorned_pearl, §cPérola Desprezada
+srpcotesia:putrid_unit, §cUnidade Pútrida
+srpcotesia:bogle_charge, §2Carga Bogle
+srpcotesia:virulent_breath, §aSopro Virulento
+srpcotesia:scalpel, §eBisturi Vivo
+srpcotesia:tool_pickaxe, §ePicareta Viva
+srpcotesia:tool_pickaxe_sentient, §6Picareta Senciente
+srpcotesia:icon, item.srpcotesia.icon.name
+srpcotesia:itemenhance, §6Varinha de Aprimoramento
+srpcotesia:booster_si, §6Impulsor de Fase
+srpcotesia:booster_sii, §6Impulsor de Fase Contido
+srpcotesia:booster_siii, §6Impulsor de Fase Não Contido
+srpcotesia:booster_siv, §6Impulsor de Fase Muito Não Contido
+srpcotesia:trojan_note, Nota Confiável
+srpcotesia:faustian_note, Nota Faustiana
+srpcotesia:well_divining_rod, §6Varinha de Adivinhação de Poço
+srpcotesia:well_magnet, §6Ímã de Poço
+srpcotesia:signal_jammer, §6Bloqueador de Sinal
+srpcotesia:remnant, Remanescente
+srpcotesia:chip_fragment, §6Fragmento de Chip
+srpcotesia:callous_chip, §6Chip Insensível
+srpcotesia:vagrant_divining_rod, §cBengala Divinatória Vagante
+srpcotesia:masticator, §aO Mastigador
+srpcotesia:consecrator, §4O CONSAGRADOR
+srpcotesia:fetid_canister, §a“Canister” Fetido
+srpcotesia:moldered_segments, §eSegmentos Apodrecidos
+srpcotesia:pristine_matter, §aMatéria Prístina
+srpcotesia:pact, §aO Pacto
+srpcotesia:pact_resolute, §aO Pacto §c(Resoluto)
+srpcotesia:scent_gland, §aGlândula de Cheiro
+srpcotesia:ghastly_bandage, §cCurativo Fantasmagórico
+srpcotesia:itemdismiss, §aVarinha de Descarte
+srpcotesia:electroreceptor, §eEletroreceptor
+srpcotesia:blighted_mirror, §aEspelho Corrompido
+srpcotesia:natures_mockery, §cZombaria da Natureza
+srpcotesia:ruinous_salt, §6Sal Ruinoso
+srpcotesia:frayed_wires, §6Fios Desgastados
+srpcotesia:icon_dead, item.srpcotesia.icon_dead.name
+srpcotesia:salt_compass, §6Bússola de Sal
+srpcotesia:tally_counter, §6Contador de Pontos
+srpcotesia:emf_reader, §6Leitor EMF
+srpcotesia:icon_guandao, item.srpcotesia.icon_guandao.name
+srpcotesia:vigilante_kneecap, §eJoelheira Vigilante
+srpcotesia:mirewood_stick, §7Cajado de Mirewood
+srpcotesia:mirewood_pole, §7Haste de Mirewood
+srpcotesia:srpcotesia_guandao_marrow, §4Guandao de Medula
+srpcotesia:marrow_chunk, §4Fragmento de Medula
+srpcotesia:srpcotesia_guandao_sparse_chitin, §7Guandao de Quitina Rala
+srpcotesia:sparse_chitin, §7Quitina Escassa
+srpcotesia:srpcotesia_guandao_malformed_bone, §cGuandao de Osso Deformado
+srpcotesia:malformed_bone, §cOsso Deformado
+srpcotesia:srpcotesia_guandao_reformed_bone, §6Guandao de Osso Reformado
+srpcotesia:reformed_bone, §6Osso Reformado
+srpcotesia:srpcotesia_guandao_vigilant_bone, §eGuandao de Osso Vigilante
+srpcotesia:vigilant_bone, §eOsso Vigilante
+srpcotesia:bleeding_tome, §aTomos Sangrento
 srpextra:itemmobspawner_hijackedcreeper, Spawn Hijacked Creeper
 srpextra:itemmobspawner_hijackedcreeper_head, Spawn Hijacked Creeper Head
 srpextra:itemmobspawner_hijackedskeleton, Spawn Hijacked Skeleton
@@ -7541,13 +7653,3 @@ buildcraftfactory:heat_exchange, Heat Exchanger
 buildcraftfactory:water_gel_spawn, Water Gelifier
 buildcraftfactory:gel, Gelled Water
 buildcraftrobotics:zone_planner, Zone Planner
-music:rockin_robin, Rockin' Robin
-music:maybe_1940, Maybe 1 9 4 0
-music:when_the_cactus_is_inbloom, When The Cactus Is In Bloom 1932
-music:karl_casey_hackers, Hackers
-music:impala, Impala
-music:new_dawn, New Dawn
-music:apocalypse_blues, Apocalypse Blues
-music:is_it_too_late, Is It Too Late
-music:post_apocalyptic_sound_track, Post Apocalyptic Sound Track
-music:nuclear_winter, Nuclear Winter
