@@ -10,64 +10,53 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do código
-      uses: actions/checkout@v3
+      - name: Checkout do código
+        uses: actions/checkout@v3
 
-    - name: Obter última release
-      id: get_release
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const releases = await github.rest.repos.listReleases({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-          });
+      - name: Excluir release/tag 'desktop' se já existir
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const tag = 'desktop';
+            const { owner, repo } = context.repo;
 
-          const latest = releases.data.find(r => /^0\.11\.\d+(A)?$/.test(r.tag_name));
-          if (latest) {
-            core.setOutput("latest", latest.tag_name);
-          } else {
-            core.setOutput("latest", "0.11.0A");
-          }
+            // Tentar excluir release associada à tag 'desktop'
+            try {
+              const release = await github.rest.repos.getReleaseByTag({ owner, repo, tag });
+              await github.rest.repos.deleteRelease({ owner, repo, release_id: release.data.id });
+              console.log(`Release '${tag}' excluída.`);
+            } catch (err) {
+              console.log(`Nenhuma release '${tag}' para excluir ou erro:`, err.message);
+            }
 
-    - name: Calcular nova versão
-      id: version
-      run: |
-        LATEST="${{ steps.get_release.outputs.latest }}"
-        BASE="0.11."
+            // Tentar excluir a tag 'desktop'
+            try {
+              await github.rest.git.deleteRef({ owner, repo, ref: 'tags/' + tag });
+              console.log(`Tag '${tag}' excluída.`);
+            } catch (err) {
+              console.log(`Nenhuma tag '${tag}' para excluir ou erro:`, err.message);
+            }
 
-        if [[ "$LATEST" == *A ]]; then
-          NEXT="${BASE}1"
-        else
-          NUM=${LATEST##$BASE}
-          NEXT="${BASE}$((NUM + 1))"
-        fi
+      - name: Configurar git e criar nova tag 'desktop'
+        env:
+          TOKEN: ${{ secrets.TES }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git fetch --tags
+          git tag desktop
+          git push origin desktop
 
-        echo "next_version=$NEXT" >> $GITHUB_OUTPUT
+      - name: Criar arquivo ZIP do projeto
+        run: |
+          zip -r projeto.zip . -x '*.git*' '*.github*'
 
-    - name: Configurar e enviar nova tag
-      env:
-        TOKEN: ${{ secrets.TES }}
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-
-        # Reposiciona o remote para usar o token TES
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-
-        git fetch --tags
-        git tag ${{ steps.version.outputs.next_version }}
-        git push origin ${{ steps.version.outputs.next_version }}
-
-    - name: Criar arquivo ZIP do projeto
-      run: |
-        zip -r projeto.zip . -x '*.git*' '*.github*'
-
-    - name: Criar Release com ZIP Y
-      uses: softprops/action-gh-release@v1
-      with:
-        name: Release ${{ steps.version.outputs.next_version }}
-        tag_name: ${{ steps.version.outputs.next_version }}
-        files: projeto.zip
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Criar nova release 'Desktop'
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Desktop
+          tag_name: desktop
+          files: projeto.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
