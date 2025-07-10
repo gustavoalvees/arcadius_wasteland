@@ -643,6 +643,16 @@ minecraft:record_strad, Disco de música
 minecraft:record_ward, Disco de música
 minecraft:record_11, Disco de música
 minecraft:record_wait, Disco de música
+cavesrevamp:sandy_stone, Desert Stone
+cavesrevamp:frozen_stone, Frozen Stone
+cavesrevamp:dead_roots, Dead Roots
+cavesrevamp:wild_roots, Wild Roots
+cavesrevamp:quicksand, Quicksand
+cavesrevamp:treasure_pot, Treasure Pot
+cavesrevamp:icebloom, Icebloom
+cavesrevamp:lumenbud, Wild Lumenbud
+cavesrevamp:treasure_scanner, Treasure Scanner
+cavesrevamp:broken_scanner, Broken Treasure Scanner
 ic2:blockrubsapling, Rubber Tree Sapling
 ic2:blockrubwood:0, Rubber Wood
 ic2:leaves, Folhas
@@ -1192,8 +1202,8 @@ ic2:itemarmorhazmathelmet, Scuba Helmet
 ic2:bronzeshield, Bronze Shield
 ic2:platedshield, Plated Shield
 ic2:nanoshield, Nano Shield
-ic2:itemarmorcfpack, CF Backpack
-ic2:itemarmorjetpack, Jetpack
+ic2:itemarmorcfpack, item.null.name
+ic2:itemarmorjetpack, item.null.name
 ic2:itemstaticboots, Static Boots
 ic2:itemnightvisiongoggles, Nightvision Goggles
 ic2:itemsolarhelmets:0, Solar Helmet
@@ -1273,6 +1283,332 @@ ic2:iteminactivefuelcell, Inactive Fuel Cell
 ic2:itemnouse:0, No Use
 ic2:tile.water, Água
 ic2:tile.lava, Lava
+gravisuit:advancedelectricjetpack, Advanced Electric Jetpack
+gravisuit:advancednuclearjetpack, Advanced Nuclear Jetpack
+gravisuit:advancednanochestplate, Advanced Nano Chestplate
+gravisuit:advancednuclearnanochestplate, Advanced Nuclear Nano Chestplate
+gravisuit:gravisuit, Gravitation Chestplate
+gravisuit:nucleargravisuit, Nuclear Gravitation Chestplate
+gravisuit:advancedlappack, Advanced Lappack
+gravisuit:ultimatelappack, Ultimate Lappack
+gravisuit:gravitool:0, Gravitool
+gravisuit:gravitool:0, Gravitool
+gravisuit:advanceddrill, Advanced Diamond Drill
+gravisuit:advancedchainsaw, Advanced Chainsaw
+gravisuit:vajra, Vajra
+gravisuit:superconductorcover, Super Conductor Cover
+gravisuit:superconductor, Super Conductor
+gravisuit:coolingcore, Cooling Core
+gravisuit:gravitationengine, Gravitation Engine
+gravisuit:magnetron, Magnetron
+gravisuit:vajracore, Vajra Core
+gravisuit:engineboost, Engine Booster
+gravisuit:relocator, Relocator
+adchimneys:bedrock:0, Bedrock Chimney
+adchimneys:bedrock:1, Bedrock Vent
+adchimneys:bedrock:2, Bedrock Pump
+adchimneys:bone_block_side:0, Bone Chimney
+adchimneys:bone_block_side:1, Bone Vent
+adchimneys:bone_block_side:2, Bone Pump
+adchimneys:brick:0, Brick Chimney
+adchimneys:brick:1, Brick Vent
+adchimneys:brick:2, Brick Pump
+adchimneys:clay:0, Clay Chimney
+adchimneys:clay:1, Clay Vent
+adchimneys:clay:2, Clay Pump
+adchimneys:coal_block:0, Coal Chimney
+adchimneys:coal_block:1, Coal Vent
+adchimneys:coal_block:2, Coal Pump
+adchimneys:coarse_dirt:0, Coarse Dirt Chimney
+adchimneys:coarse_dirt:1, Coarse Dirt Vent
+adchimneys:coarse_dirt:2, Coarse Dirt Pump
+adchimneys:cobblestone:0, Cobblestone Chimney
+adchimneys:cobblestone:1, Cobblestone Vent
+adchimneys:cobblestone:2, Cobblestone Pump
+adchimneys:cobblestone_mossy:0, Mossy Cobblestone Chimney
+adchimneys:cobblestone_mossy:1, Mossy Cobblestone Vent
+adchimneys:cobblestone_mossy:2, Mossy Cobblestone Pump
+adchimneys:concrete_black:0, Black Concrete Chimney
+adchimneys:concrete_black:1, Black Concrete Vent
+adchimneys:concrete_black:2, Black Concrete Pump
+adchimneys:concrete_blue:0, Blue Concrete Chimney
+adchimneys:concrete_blue:1, Blue Concrete Vent
+adchimneys:concrete_blue:2, Blue Concrete Pump
+adchimneys:concrete_brown:0, Brown Concrete Chimney
+adchimneys:concrete_brown:1, Brown Concrete Vent
+adchimneys:concrete_brown:2, Brown Concrete Pump
+adchimneys:concrete_cyan:0, Cyan Concrete Chimney
+adchimneys:concrete_cyan:1, Cyan Concrete Vent
+adchimneys:concrete_cyan:2, Cyan Concrete Pump
+adchimneys:concrete_gray:0, Gray Concrete Chimney
+adchimneys:concrete_gray:1, Gray Concrete Vent
+adchimneys:concrete_gray:2, Gray Concrete Pump
+adchimneys:concrete_green:0, Green Concrete Chimney
+adchimneys:concrete_green:1, Green Concrete Vent
+adchimneys:concrete_green:2, Green Concrete Pump
+adchimneys:concrete_light_blue:0, Light Blue Concrete Chimney
+adchimneys:concrete_light_blue:1, Light Blue Concrete Vent
+adchimneys:concrete_light_blue:2, Light Blue Concrete Pump
+adchimneys:concrete_lime:0, Lime Concrete Chimney
+adchimneys:concrete_lime:1, Lime Concrete Vent
+adchimneys:concrete_lime:2, Lime Concrete Pump
+adchimneys:concrete_magenta:0, Magenta Concrete Chimney
+adchimneys:concrete_magenta:1, Magenta Concrete Vent
+adchimneys:concrete_magenta:2, Magenta Concrete Pump
+adchimneys:concrete_orange:0, Orange Concrete Chimney
+adchimneys:concrete_orange:1, Orange Concrete Vent
+adchimneys:concrete_orange:2, Orange Concrete Pump
+adchimneys:concrete_pink:0, Pink Concrete Chimney
+adchimneys:concrete_pink:1, Pink Concrete Vent
+adchimneys:concrete_pink:2, Pink Concrete Pump
+adchimneys:concrete_purple:0, Purple Concrete Chimney
+adchimneys:concrete_purple:1, Purple Concrete Vent
+adchimneys:concrete_purple:2, Purple Concrete Pump
+adchimneys:concrete_red:0, Red Concrete Chimney
+adchimneys:concrete_red:1, Red Concrete Vent
+adchimneys:concrete_red:2, Red Concrete Pump
+adchimneys:concrete_silver:0, Light Gray Concrete Chimney
+adchimneys:concrete_silver:1, Light Gray Concrete Vent
+adchimneys:concrete_silver:2, Light Gray Concrete Pump
+adchimneys:concrete_white:0, White Concrete Chimney
+adchimneys:concrete_white:1, White Concrete Vent
+adchimneys:concrete_white:2, White Concrete Pump
+adchimneys:concrete_yellow:0, Yellow Concrete Chimney
+adchimneys:concrete_yellow:1, Yellow Concrete Vent
+adchimneys:concrete_yellow:2, Yellow Concrete Pump
+adchimneys:diamond_block:0, Diamond Chimney
+adchimneys:diamond_block:1, Diamond Vent
+adchimneys:diamond_block:2, Diamond Pump
+adchimneys:dirt:0, Dirt Chimney
+adchimneys:dirt:1, Dirt Vent
+adchimneys:dirt:2, Dirt Pump
+adchimneys:emerald_block:0, Emerald Chimney
+adchimneys:emerald_block:1, Emerald Vent
+adchimneys:emerald_block:2, Emerald Pump
+adchimneys:end_bricks:0, Endstone Brick Chimney
+adchimneys:end_bricks:1, Endstone Brick Vent
+adchimneys:end_bricks:2, Endstone Brick Pump
+adchimneys:end_stone:0, Endstone Chimney
+adchimneys:end_stone:1, Endstone Vent
+adchimneys:end_stone:2, Endstone Pump
+adchimneys:glass:0, Glass Chimney
+adchimneys:glass_black:0, Black Glass Chimney
+adchimneys:glass_blue:0, Blue Glass Chimney
+adchimneys:glass_brown:0, Brown Glass Chimney
+adchimneys:glass_cyan:0, Cyan Glass Chimney
+adchimneys:glass_gray:0, Gray Glass Chimney
+adchimneys:glass_green:0, Green Glass Chimney
+adchimneys:glass_light_blue:0, Light Blue Glass Chimney
+adchimneys:glass_lime:0, Lime Glass Chimney
+adchimneys:glass_magenta:0, Magenta Glass Chimney
+adchimneys:glass_orange:0, Orange Glass Chimney
+adchimneys:glass_pink:0, Pink Glass Chimney
+adchimneys:glass_purple:0, Purple Glass Chimney
+adchimneys:glass_red:0, Red Glass Chimney
+adchimneys:glass_silver:0, Light Gray Glass Chimney
+adchimneys:glass_white:0, White Glass Chimney
+adchimneys:glass_yellow:0, Yellow Glass Chimney
+adchimneys:glazed_terracotta_black:0, Black Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_black:1, Black Glazed Terracotta Vent
+adchimneys:glazed_terracotta_black:2, Black Glazed Terracotta Pump
+adchimneys:glazed_terracotta_blue:0, Blue Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_blue:1, Blue Glazed Terracotta Vent
+adchimneys:glazed_terracotta_blue:2, Blue Glazed Terracotta Pump
+adchimneys:glazed_terracotta_brown:0, Brown Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_brown:1, Brown Glazed Terracotta Vent
+adchimneys:glazed_terracotta_brown:2, Brown Glazed Terracotta Pump
+adchimneys:glazed_terracotta_cyan:0, Cyan Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_cyan:1, Cyan Glazed Terracotta Vent
+adchimneys:glazed_terracotta_cyan:2, Cyan Glazed Terracotta Pump
+adchimneys:glazed_terracotta_gray:0, Gray Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_gray:1, Gray Glazed Terracotta Vent
+adchimneys:glazed_terracotta_gray:2, Gray Glazed Terracotta Pump
+adchimneys:glazed_terracotta_green:0, Green Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_green:1, Green Glazed Terracotta Vent
+adchimneys:glazed_terracotta_green:2, Green Glazed Terracotta Pump
+adchimneys:glazed_terracotta_light_blue:0, Light Blue Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_light_blue:1, Light Blue Glazed Terracotta Vent
+adchimneys:glazed_terracotta_light_blue:2, Light Blue Glazed Terracotta Pump
+adchimneys:glazed_terracotta_lime:0, Lime Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_lime:1, Lime Glazed Terracotta Vent
+adchimneys:glazed_terracotta_lime:2, Lime Glazed Terracotta Pump
+adchimneys:glazed_terracotta_magenta:0, Magenta Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_magenta:1, Magenta Glazed Terracotta Vent
+adchimneys:glazed_terracotta_magenta:2, Magenta Glazed Terracotta Pump
+adchimneys:glazed_terracotta_orange:0, Orange Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_orange:1, Orange Glazed Terracotta Vent
+adchimneys:glazed_terracotta_orange:2, Orange Glazed Terracotta Pump
+adchimneys:glazed_terracotta_pink:0, Pink Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_pink:1, Pink Glazed Terracotta Vent
+adchimneys:glazed_terracotta_pink:2, Pink Glazed Terracotta Pump
+adchimneys:glazed_terracotta_purple:0, Purple Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_purple:1, Purple Glazed Terracotta Vent
+adchimneys:glazed_terracotta_purple:2, Purple Glazed Terracotta Pump
+adchimneys:glazed_terracotta_red:0, Red Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_red:1, Red Glazed Terracotta Vent
+adchimneys:glazed_terracotta_red:2, Red Glazed Terracotta Pump
+adchimneys:glazed_terracotta_silver:0, Light Gray Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_silver:1, Light Gray Glazed Terracotta Vent
+adchimneys:glazed_terracotta_silver:2, Light Gray Glazed Terracotta Pump
+adchimneys:glazed_terracotta_white:0, White Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_white:1, White Glazed Terracotta Vent
+adchimneys:glazed_terracotta_white:2, White Glazed Terracotta Pump
+adchimneys:glazed_terracotta_yellow:0, Yellow Glazed Terracotta Chimney
+adchimneys:glazed_terracotta_yellow:1, Yellow Glazed Terracotta Vent
+adchimneys:glazed_terracotta_yellow:2, Yellow Glazed Terracotta Pump
+adchimneys:glowstone:0, Glowstone Chimney
+adchimneys:gold_block:0, Gold Chimney
+adchimneys:gold_block:1, Gold Vent
+adchimneys:gold_block:2, Gold Pump
+adchimneys:hardened_clay:0, Terracotta Chimney
+adchimneys:hardened_clay:1, Terracotta Vent
+adchimneys:hardened_clay:2, Terracotta Pump
+adchimneys:hardened_clay_stained_black:0, Black Terracotta Chimney
+adchimneys:hardened_clay_stained_black:1, Black Terracotta Vent
+adchimneys:hardened_clay_stained_black:2, Black Terracotta Pump
+adchimneys:hardened_clay_stained_blue:0, Blue Terracotta Chimney
+adchimneys:hardened_clay_stained_blue:1, Blue Terracotta Vent
+adchimneys:hardened_clay_stained_blue:2, Blue Terracotta Pump
+adchimneys:hardened_clay_stained_brown:0, Brown Terracotta Chimney
+adchimneys:hardened_clay_stained_brown:1, Brown Terracotta Vent
+adchimneys:hardened_clay_stained_brown:2, Brown Terracotta Pump
+adchimneys:hardened_clay_stained_cyan:0, Cyan Terracotta Chimney
+adchimneys:hardened_clay_stained_cyan:1, Cyan Terracotta Vent
+adchimneys:hardened_clay_stained_cyan:2, Cyan Terracotta Pump
+adchimneys:hardened_clay_stained_gray:0, Gray Terracotta Chimney
+adchimneys:hardened_clay_stained_gray:1, Gray Terracotta Vent
+adchimneys:hardened_clay_stained_gray:2, Gray Terracotta Pump
+adchimneys:hardened_clay_stained_green:0, Green Terracotta Chimney
+adchimneys:hardened_clay_stained_green:1, Green Terracotta Vent
+adchimneys:hardened_clay_stained_green:2, Green Terracotta Pump
+adchimneys:hardened_clay_stained_light_blue:0, Light Blue Terracotta Chimney
+adchimneys:hardened_clay_stained_light_blue:1, Light Blue Terracotta Vent
+adchimneys:hardened_clay_stained_light_blue:2, Light Blue Terracotta Pump
+adchimneys:hardened_clay_stained_lime:0, Lime Terracotta Chimney
+adchimneys:hardened_clay_stained_lime:1, Lime Terracotta Vent
+adchimneys:hardened_clay_stained_lime:2, Lime Terracotta Pump
+adchimneys:hardened_clay_stained_magenta:0, Magenta Terracotta Chimney
+adchimneys:hardened_clay_stained_magenta:1, Magenta Terracotta Vent
+adchimneys:hardened_clay_stained_magenta:2, Magenta Terracotta Pump
+adchimneys:hardened_clay_stained_orange:0, Orange Terracotta Chimney
+adchimneys:hardened_clay_stained_orange:1, Orange Terracotta Vent
+adchimneys:hardened_clay_stained_orange:2, Orange Terracotta Pump
+adchimneys:hardened_clay_stained_pink:0, Pink Terracotta Chimney
+adchimneys:hardened_clay_stained_pink:1, Pink Terracotta Vent
+adchimneys:hardened_clay_stained_pink:2, Pink Terracotta Pump
+adchimneys:hardened_clay_stained_purple:0, Purple Terracotta Chimney
+adchimneys:hardened_clay_stained_purple:1, Purple Terracotta Vent
+adchimneys:hardened_clay_stained_purple:2, Purple Terracotta Pump
+adchimneys:hardened_clay_stained_red:0, Red Terracotta Chimney
+adchimneys:hardened_clay_stained_red:1, Red Terracotta Vent
+adchimneys:hardened_clay_stained_red:2, Red Terracotta Pump
+adchimneys:hardened_clay_stained_silver:0, Light Gray Terracotta Chimney
+adchimneys:hardened_clay_stained_silver:1, Light Gray Terracotta Vent
+adchimneys:hardened_clay_stained_silver:2, Light Gray Terracotta Pump
+adchimneys:hardened_clay_stained_white:0, White Terracotta Chimney
+adchimneys:hardened_clay_stained_white:1, White Terracotta Vent
+adchimneys:hardened_clay_stained_white:2, White Terracotta Pump
+adchimneys:hardened_clay_stained_yellow:0, Yellow Terracotta Chimney
+adchimneys:hardened_clay_stained_yellow:1, Yellow Terracotta Vent
+adchimneys:hardened_clay_stained_yellow:2, Yellow Terracotta Pump
+adchimneys:iron_block:0, Iron Chimney
+adchimneys:iron_block:1, Iron Vent
+adchimneys:iron_block:2, Iron Pump
+adchimneys:lapis_block:0, Lapis Lazuli Chimney
+adchimneys:lapis_block:1, Lapis Lazuli Vent
+adchimneys:lapis_block:2, Lapis Lazuli Pump
+adchimneys:magma:0, Magma Chimney
+adchimneys:magma:1, Magma Vent
+adchimneys:magma:2, Magma Pump
+adchimneys:nether_brick:0, Nether Brick Chimney
+adchimneys:nether_brick:1, Nether Brick Vent
+adchimneys:nether_brick:2, Nether Brick Pump
+adchimneys:nether_wart_block:0, Nether Wart Chimney
+adchimneys:nether_wart_block:1, Nether Wart Vent
+adchimneys:nether_wart_block:2, Nether Wart Pump
+adchimneys:netherrack:0, Netherrack Chimney
+adchimneys:netherrack:1, Netherrack Vent
+adchimneys:netherrack:2, Netherrack Pump
+adchimneys:obsidian:0, Obsidian Chimney
+adchimneys:obsidian:1, Obsidian Vent
+adchimneys:obsidian:2, Obsidian Pump
+adchimneys:prismarine_rough:0, Prismarine Chimney
+adchimneys:prismarine_rough:1, Prismarine Vent
+adchimneys:prismarine_rough:2, Prismarine Pump
+adchimneys:prismarine_bricks:0, Prismarine Brick Chimney
+adchimneys:prismarine_bricks:1, Prismarine Brick Vent
+adchimneys:prismarine_bricks:2, Prismarine Brick Pump
+adchimneys:prismarine_dark:0, Dark Prismarine Chimney
+adchimneys:prismarine_dark:1, Dark Prismarine Vent
+adchimneys:prismarine_dark:2, Dark Prismarine Pump
+adchimneys:purpur_block:0, Purpur Chimney
+adchimneys:purpur_block:1, Purpur Vent
+adchimneys:purpur_block:2, Purpur Pump
+adchimneys:quartz_block_chiseled:0, Chiseled Quartz Chimney
+adchimneys:quartz_block_chiseled:1, Chiseled Quartz Vent
+adchimneys:quartz_block_chiseled:2, Chiseled Quartz Pump
+adchimneys:quartz_block_lines:0, Pillar Quartz Chimney
+adchimneys:quartz_block_lines:1, Pillar Quartz Vent
+adchimneys:quartz_block_lines:2, Pillar Quartz Pump
+adchimneys:quartz_block_side:0, Quartz Chimney
+adchimneys:quartz_block_side:1, Quartz Vent
+adchimneys:quartz_block_side:2, Quartz Pump
+adchimneys:red_nether_brick:0, Red Nether Brick Chimney
+adchimneys:red_nether_brick:1, Red Nether Brick Vent
+adchimneys:red_nether_brick:2, Red Nether Brick Pump
+adchimneys:red_sandstone_carved:0, Chiseled Red Sandstone Chimney
+adchimneys:red_sandstone_carved:1, Chiseled Red Sandstone Vent
+adchimneys:red_sandstone_carved:2, Chiseled Red Sandstone Pump
+adchimneys:red_sandstone_normal:0, Red Sandstone Chimney
+adchimneys:red_sandstone_normal:1, Red Sandstone Vent
+adchimneys:red_sandstone_normal:2, Red Sandstone Pump
+adchimneys:red_sandstone_smooth:0, Smooth Red Sandstone Chimney
+adchimneys:red_sandstone_smooth:1, Smooth Red Sandstone Vent
+adchimneys:red_sandstone_smooth:2, Smooth Red Sandstone Pump
+adchimneys:sandstone_carved:0, Chiseled Sandstone Chimney
+adchimneys:sandstone_carved:1, Chiseled Sandstone Vent
+adchimneys:sandstone_carved:2, Chiseled Sandstone Pump
+adchimneys:sandstone_normal:0, Sandstone Chimney
+adchimneys:sandstone_normal:1, Sandstone Vent
+adchimneys:sandstone_normal:2, Sandstone Pump
+adchimneys:sandstone_smooth:0, Smooth Sandstone Chimney
+adchimneys:sandstone_smooth:1, Smooth Sandstone Vent
+adchimneys:sandstone_smooth:2, Smooth Sandstone Pump
+adchimneys:sea_lantern:0, Sea Lantern Chimney
+adchimneys:soul_sand:0, Soul Sand Chimney
+adchimneys:soul_sand:1, Soul Sand Vent
+adchimneys:soul_sand:2, Soul Sand Pump
+adchimneys:stone:0, Stone Chimney
+adchimneys:stone:1, Stone Vent
+adchimneys:stone:2, Stone Pump
+adchimneys:stone_andesite:0, Andesite Chimney
+adchimneys:stone_andesite:1, Andesite Vent
+adchimneys:stone_andesite:2, Andesite Pump
+adchimneys:stone_andesite_smooth:0, Polished Andesite Chimney
+adchimneys:stone_andesite_smooth:1, Polished Andesite Vent
+adchimneys:stone_andesite_smooth:2, Polished Andesite Pump
+adchimneys:stone_diorite:0, Diorite Chimney
+adchimneys:stone_diorite:1, Diorite Vent
+adchimneys:stone_diorite:2, Diorite Pump
+adchimneys:stone_diorite_smooth:0, Polished Diorite Chimney
+adchimneys:stone_diorite_smooth:1, Polished Diorite Vent
+adchimneys:stone_diorite_smooth:2, Polished Diorite Pump
+adchimneys:stone_granite:0, Granite Chimney
+adchimneys:stone_granite:1, Granite Vent
+adchimneys:stone_granite:2, Granite Pump
+adchimneys:stone_granite_smooth:0, Polished Granite Chimney
+adchimneys:stone_granite_smooth:1, Polished Granite Vent
+adchimneys:stone_granite_smooth:2, Polished Granite Pump
+adchimneys:stonebrick:0, Stone Brick Chimney
+adchimneys:stonebrick:1, Stone Brick Vent
+adchimneys:stonebrick:2, Stone Brick Pump
+adchimneys:stonebrick_mossy:0, Mossy Stone Brick Chimney
+adchimneys:stonebrick_mossy:1, Mossy Stone Brick Vent
+adchimneys:stonebrick_mossy:2, Mossy Stone Brick Pump
+adchimneys:stonebrick_cracked:0, Cracked Stone Brick Chimney
+adchimneys:stonebrick_cracked:1, Cracked Stone Brick Vent
+adchimneys:stonebrick_cracked:2, Cracked Stone Brick Pump
+adchimneys:smoker, Smoker
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -3692,6 +4028,10 @@ appliedenergistics2:nether_quartz_wrench, Chave de Quartzo do Nether
 appliedenergistics2:nether_quartz_cutting_knife, Faca de Corte de Quartzo do Nether
 appliedenergistics2:entropy_manipulator, Manipulador de Entropia
 appliedenergistics2:wireless_terminal, Terminal Sem Fio
+appliedenergistics2:wireless_crafting_terminal, Wireless Crafting Terminal
+appliedenergistics2:wireless_pattern_terminal, Wireless Pattern Terminal
+appliedenergistics2:wireless_fluid_terminal, Wireless Fluid Terminal
+appliedenergistics2:wireless_interface_terminal, Wireless Interface Terminal
 appliedenergistics2:charged_staff, Cajado Carregado
 appliedenergistics2:matter_cannon, Canhão de Matéria
 appliedenergistics2:portable_cell, Célula Portátil
@@ -3916,6 +4256,9 @@ appliedenergistics2:facade:0, Fachada de Cabos - Cimento marrom
 appliedenergistics2:facade:0, Fachada de Cabos - Cimento verde
 appliedenergistics2:facade:0, Fachada de Cabos - Cimento vermelho
 appliedenergistics2:facade:0, Fachada de Cabos - Cimento preto
+appliedenergistics2:facade:0, Fachada de Cabos - Desert Stone
+appliedenergistics2:facade:0, Fachada de Cabos - Frozen Stone
+appliedenergistics2:facade:0, Fachada de Cabos - Treasure Pot
 appliedenergistics2:facade:0, Fachada de Cabos - Rubber Wood
 appliedenergistics2:facade:0, Fachada de Cabos - Folhas
 appliedenergistics2:facade:0, Fachada de Cabos - Copper Ore
@@ -5964,34 +6307,34 @@ appliedenergistics2:facade:0, Fachada de Cabos - Orange Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Orange Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Wool
 appliedenergistics2:facade:0, Fachada de Cabos - Wool
-appliedenergistics2:facade:0, Fachada de Cabos - Blue Ice
+appliedenergistics2:facade:0, Fachada de Cabos - Gelo Azul
 appliedenergistics2:facade:0, Fachada de Cabos - Coquina
-appliedenergistics2:facade:0, Fachada de Cabos - Coquina Brick
-appliedenergistics2:facade:0, Fachada de Cabos - Coquina Brick Slab
-appliedenergistics2:facade:0, Fachada de Cabos - Dried Dulse Block
-appliedenergistics2:facade:0, Fachada de Cabos - Tube Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Brain Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Bubble Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Fire Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Horn Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dead Tube Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dead Brain Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dead Bubble Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dead Fire Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dead Horn Coral Block
-appliedenergistics2:facade:0, Fachada de Cabos - Dried Kelp Block
-appliedenergistics2:facade:0, Fachada de Cabos - Palm Leaves
-appliedenergistics2:facade:0, Fachada de Cabos - Flowering Palm Leaves
-appliedenergistics2:facade:0, Fachada de Cabos - Palm Log
-appliedenergistics2:facade:0, Fachada de Cabos - Palm Wood
-appliedenergistics2:facade:0, Fachada de Cabos - Stripped Palm Log
-appliedenergistics2:facade:0, Fachada de Cabos - Stripped Palm Wood
-appliedenergistics2:facade:0, Fachada de Cabos - Palm Planks
-appliedenergistics2:facade:0, Fachada de Cabos - Palm Slab
-appliedenergistics2:facade:0, Fachada de Cabos - Nacre Block
-appliedenergistics2:facade:0, Fachada de Cabos - Smooth Nacre Block
-appliedenergistics2:facade:0, Fachada de Cabos - Shelly Sand
-appliedenergistics2:facade:0, Fachada de Cabos - Underwater TNT
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolo de Coquina
+appliedenergistics2:facade:0, Fachada de Cabos - Laje de Tijolo de Coquina
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Doce Seco
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Tubular
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Cerebral
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Bolha
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral de Fogo
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Chifre
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Tubular Morto
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Cerebral Morto
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Bolha Morto
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral de Fogo Morto
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Coral Chifre Morto
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Alga Seca
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Palmeira Floridas
+appliedenergistics2:facade:0, Fachada de Cabos - Tora de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Tora de Palmeira Descascada
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Palmeira Descascada
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Laje de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Madrepérola
+appliedenergistics2:facade:0, Fachada de Cabos - Bloco de Madrepérola Lisa
+appliedenergistics2:facade:0, Fachada de Cabos - Areia com Conchas
+appliedenergistics2:facade:0, Fachada de Cabos - TNT Subaquático
 appliedenergistics2:facade:0, Fachada de Cabos - Terra Infestada
 appliedenergistics2:facade:0, Fachada de Cabos - Tora Infestada
 appliedenergistics2:facade:0, Fachada de Cabos - Pedra Infestada
@@ -6039,33 +6382,33 @@ appliedenergistics2:facade:0, Fachada de Cabos - Minério de Ferro Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério de Lapís Lazuli Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério de Redstone Pestilento
 appliedenergistics2:facade:0, Fachada de Cabos - Minério Pestilento
-appliedenergistics2:facade:0, Fachada de Cabos - Concreto Reforçado
+appliedenergistics2:facade:0, Fachada de Cabos - Concreto ReforÃ§ado
 appliedenergistics2:facade:0, Fachada de Cabos - Asfalto
 appliedenergistics2:facade:0, Fachada de Cabos - Pedra Musgosa Morta
 appliedenergistics2:facade:0, Fachada de Cabos - Blocos de Tijolos Musgosos Mortos
 appliedenergistics2:facade:0, Fachada de Cabos - Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - MÃ¡rmore
 appliedenergistics2:facade:0, Fachada de Cabos - Riolito
 appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de MÃ¡rmore
 appliedenergistics2:facade:0, Fachada de Cabos - Pedregulho de Riolito
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de MÃ¡rmore
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito
 appliedenergistics2:facade:0, Fachada de Cabos - Basalto Polido
-appliedenergistics2:facade:0, Fachada de Cabos - Mármore Polido
+appliedenergistics2:facade:0, Fachada de Cabos - MÃ¡rmore Polido
 appliedenergistics2:facade:0, Fachada de Cabos - Riolito Polido
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Quebrados
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Quebrados
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de MÃ¡rmore Quebrados
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Quebrados
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Quebrados
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Quebrados
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Granito Quebrados
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto Musgosos
-appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore Musgosos
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de MÃ¡rmore Musgosos
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Riolito Musgosos
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Andesito Musgosos
 appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Diorito Musgosos
@@ -6153,14 +6496,62 @@ appliedenergistics2:facade:0, Fachada de Cabos - Ore Cluster (Common Gem)
 appliedenergistics2:facade:0, Fachada de Cabos - Ore Cluster (Shiny Gem)
 appliedenergistics2:facade:0, Fachada de Cabos - Ore Cluster (Nether Crystal)
 appliedenergistics2:facade:0, Fachada de Cabos - Ore Cluster (Oil)
-appliedenergistics2:facade:0, Fachada de Cabos - Fonte de Água
-appliedenergistics2:facade:0, Fachada de Cabos - Fonte de Petróleo
-appliedenergistics2:facade:0, Fachada de Cabos - tile.decorated.destroy.name
-appliedenergistics2:facade:0, Fachada de Cabos - Blueprint (Decoration)
-appliedenergistics2:facade:0, Fachada de Cabos - Template (Decoration)
-appliedenergistics2:facade:0, Fachada de Cabos - tile.decorated.paper.name
-appliedenergistics2:facade:0, Fachada de Cabos - tile.decorated.leather.name
-appliedenergistics2:facade:0, Fachada de Cabos - Laser (Decoration)
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Salgueiro
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Mangue
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Sequoia
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Abeto
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Pinheiro
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Álamo
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Bordo
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Baobá
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Cottonwood
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Zimbro
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Flor de Cerejeira
+appliedenergistics2:facade:0, Fachada de Cabos - Madeira de Jacarandá
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Salgueiro
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Mangue
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Sequoia
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Abeto
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Pinheiro
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Álamo
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Bordo Vermelho
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Bordo Laranja
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Baobá
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Cottonwood
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Zimbro
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Zimbro com Bagas.name
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Flor de Cerejeira Branca
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Flor de Cerejeira Rosa
+appliedenergistics2:facade:0, Fachada de Cabos - Folhas de Jacarandá
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Salgueiro
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Mangue
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Palmeira
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Sequoia
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Abeto
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Pinheiro
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Álamo
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Bordo
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Madeira de Baobá
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Cottonwood
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Zimbro
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Flor de Cerejeira
+appliedenergistics2:facade:0, Fachada de Cabos - Tábuas de Jacarandá
+appliedenergistics2:facade:0, Fachada de Cabos - Casca de Sequoia
+appliedenergistics2:facade:0, Fachada de Cabos - Areia Rachada
+appliedenergistics2:facade:0, Fachada de Cabos - Areia Rachada Vermelha
+appliedenergistics2:facade:0, Fachada de Cabos - Lama
+appliedenergistics2:facade:0, Fachada de Cabos - Adobe Molhado
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Pedregulho
+appliedenergistics2:facade:0, Fachada de Cabos - Basalto
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Basalto
+appliedenergistics2:facade:0, Fachada de Cabos - Calcário
+appliedenergistics2:facade:0, Fachada de Cabos - Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Mármore
+appliedenergistics2:facade:0, Fachada de Cabos - Siltito
+appliedenergistics2:facade:0, Fachada de Cabos - Adobe
+appliedenergistics2:facade:0, Fachada de Cabos - Tijolos de Adobe
 appliedenergistics2:crystal_seed:0, Semente de Quartzo Certus
 appliedenergistics2:crystal_seed:600, Semente de Quartzo do Nether
 appliedenergistics2:crystal_seed:1200, Semente de Fluix
@@ -6215,8 +6606,12 @@ appliedenergistics2:material:27, Cartão de Capacidade
 appliedenergistics2:material:53, Cartão de Fabricação
 appliedenergistics2:material:29, Cartão Impreciso
 appliedenergistics2:material:31, Cartão Inversor
+appliedenergistics2:material:60, Magnet Card
+appliedenergistics2:material:58, Pattern Expansion Card
+appliedenergistics2:material:59, Quantum Link Card
 appliedenergistics2:material:26, Cartão de Redstone
 appliedenergistics2:material:30, Cartão de Aceleração
+appliedenergistics2:material:61, Sticky Card
 appliedenergistics2:material:34, Componente Espacial 128³
 appliedenergistics2:material:37, Componente de Armazenamento ME de 16k
 appliedenergistics2:material:33, Componente Espacial 16³
@@ -6351,12 +6746,14 @@ appliedenergistics2:part:56, Cabo Inteligente ME - Fluix
 appliedenergistics2:part:420, Monitor de Conversão ME
 appliedenergistics2:part:360, Terminal de Fabricação ME
 appliedenergistics2:part:200, Painel Escuro Iluminado
+appliedenergistics2:part:341, ME Extended Processing Pattern Terminal
 appliedenergistics2:part:260, Barramento ME de Exportação
 appliedenergistics2:part:302, Plano de Aniquilação ME para Fluidos
 appliedenergistics2:part:261, Barramento ME de Exportação de Fluidos
 appliedenergistics2:part:321, Plano de Formação ME para Fluidos
 appliedenergistics2:part:241, Barramento ME de Importação de Fluidos
 appliedenergistics2:part:441, Interface ME de Fluidos
+appliedenergistics2:part:522, ME Fluid Interface Configuration Terminal
 appliedenergistics2:part:281, Emissor de Nível ME para Fluidos
 appliedenergistics2:part:221, Barramento ME de Armazenamento de Fluidos
 appliedenergistics2:part:520, Terminal ME de Fluidos
@@ -6364,10 +6761,12 @@ appliedenergistics2:part:320, Plano de Formação ME
 appliedenergistics2:part:301, Plano de Aniquilação de identidade ME
 appliedenergistics2:part:240, Barramento ME de Importação
 appliedenergistics2:part:440, Interface ME
+appliedenergistics2:part:521, ME Interface Configuration Terminal
 appliedenergistics2:part:480, Terminal de Interface ME
 appliedenergistics2:part:100, Barramento de Alternância Invertido ME
 appliedenergistics2:part:280, Emissor de Nível ME
 appliedenergistics2:part:160, Painel Brilhante Iluminado
+appliedenergistics2:part:222, ME OreDict Storage Bus
 appliedenergistics2:part:469, Tùnel P2P - FE
 appliedenergistics2:part:463, Tùnel P2P - Fluido
 appliedenergistics2:part:465, Tùnel P2P - EU
@@ -6382,10 +6781,11 @@ appliedenergistics2:part:220, Barramento ME de Armazenamento
 appliedenergistics2:part:400, Monitor de Armazenamento ME
 appliedenergistics2:part:380, Terminal ME
 appliedenergistics2:part:80, Barramento de Alternância ME
-baubles:ring:0, Anel do Minerador
-buildcraftlib:guide, BuildCraft Guide Book
-buildcraftlib:guide_note, BuildCraft Guide Book Note
-buildcraftlib:debugger, Debugger
+cd4017be_lib:energy_supp, §dLaboratory Power Supply
+cd4017be_lib:item_supp, §dLaboratory Item Supply
+cd4017be_lib:fluid_supp, §dLaboratory Fluid Supply
+cd4017be_lib:rrwi, §4Disabled Recipe!
+cd4017be_lib:m:0, item.cd4017be.m
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
@@ -6406,108 +6806,275 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, Livro de Quests
 ftbquests:lootcrate, Caixa de loot
 ftbquests:custom_icon, Custom Icon
-oe:guardian_spike, Guardian Spike
-oe:sea_pickle, Sea Pickle
-oe:turtle_egg, Turtle Egg
-oe:coquina_brick_slab:0, Coquina Brick Slab
-oe:palm_slab:0, Palm Slab
-oe:palm_door, Palm Door
-oe:pickled_head, Pickled Head
-oe:blue_ice, Blue Ice
-oe:coconut, Coconut
-oe:conduit, Conduit
+indlog:item_pipe:0, Cano de Transporte de Item
+indlog:item_pipe:1, Cano de Injeção de Item
+indlog:item_pipe:2, Cano de Extração de Item
+indlog:item_pipe:3, Cano de Destino de Item
+indlog:item_pipe:4, Cano de Origem de Item
+indlog:fluid_pipe:0, Cano de Transporte de Fluido
+indlog:fluid_pipe:1, Cano de Injeção de Fluido
+indlog:fluid_pipe:2, Cano de Extração de Fluido
+indlog:fluid_pipe:3, Cano de Destino de Fluido
+indlog:fluid_pipe:4, Cano de Origem de Fluido
+indlog:warp_pipe, Cano Universal Avançado
+indlog:tank:0, Tanque de Fluido §8minúsculo
+indlog:buffer:0, Buffer de Item §6normal-P
+indlog:auto_craft, Criador Automático
+indlog:inv_connector, Cano de Extensão de Acesso
+indlog:trash, Lixeira de Excesso
+indlog:fluid_intake, Entrada de Fluido
+indlog:fluid_outlet, Saída de Fluido
+indlog:drop_interface, Interface de Item Caído
+indlog:entity_interface, Interface de Entidade
+indlog:block_placer, Colocador de Itens
+indlog:fluid_filter, Filtro de Fluido para Cano
+indlog:item_filter, Filtro de Item para Cano
+indlog:amount_filter, Filtro de Quantidade para Cano
+indlog:property_filter, Filtro de Conteúdo de Item para Cano
+indlog:name_filter, Filtro de Nome/ID para Cano
+indlog:portable_craft, Criador Automático Portátil
+indlog:remote_inv, Acesso Remoto de Inventário Portátil
+ironchest:iron_gold_chest_upgrade, Aprimoramento de Ba� de Ferro para Ouro
+ironchest:gold_diamond_chest_upgrade, Aprimoramento de Ba� de Ouro para Diamante
+ironchest:copper_silver_chest_upgrade, Aprimoramento de Ba� de Cobre para Prata
+ironchest:silver_gold_chest_upgrade, Aprimoramento de Ba� de Prata para Ouro
+ironchest:copper_iron_chest_upgrade, Aprimoramento de Ba� de Cobre para Ferro
+ironchest:diamond_crystal_chest_upgrade, Aprimoramento de Ba� de Diamante para Cristal
+ironchest:wood_iron_chest_upgrade, Aprimoramento de Ba� de Madeira para Ferro
+ironchest:wood_copper_chest_upgrade, Aprimoramento de Ba� de Madeira para Cobre
+ironchest:diamond_obsidian_chest_upgrade, Aprimoramento de Ba� de Diamante para Obsidiana
+ironchest:iron_gold_shulker_upgrade, Melhoria de Ba� Shulker de Ferro para Ouro
+ironchest:gold_diamond_shulker_upgrade, Melhoria de Ba� Shulker de Ouro para Diamante
+ironchest:copper_silver_shulker_upgrade, Melhoria de Ba� Shulker de Cobre para Prata
+ironchest:silver_gold_shulker_upgrade, Melhoria de Ba� Shulker de Prata para Ouro
+ironchest:copper_iron_shulker_upgrade, Melhoria de Ba� Shulker de Cobre para Ferro
+ironchest:diamond_crystal_shulker_upgrade, Melhoria de Ba� Shulker de Diamante para Cristal
+ironchest:vanilla_iron_shulker_upgrade, Melhoria de Ba� Shulker Padr�o para Ferro
+ironchest:vanilla_copper_shulker_upgrade, Melhoria de Ba� Shulker Padr�o para Cobre
+ironchest:diamond_obsidian_shulker_upgrade, Melhoria de Ba� Shulker de Diamante para Obsidiana
+ironchest:iron_chest:0, Ba� de Ferro
+ironchest:iron_chest:1, Ba� de Ouro
+ironchest:iron_chest:2, Ba� de Diamante
+ironchest:iron_chest:3, Ba� de Cobre
+ironchest:iron_chest:4, Ba� de Prata
+ironchest:iron_chest:5, Ba� de Cristal
+ironchest:iron_chest:6, Ba� de Obsidiana
+ironchest:iron_chest:7, Ba�DeSujeira 9000!
+ironchest:iron_shulker_box_white:0, Ba� Shulker Branco de Ferro
+ironchest:iron_shulker_box_white:1, Ba� Shulker Branco de Ouro
+ironchest:iron_shulker_box_white:2, Ba� Shulker Branco de Diamante
+ironchest:iron_shulker_box_white:3, Ba� Shulker Branco de Cobre
+ironchest:iron_shulker_box_white:4, Ba� Shulker Branco de Prata
+ironchest:iron_shulker_box_white:5, Ba� Shulker Branco de Cristal
+ironchest:iron_shulker_box_white:6, Ba� Shulker Branco de Obsidiana
+ironchest:iron_shulker_box_orange:0, Ba� Shulker Laranjado de Ferro
+ironchest:iron_shulker_box_orange:1, Ba� Shulker Laranjado de Ouro
+ironchest:iron_shulker_box_orange:2, Ba� Shulker Laranjado de Diamante
+ironchest:iron_shulker_box_orange:3, Ba� Shulker Laranjado de Cobre
+ironchest:iron_shulker_box_orange:4, Ba� Shulker Laranjado de Prata
+ironchest:iron_shulker_box_orange:5, Ba� Shulker Laranjado de Cristal
+ironchest:iron_shulker_box_orange:6, Ba� Shulker Laranjado de Obsidiana
+ironchest:iron_shulker_box_magenta:0, Ba� Shulker Lil�s de Ferro
+ironchest:iron_shulker_box_magenta:1, Ba� Shulker Lil�s de Ouro
+ironchest:iron_shulker_box_magenta:2, Ba� Shulker Lil�s de Diamante
+ironchest:iron_shulker_box_magenta:3, Ba� Shulker Lil�s de Cobre
+ironchest:iron_shulker_box_magenta:4, Ba� Shulker Lil�s de Prata
+ironchest:iron_shulker_box_magenta:5, Ba� Shulker Lil�s de Cristal
+ironchest:iron_shulker_box_magenta:6, Ba� Shulker Lil�s de Obsidiana
+ironchest:iron_shulker_box_light_blue:0, Ba� Shulker Azul Claro de Ferro
+ironchest:iron_shulker_box_light_blue:1, Ba� Shulker Azul Claro de Ouro
+ironchest:iron_shulker_box_light_blue:2, Ba� Shulker Azul Claro de Diamante
+ironchest:iron_shulker_box_light_blue:3, Ba� Shulker Azul Claro de Cobre
+ironchest:iron_shulker_box_light_blue:4, Ba� Shulker Azul Claro de Prata
+ironchest:iron_shulker_box_light_blue:5, Ba� Shulker Azul Claro de Cristal
+ironchest:iron_shulker_box_light_blue:6, Ba� Shulker Azul Claro de Obsidiana
+ironchest:iron_shulker_box_yellow:0, Ba� Shulker Amarelo de Ferro
+ironchest:iron_shulker_box_yellow:1, Ba� Shulker Amarelo de Ouro
+ironchest:iron_shulker_box_yellow:2, Ba� Shulker Amarelo de Diamante
+ironchest:iron_shulker_box_yellow:3, Ba� Shulker Amarelo de Cobre
+ironchest:iron_shulker_box_yellow:4, Ba� Shulker Amarelo de Prata
+ironchest:iron_shulker_box_yellow:5, Ba� Shulker Amarelo de Cristal
+ironchest:iron_shulker_box_yellow:6, Ba� Shulker Amarelo de Obsidiana
+ironchest:iron_shulker_box_lime:0, Ba� Shulker Verde-lim�o de Ferro
+ironchest:iron_shulker_box_lime:1, Ba� Shulker Verde-lim�o de Ouro
+ironchest:iron_shulker_box_lime:2, Ba� Shulker Verde-lim�o de Diamante
+ironchest:iron_shulker_box_lime:3, Ba� Shulker Verde-lim�o de Cobre
+ironchest:iron_shulker_box_lime:4, Ba� Shulker Verde-lim�o de Prata
+ironchest:iron_shulker_box_lime:5, Ba� Shulker Verde-lim�o de Cristal
+ironchest:iron_shulker_box_lime:6, Ba� Shulker Verde-lim�o de Obsidiana
+ironchest:iron_shulker_box_pink:0, Ba� Shulker Rosa de Ferro
+ironchest:iron_shulker_box_pink:1, Ba� Shulker Rosa e de Ouro
+ironchest:iron_shulker_box_pink:2, Ba� Shulker Rosa de Diamante
+ironchest:iron_shulker_box_pink:3, Ba� Shulker Rosa de Cobre
+ironchest:iron_shulker_box_pink:4, Ba� Shulker Rosa de Prata
+ironchest:iron_shulker_box_pink:5, Ba� Shulker Rosa de Cristal
+ironchest:iron_shulker_box_pink:6, Ba� Shulker Rosa de Obsidiana
+ironchest:iron_shulker_box_gray:0, Ba� Shulker Cinza de Ferro
+ironchest:iron_shulker_box_gray:1, Ba� Shulker Cinza de Ouro
+ironchest:iron_shulker_box_gray:2, Ba� Shulker Cinza de Diamante
+ironchest:iron_shulker_box_gray:3, Ba� Shulker Cinza de Cobre
+ironchest:iron_shulker_box_gray:4, Ba� Shulker Cinza de Prata
+ironchest:iron_shulker_box_gray:5, Ba� Shulker Cinza de Cristal
+ironchest:iron_shulker_box_gray:6, Ba� Shulker Cinza de Obsidiana
+ironchest:iron_shulker_box_silver:0, Ba� Shulker Cinza Claro de Ferro
+ironchest:iron_shulker_box_silver:1, Ba� Shulker Cinza Claro de Ouro
+ironchest:iron_shulker_box_silver:2, Ba� Shulker Cinza Claro de Diamante
+ironchest:iron_shulker_box_silver:3, Ba� Shulker Cinza Claro de Cobre
+ironchest:iron_shulker_box_silver:4, Ba� Shulker Cinza Claro de Prata
+ironchest:iron_shulker_box_silver:5, Ba� Shulker Cinza Claro de Cristal
+ironchest:iron_shulker_box_silver:6, Ba� Shulker Cinza Claro de Obsidiana
+ironchest:iron_shulker_box_cyan:0, Ba� Shulker Ciano de Ferro
+ironchest:iron_shulker_box_cyan:1, Ba� Shulker Ciano de Ouro
+ironchest:iron_shulker_box_cyan:2, Ba� Shulker Ciano de Diamante
+ironchest:iron_shulker_box_cyan:3, Ba� Shulker Ciano de Cobre
+ironchest:iron_shulker_box_cyan:4, Ba� Shulker Ciano de Prata
+ironchest:iron_shulker_box_cyan:5, Ba� Shulker Ciano de Cristal
+ironchest:iron_shulker_box_cyan:6, Ba� Shulker Ciano de Obsidiana
+ironchest:iron_shulker_box_purple:0, Ba� Shulker Roxo de Ferro
+ironchest:iron_shulker_box_purple:1, Ba� Shulker Roxo de Ouro
+ironchest:iron_shulker_box_purple:2, Ba� Shulker Roxo de Diamante
+ironchest:iron_shulker_box_purple:3, Ba� Shulker Roxo de Cobre
+ironchest:iron_shulker_box_purple:4, Ba� Shulker Roxo de Prata
+ironchest:iron_shulker_box_purple:5, Ba� Shulker Roxo de Cristal
+ironchest:iron_shulker_box_purple:6, Ba� Shulker Roxo de Obsidiana
+ironchest:iron_shulker_box_blue:0, Ba� Shulker Azul de Ferro
+ironchest:iron_shulker_box_blue:1, Ba� Shulker Azul de Ouro
+ironchest:iron_shulker_box_blue:2, Ba� Shulker Azul de Diamante
+ironchest:iron_shulker_box_blue:3, Ba� Shulker Azul de Cobre
+ironchest:iron_shulker_box_blue:4, Ba� Shulker Azul de Prata
+ironchest:iron_shulker_box_blue:5, Ba� Shulker Azul de Cristal
+ironchest:iron_shulker_box_blue:6, Ba� Shulker Azul de Obsidiana
+ironchest:iron_shulker_box_brown:0, Ba� Shulker Marrom de Ferro
+ironchest:iron_shulker_box_brown:1, Ba� Shulker Marrom de Ouro
+ironchest:iron_shulker_box_brown:2, Ba� Shulker Marrom de Diamante
+ironchest:iron_shulker_box_brown:3, Ba� Shulker Marrom de Cobre
+ironchest:iron_shulker_box_brown:4, Ba� Shulker Marrom de Prata
+ironchest:iron_shulker_box_brown:5, Ba� Shulker Marrom de Cristal
+ironchest:iron_shulker_box_brown:6, Ba� Shulker Marrom de Obsidiana
+ironchest:iron_shulker_box_green:0, Ba� Shulker Verde de Ferro
+ironchest:iron_shulker_box_green:1, Ba� Shulker Verde de Ouro
+ironchest:iron_shulker_box_green:2, Ba� Shulker Verde de Diamante
+ironchest:iron_shulker_box_green:3, Ba� Shulker Verde de Cobre
+ironchest:iron_shulker_box_green:4, Ba� Shulker Verde de Prata
+ironchest:iron_shulker_box_green:5, Ba� Shulker Verde de Cristal
+ironchest:iron_shulker_box_green:6, Ba� Shulker Verde de Obsidiana
+ironchest:iron_shulker_box_red:0, Ba� Shulker Vermelho de Ferro
+ironchest:iron_shulker_box_red:1, Ba� Shulker Vermelho de Ouro
+ironchest:iron_shulker_box_red:2, Ba� Shulker Vermelho de Diamante
+ironchest:iron_shulker_box_red:3, Ba� Shulker Vermelho de Cobre
+ironchest:iron_shulker_box_red:4, Ba� Shulker Vermelho de Prata
+ironchest:iron_shulker_box_red:5, Ba� Shulker Vermelho de Cristal
+ironchest:iron_shulker_box_red:6, Ba� Shulker Vermelho de Obsidiana
+ironchest:iron_shulker_box_black:0, Ba� Shulker Preto de Ferro
+ironchest:iron_shulker_box_black:1, Ba� Shulker Preto de Ouro
+ironchest:iron_shulker_box_black:2, Ba� Shulker Preto de Diamante
+ironchest:iron_shulker_box_black:3, Ba� Shulker Preto de Cobre
+ironchest:iron_shulker_box_black:4, Ba� Shulker Preto de Prata
+ironchest:iron_shulker_box_black:5, Ba� Shulker Preto de Cristal
+ironchest:iron_shulker_box_black:6, Ba� Shulker Preto de Obsidiana
+oe:turtle_helmet, Casco de Tartaruga
+oe:trident, Tridente
+oe:turtle_scute, Escama
+oe:barnacle_shells, Conchas de Craca
+oe:nautilus_shell, Concha de Náutilo
+oe:heart_of_the_sea, Coração do Mar
+oe:pearl, Pérola
+oe:conch, Concha de Búzio
+oe:magic_conch, Búzio Mágico
+oe:charm, Amuleto de Conduíte
+oe:glow_ink_sac, Saco de Tinta Brilhante
+oe:glow_item_frame, Moldura Brilhante para Itens
+oe:bleak, Cobertura Morta Sombria
+oe:sponge_chunk, Pedaço de Esponja
+oe:sponge_chunk_wet, Pedaço de Esponja Úmido
+oe:crab, Caranguejo Cru
+oe:cooked_crab, Caranguejo Cozido
+oe:crab_bisque, Sopa de Caranguejo
+oe:crustacean_shell, Casca de Crustáceo
+oe:lobster, Lagosta Crua
+oe:cooked_lobster, Lagosta Cozida
+oe:lobster_bisque, Sopa de Lagosta
+oe:blue_slime_ball, Bola de Slime Tropical
+oe:coconut_open, Coco Rachado
+oe:dried_kelp, Alga Seca
+oe:dried_dulse, Doce Seco
+oe:palm_boat, Barcos feitos de folhas de palmeira
+oe:spawn_bucket, Balde de %s
+oe:heavy_boots, Botas Pesadas
+oe:guardian_spike, Espinho de Guardião
+oe:sea_pickle, Pepino do Mar
+oe:turtle_egg, Ovo de Tartaruga
+oe:coquina_brick_slab:0, Laje de Tijolo de Coquina
+oe:palm_slab:0, Laje de Palmeira
+oe:palm_door, Porta de Palmeira
+oe:pickled_head, Cabeça de Picles
+oe:blue_ice, Gelo Azul
+oe:coconut, Coco
+oe:conduit, Conduíte
 oe:coquina, Coquina
-oe:coquina_brick, Coquina Brick
-oe:coquina_brick_slab_double, Coquina Brick Slab
-oe:coquina_brick_stairs, Coquina Brick Stairs
-oe:coquina_brick_wall, Coquina Brick Wall
-oe:stagnant, Stagnant
-oe:dulse, Dulse
-oe:dried_dulse_block, Dried Dulse Block
-oe:blue_coral_block, Tube Coral Block
-oe:pink_coral_block, Brain Coral Block
-oe:purple_coral_block, Bubble Coral Block
-oe:red_coral_block, Fire Coral Block
-oe:yellow_coral_block, Horn Coral Block
-oe:blue_coral_block_dead, Dead Tube Coral Block
-oe:pink_coral_block_dead, Dead Brain Coral Block
-oe:purple_coral_block_dead, Dead Bubble Coral Block
-oe:red_coral_block_dead, Dead Fire Coral Block
-oe:yellow_coral_block_dead, Dead Horn Coral Block
-oe:blue_coral_fan, Tube Coral Fan
-oe:pink_coral_fan, Brain Coral Fan
-oe:purple_coral_fan, Bubble Coral Fan
-oe:red_coral_fan, Fire Coral Fan
-oe:yellow_coral_fan, Horn Coral Fan
-oe:blue_coral_fan_dead, Dead Tube Coral Fan
-oe:pink_coral_fan_dead, Dead Brain Coral Fan
-oe:purple_coral_fan_dead, Dead Bubble Coral Fan
-oe:red_coral_fan_dead, Dead Fire Coral Fan
-oe:yellow_coral_fan_dead, Dead Horn Coral Fan
-oe:blue_coral, Tube Coral
-oe:pink_coral, Brain Coral
-oe:purple_coral, Bubble Coral
-oe:red_coral, Fire Coral
-oe:yellow_coral, Horn Coral
-oe:blue_coral_dead, Dead Tube Coral
-oe:pink_coral_dead, Dead Brain Coral
-oe:purple_coral_dead, Dead Bubble Coral
-oe:red_coral_dead, Dead Fire Coral
-oe:yellow_coral_dead, Dead Horn Coral
-oe:kelp, Kelp
-oe:dried_kelp_block, Dried Kelp Block
-oe:palm_sapling, Palm Sapling
-oe:palm_leaves, Palm Leaves
-oe:palm_leaves_flowering, Flowering Palm Leaves
-oe:palm_log, Palm Log
-oe:palm_wood, Palm Wood
-oe:palm_log_stripped, Stripped Palm Log
-oe:palm_wood_stripped, Stripped Palm Wood
-oe:palm_planks, Palm Planks
-oe:palm_slab_double, Palm Slab
-oe:palm_stairs, Palm Stairs
-oe:palm_fence, Palm Fence
-oe:palm_fence_gate, Palm Fence Gate
-oe:prismarine_pot, Prismarine Pot
-oe:nacre_block, Nacre Block
-oe:nacre_smooth, Smooth Nacre Block
-oe:blue_slime_block, Tropical Slime Block
-oe:seagrass, Seagrass
-oe:sea_oats, Sea Oats
-oe:seastar, Sea Star
-oe:shell_sand, Shelly Sand
-oe:tube_sponge, Tube Sponge
-oe:underwater_tnt, Underwater TNT
-oe:underwater_torch, Underwater Torch
-oe:turtle_helmet, Turtle Shell
-oe:trident, Trident
-oe:turtle_scute, Scute
-oe:barnacle_shells, Barnacle Shells
-oe:nautilus_shell, Nautilus Shell
-oe:heart_of_the_sea, Heart of the Sea
-oe:pearl, Pearl
-oe:conch, Conch
-oe:magic_conch, Magic Conch
-oe:charm, Conduit Charm
-oe:glow_ink_sac, Glow Ink Sac
-oe:glow_item_frame, Glow Item Frame
-oe:bleak, Bleak Mulch
-oe:sponge_chunk, Sponge Chunk
-oe:sponge_chunk_wet, Damp Sponge Chunk
-oe:crab, Raw Crab
-oe:cooked_crab, Cooked Crab
-oe:crab_bisque, Crab Bisque
-oe:crustacean_shell, Crustacean Shell
-oe:lobster, Raw Lobster
-oe:cooked_lobster, Cooked Lobster
-oe:lobster_bisque, Lobster Bisque
-oe:blue_slime_ball, Tropical Slimeball
-oe:coconut_open, Cracked Coconut
-oe:dried_kelp, Dried Kelp
-oe:dried_dulse, Dried Dulse
-oe:palm_boat, Palm Boat
-oe:spawn_bucket, Bucket of %s
-oe:heavy_boots, Heavy Boots
+oe:coquina_brick, Tijolo de Coquina
+oe:coquina_brick_slab_double, Laje de Tijolo de Coquina
+oe:coquina_brick_stairs, Escadas de Tijolo de Coquina
+oe:coquina_brick_wall, Muro de Tijolo de Coquina
+oe:stagnant, Estagnado
+oe:dulse, Doce
+oe:dried_dulse_block, Bloco de Doce Seco
+oe:blue_coral_block, Bloco de Coral Tubular
+oe:pink_coral_block, Bloco de Coral Cerebral
+oe:purple_coral_block, Bloco de Coral Bolha
+oe:red_coral_block, Bloco de Coral de Fogo
+oe:yellow_coral_block, Bloco de Coral Chifre
+oe:blue_coral_block_dead, Bloco de Coral Tubular Morto
+oe:pink_coral_block_dead, Bloco de Coral Cerebral Morto
+oe:purple_coral_block_dead, Bloco de Coral Bolha Morto
+oe:red_coral_block_dead, Bloco de Coral de Fogo Morto
+oe:yellow_coral_block_dead, Bloco de Coral Chifre Morto
+oe:blue_coral_fan, Fan de Coral Tubular
+oe:pink_coral_fan, Fan de Coral Cerebral
+oe:purple_coral_fan, Fan de Coral Bolha
+oe:red_coral_fan, Fan de Coral de Fogo
+oe:yellow_coral_fan, Fan de Coral Chifre
+oe:blue_coral_fan_dead, Fan de Coral Tubular Morto
+oe:pink_coral_fan_dead, Fan de Coral Cerebral Morto
+oe:purple_coral_fan_dead, Fan de Coral Bolha Morto
+oe:red_coral_fan_dead, Fan de Coral de Fogo Morto
+oe:yellow_coral_fan_dead, Fan de Coral Chifre Morto
+oe:blue_coral, Coral Tubular
+oe:pink_coral, Coral Cerebral
+oe:purple_coral, Coral Bolha
+oe:red_coral, Coral de Fogo
+oe:yellow_coral, Coral Chifre
+oe:blue_coral_dead, Coral Tubular Morto
+oe:pink_coral_dead, Coral Cerebral Morto
+oe:purple_coral_dead, Coral Bolha Morto
+oe:red_coral_dead, Coral de Fogo Morto
+oe:yellow_coral_dead, Coral Chifre Morto
+oe:kelp, Alga
+oe:dried_kelp_block, Bloco de Alga Seca
+oe:palm_sapling, Muda de Palmeira
+oe:palm_leaves, Folhas de Palmeira
+oe:palm_leaves_flowering, Folhas de Palmeira Floridas
+oe:palm_log, Tora de Palmeira
+oe:palm_wood, Madeira de Palmeira
+oe:palm_log_stripped, Tora de Palmeira Descascada
+oe:palm_wood_stripped, Madeira de Palmeira Descascada
+oe:palm_planks, Tábuas de Palmeira
+oe:palm_slab_double, Laje de Palmeira
+oe:palm_stairs, Escadas de Palmeira
+oe:palm_fence, Cerca de Palmeira
+oe:palm_fence_gate, Portão de Cerca de Palmeira
+oe:prismarine_pot, Vaso de Prismarinho
+oe:nacre_block, Bloco de Madrepérola
+oe:nacre_smooth, Bloco de Madrepérola Lisa
+oe:blue_slime_block, Bloco de Slime Tropical
+oe:seagrass, Grama Marinha
+oe:sea_oats, Aveia Marinha
+oe:seastar, Estrela do Mar
+oe:shell_sand, Areia com Conchas
+oe:tube_sponge, Esponja Tubular
+oe:underwater_tnt, TNT Subaquático
+oe:underwater_torch, Tocha Subaquática
+srparasites:parasiterubble_slabhalf:0, Laje de Osso fortificado
 srparasites:infestedstain, Terra Infestada
 srparasites:infestremain, Residuo Infestado
 srparasites:infestedtrunk, Tora Infestada
@@ -6744,19 +7311,18 @@ srparasites:armor_helm_sentient, §6Elmo Senciente
 srparasites:armor_chest_sentient, §6Peitoral Senciente
 srparasites:armor_pants_sentient, §6Calças Sencientes
 srparasites:armor_boots_sentient, §6Botas Sencientes
-srparasites:parasiterubble_slabhalf:0, Laje de Osso fortificado
 sevendaystomine:stick, Varinha
 sevendaystomine:foodpile, Pilha de Comida
 sevendaystomine:scrappile, tile.ScrapPile.name
 sevendaystomine:garbagepile, Pilha de Lixo
 sevendaystomine:goldenrod, Erva de Ouro
-sevendaystomine:coffeeplant, Planta de Café
+sevendaystomine:coffeeplant, Planta de CafÃ©
 sevendaystomine:cornplant, Planta de Milho
 sevendaystomine:blueberryplant, Arbusto de Blueberry
 sevendaystomine:baneberryplant, Arbusto de Baneberry
-sevendaystomine:reinforcedconcrete, Concreto Reforçado
-sevendaystomine:cardboardbox, Caixa de Papelão
-sevendaystomine:cupboard, Armário
+sevendaystomine:reinforcedconcrete, Concreto ReforÃ§ado
+sevendaystomine:cardboardbox, Caixa de PapelÃ£o
+sevendaystomine:cupboard, ArmÃ¡rio
 sevendaystomine:asphalt, Asfalto
 sevendaystomine:armchairblack, Poltrona Preta
 sevendaystomine:armchairblue, Poltrona Azul
@@ -6769,11 +7335,11 @@ sevendaystomine:armchairyellow, Poltrona Amarela
 sevendaystomine:bookshelf, Estante de Carvalho
 sevendaystomine:writingtable:0, Mesa de Escrita
 sevendaystomine:writingtable:8, Mesa de Escrita
-sevendaystomine:medicalcabinet, Armário Médico
+sevendaystomine:medicalcabinet, ArmÃ¡rio MÃ©dico
 sevendaystomine:fridge:0, Geladeira
 sevendaystomine:fridge:8, Geladeira
 sevendaystomine:mailbox, Caixa de Correio
-sevendaystomine:birdnest, Ninho de Pássaro
+sevendaystomine:birdnest, Ninho de PÃ¡ssaro
 sevendaystomine:trashcan, Lixeira
 sevendaystomine:sleepingbag, tile.SleepingBag.name
 sevendaystomine:sedan_red:0, tile.sedan_red.name
@@ -6785,16 +7351,16 @@ sevendaystomine:sedan_black:0, tile.sedan_black.name
 sevendaystomine:deadmossystone, Pedra Musgosa Morta
 sevendaystomine:deadmossybrick, Blocos de Tijolos Musgosos Mortos
 sevendaystomine:basalt, Basalto
-sevendaystomine:marble, Mármore
+sevendaystomine:marble, MÃ¡rmore
 sevendaystomine:rhyolite, Riolito
 sevendaystomine:basaltcobblestone, Pedregulho de Basalto
-sevendaystomine:marblecobblestone, Pedregulho de Mármore
+sevendaystomine:marblecobblestone, Pedregulho de MÃ¡rmore
 sevendaystomine:rhyolitecobblestone, Pedregulho de Riolito
 sevendaystomine:basaltbricks, Tijolos de Basalto
-sevendaystomine:marblebricks, Tijolos de Mármore
+sevendaystomine:marblebricks, Tijolos de MÃ¡rmore
 sevendaystomine:rhyolitebricks, Tijolos de Riolito
 sevendaystomine:basaltpolished, Basalto Polido
-sevendaystomine:marblepolished, Mármore Polido
+sevendaystomine:marblepolished, MÃ¡rmore Polido
 sevendaystomine:rhyolitepolished, Riolito Polido
 sevendaystomine:andesitebricks, Tijolos de Andesito
 sevendaystomine:dioritebricks, Tijolos de Diorito
@@ -6807,19 +7373,19 @@ sevendaystomine:stonebrick_wall:2, Muro de Tijolos Quebrados
 sevendaystomine:stonebrick_wall:3, Muro de Tijolos Musgosos Mortos
 sevendaystomine:throttle, Comando
 sevendaystomine:basalt_bricks_cracked, Tijolos de Basalto Quebrados
-sevendaystomine:marble_bricks_cracked, Tijolos de Mármore Quebrados
+sevendaystomine:marble_bricks_cracked, Tijolos de MÃ¡rmore Quebrados
 sevendaystomine:rhyolite_bricks_cracked, Tijolos de Riolito Quebrados
 sevendaystomine:andesite_bricks_cracked, Tijolos de Andesito Quebrados
 sevendaystomine:diorite_bricks_cracked, Tijolos de Diorito Quebrados
 sevendaystomine:granite_bricks_cracked, Tijolos de Granito Quebrados
 sevendaystomine:basalt_bricks_mossy, Tijolos de Basalto Musgosos
-sevendaystomine:marble_bricks_mossy, Tijolos de Mármore Musgosos
+sevendaystomine:marble_bricks_mossy, Tijolos de MÃ¡rmore Musgosos
 sevendaystomine:rhyolite_bricks_mossy, Tijolos de Riolito Musgosos
 sevendaystomine:andesite_bricks_mossy, Tijolos de Andesito Musgosos
 sevendaystomine:diorite_bricks_mossy, Tijolos de Diorito Musgosos
 sevendaystomine:granite_bricks_mossy, Tijolos de Granito Musgosos
-sevendaystomine:boards, Tábuas
-sevendaystomine:toilet, Vaso Sanitário
+sevendaystomine:boards, TÃ¡buas
+sevendaystomine:toilet, Vaso SanitÃ¡rio
 sevendaystomine:sink_faucet, Torneira da Pia
 sevendaystomine:metal_ladder, Escada de Metal
 sevendaystomine:radiator, Radiador
@@ -6885,9 +7451,9 @@ sevendaystomine:redstone_lamp_broken, tile.redstone_lamp_broken.name
 sevendaystomine:calendar, tile.calendar.name
 sevendaystomine:metal_spikes, tile.metal_spikes.name
 sevendaystomine:bookshelf_spruce, Estante de Abeto
-sevendaystomine:bookshelf_birch, Estante de Bétula
+sevendaystomine:bookshelf_birch, Estante de BÃ©tula
 sevendaystomine:bookshelf_jungle, Estante de Jungle
-sevendaystomine:bookshelf_acacia, Estante de Acácia
+sevendaystomine:bookshelf_acacia, Estante de AcÃ¡cia
 sevendaystomine:bookshelf_dark_oak, Estante de Carvalho Escuro
 sevendaystomine:police_car:0, tile.police_car.name
 sevendaystomine:flower_pot_enhanced, tile.flower_pot_enhanced.name
@@ -6907,7 +7473,7 @@ sevendaystomine:armchair_cyan, Poltrona Ciano
 sevendaystomine:armchair_purple, Poltrona Roxa
 sevendaystomine:armchair_orange, Poltrona Laranja
 sevendaystomine:armchair_magenta, Poltrona Magenta
-sevendaystomine:armchair_lime, Poltrona Limão
+sevendaystomine:armchair_lime, Poltrona LimÃ£o
 sevendaystomine:armchair_light_blue, Poltrona Azul Claro
 sevendaystomine:armchair_silver, Poltrona Prata
 sevendaystomine:armchair_gray, Poltrona Cinza
@@ -6922,33 +7488,33 @@ sevendaystomine:sofa_gray, tile.sofa_gray.name
 sevendaystomine:emptycan, Lata Vazia
 sevendaystomine:cookinggrill, Churrasqueira
 sevendaystomine:emptyjar, Pote Vazio
-sevendaystomine:bottledmurkywater, Água Turva Engarrafada
-sevendaystomine:bottledwater, Água Engarrafada
+sevendaystomine:bottledmurkywater, Ã�gua Turva Engarrafada
+sevendaystomine:bottledwater, Ã�gua Engarrafada
 sevendaystomine:bottledbeer, Cerveja
-sevendaystomine:goldenrodtea, Chá de Goldenrod
-sevendaystomine:bottledcoffee, Café Engarrafado
+sevendaystomine:goldenrodtea, ChÃ¡ de Goldenrod
+sevendaystomine:bottledcoffee, CafÃ© Engarrafado
 sevendaystomine:jarofhoney, Pote de Mel
-sevendaystomine:cannedmurkywater, Água Turva enlatada
-sevendaystomine:cannedwater, Água enlatada
-sevendaystomine:cannedcatfood, Lata de Ração para Gato
+sevendaystomine:cannedmurkywater, Ã�gua Turva enlatada
+sevendaystomine:cannedwater, Ã�gua enlatada
+sevendaystomine:cannedcatfood, Lata de RaÃ§Ã£o para Gato
 sevendaystomine:cannedchicken, Lata de Frango
 sevendaystomine:cannedchili, Lata de Chili
-sevendaystomine:canneddogfood, Lata de Ração para Cachorro
+sevendaystomine:canneddogfood, Lata de RaÃ§Ã£o para Cachorro
 sevendaystomine:cannedham, Lata de Presunto
 sevendaystomine:cannedlamb, Lata de Carne de Cordeiro
 sevendaystomine:cannedmiso, Lata de Miso
-sevendaystomine:cannedpasta, Lata de Macarrão
+sevendaystomine:cannedpasta, Lata de MacarrÃ£o
 sevendaystomine:cannedpears, Lata de Peras
 sevendaystomine:cannedpeas, Lata de Ervilhas
-sevendaystomine:cannedsalmon, Lata de Salmão
+sevendaystomine:cannedsalmon, Lata de SalmÃ£o
 sevendaystomine:cannedsoup, Lata de Sopa
 sevendaystomine:cannedstock, Lata de Caldo
 sevendaystomine:cannedtuna, Lata de Atum
-sevendaystomine:coffee_beans, Grãos de Café
+sevendaystomine:coffee_beans, GrÃ£os de CafÃ©
 sevendaystomine:corn, Milho
 sevendaystomine:blueberry, Mirtilo
 sevendaystomine:baneberry, Mirtilo Branco
-sevendaystomine:coffee_berry, Frutos de Café
+sevendaystomine:coffee_berry, Frutos de CafÃ©
 sevendaystomine:cloth, Tecido
 sevendaystomine:fridgeitem, Geladeira
 sevendaystomine:sleepingbagitem:0, Saco de Dormir Branco
@@ -6956,7 +7522,7 @@ sevendaystomine:sleepingbagitem:1, Saco de Dormir Laranja
 sevendaystomine:sleepingbagitem:2, Saco de Dormir Magenta
 sevendaystomine:sleepingbagitem:3, Saco de Dormir Azul Claro
 sevendaystomine:sleepingbagitem:4, Saco de Dormir Amarelo
-sevendaystomine:sleepingbagitem:5, Saco de Dormir Limão
+sevendaystomine:sleepingbagitem:5, Saco de Dormir LimÃ£o
 sevendaystomine:sleepingbagitem:6, Saco de Dormir Rosa
 sevendaystomine:sleepingbagitem:7, Saco de Dormir Cinza
 sevendaystomine:sleepingbagitem:8, Saco de Dormir Prata
@@ -6967,51 +7533,18 @@ sevendaystomine:sleepingbagitem:12, Saco de Dormir Marrom
 sevendaystomine:sleepingbagitem:13, Saco de Dormir Verde
 sevendaystomine:sleepingbagitem:14, Saco de Dormir Vermelho
 sevendaystomine:sleepingbagitem:15, Saco de Dormir Preto
-sevendaystomine:survival_guide, Guia de Sobrevivência
+sevendaystomine:survival_guide, Guia de SobrevivÃªncia
 sevendaystomine:bloodmoon, item.bloodmoon.name
 sevendaystomine:mre, item.mre.name
 sevendaystomine:vomit, item.vomit.name
 sevendaystomine:soda, item.soda.name
 sevendaystomine:bandage, Atadura
-sevendaystomine:advancedbandage, Atadura Avançada
+sevendaystomine:advancedbandage, Atadura AvanÃ§ada
 sevendaystomine:firstaidkit, Kit de Primeiros Socorros
 sevendaystomine:bloodbag, Saco de Sangue
 sevendaystomine:blooddrawkit, Kit para Retirada de Sangue
 sevendaystomine:bloodbagcontamined, Saco de Sangue Contaminado
-sevendaystomine:antibiotics, Antibióticos
-srpcotesia:inf_crafting_table, §e"Mesa de Trabalho"
-srpcotesia:dendritus, §bDendritus
-srpcotesia:reclamation_table, §bMesa de Reivindicação
-srpcotesia:beckonh, §aArauto Beckon
-srpcotesia:gloom_torch, §eTocha do Crepúsculo
-srpcotesia:dread_lamp, §eLâmpada do Medo
-srpcotesia:chitin, §eQuitina
-srpcotesia:chitin_stairs, §eEscada de Quitina
-srpcotesia:chitin_slab:0, §eLaje de Quitina
-srpcotesia:cartilage, §eCartilagem
-srpcotesia:well_sealer, §6Selador de Poço
-srpcotesia:bounty, §6Recompensa
-srpcotesia:salted_log, §6Tronco Salgado
-srpcotesia:salted_ice, §6Gelo Salgado
-srpcotesia:salted_earth, §6Terra Salgada
-srpcotesia:salted_earth_stairs, §6Escadas de Terra Salgada
-srpcotesia:salted_earth_slab:0, §6Laje de Terra Salgada
-srpcotesia:salted_rock, §6Rocha Salgada
-srpcotesia:salted_rock_stairs, §6Escadas de Rocha Salgada
-srpcotesia:salted_rock_slab:0, §6Laje de Rocha Salgada
-srpcotesia:salted_wood, §6Madeira Salgada
-srpcotesia:salted_wood_stairs, §6Escadas de Madeira Salgada
-srpcotesia:salted_wood_slab:0, §6Laje de Madeira Salgada
-srpcotesia:salted_vine, §6Videira Salgada
-srpcotesia:salted_tendril, §6Tendril Salgado
-srpcotesia:saltine, §6Salino
-srpcotesia:clutch, §6Engate
-srpcotesia:salt_purifier, §6Purificador de Sal
-srpcotesia:rotted_bookshelf, §cEstante Apodrecida
-srpcotesia:blood_lotus, §cLótus Sangrento
-srpcotesia:hi_enchanting_table, §cMesa de Encantamento Sequestrada
-srpcotesia:osmosis, §bOsmose
-srpcotesia:lithograph, §bLitografia
+sevendaystomine:antibiotics, AntibiÃ³ticos
 srpcotesia:factory, Fábrica
 srpcotesia:dirty_needle, §4Agulha Suja
 srpcotesia:brew_sac, Saco de Poção
@@ -7076,6 +7609,39 @@ srpcotesia:reformed_bone, §6Osso Reformado
 srpcotesia:srpcotesia_guandao_vigilant_bone, §eGuandao de Osso Vigilante
 srpcotesia:vigilant_bone, §eOsso Vigilante
 srpcotesia:bleeding_tome, §aTomos Sangrento
+srpcotesia:inf_crafting_table, §e"Mesa de Trabalho"
+srpcotesia:dendritus, §bDendritus
+srpcotesia:reclamation_table, §bMesa de Reivindicação
+srpcotesia:beckonh, §aArauto Beckon
+srpcotesia:gloom_torch, §eTocha do Crepúsculo
+srpcotesia:dread_lamp, §eLâmpada do Medo
+srpcotesia:chitin, §eQuitina
+srpcotesia:chitin_stairs, §eEscada de Quitina
+srpcotesia:chitin_slab:0, §eLaje de Quitina
+srpcotesia:cartilage, §eCartilagem
+srpcotesia:well_sealer, §6Selador de Poço
+srpcotesia:bounty, §6Recompensa
+srpcotesia:salted_log, §6Tronco Salgado
+srpcotesia:salted_ice, §6Gelo Salgado
+srpcotesia:salted_earth, §6Terra Salgada
+srpcotesia:salted_earth_stairs, §6Escadas de Terra Salgada
+srpcotesia:salted_earth_slab:0, §6Laje de Terra Salgada
+srpcotesia:salted_rock, §6Rocha Salgada
+srpcotesia:salted_rock_stairs, §6Escadas de Rocha Salgada
+srpcotesia:salted_rock_slab:0, §6Laje de Rocha Salgada
+srpcotesia:salted_wood, §6Madeira Salgada
+srpcotesia:salted_wood_stairs, §6Escadas de Madeira Salgada
+srpcotesia:salted_wood_slab:0, §6Laje de Madeira Salgada
+srpcotesia:salted_vine, §6Videira Salgada
+srpcotesia:salted_tendril, §6Tendril Salgado
+srpcotesia:saltine, §6Salino
+srpcotesia:clutch, §6Engate
+srpcotesia:salt_purifier, §6Purificador de Sal
+srpcotesia:rotted_bookshelf, §cEstante Apodrecida
+srpcotesia:blood_lotus, §cLótus Sangrento
+srpcotesia:hi_enchanting_table, §cMesa de Encantamento Sequestrada
+srpcotesia:osmosis, §bOsmose
+srpcotesia:lithograph, §bLitografia
 srpextra:itemmobspawner_hijackedcreeper, Spawn Hijacked Creeper
 srpextra:itemmobspawner_hijackedcreeper_head, Spawn Hijacked Creeper Head
 srpextra:itemmobspawner_hijackedskeleton, Spawn Hijacked Skeleton
@@ -7093,18 +7659,18 @@ srpextra:itemremains_check, Remains Analyzer
 srpextra:itemremains_spawn, Remains Reviver
 srpextra:itemremains_canister, Remains Canister
 srpextra:itempinfected_startmelting, Start Melting
-srpdeepseadanger:ada_horgo_drop, Hammerhead Skull Piece
-srpdeepseadanger:luring_hook, Luring Hook
-srpdeepseadanger:tool_fishingrod, §eLiving Fishing Rod
-srpdeepseadanger:tool_fishingrod_sentient, §6Sentient Fishing Rod
-srpdeepseadanger:rotted_fish, Rotted Fish
-srpdeepseadanger:rotted_fish_cooked, Cooked Rotted Fish
-srpdeepseadanger:itemmobspawner_infdrowned, Spawn Assimilated Drowned
-srpdeepseadanger:itemmobspawner_infdolphin, Spawn Assimilated Dolphin
-srpdeepseadanger:itemmobspawner_horgo, Spawn Primitive Hammerhead
-srpdeepseadanger:itemmobspawner_horgoadapted, Spawn Adapted Hammerhead
-srpdeepseadanger:itemmobspawner_ryba, Spawn Swimmer
-srpdeepseadanger:itemmobspawner_rekin, Spawn Leecher
+srpdeepseadanger:ada_horgo_drop, Fragmento do Crânio do Tubarão-Martelo
+srpdeepseadanger:luring_hook, Anzol de isca
+srpdeepseadanger:tool_fishingrod, §eVara de Pesca Viva
+srpdeepseadanger:tool_fishingrod_sentient, §6Vara de Pesca Sensiente
+srpdeepseadanger:rotted_fish, Peixe Podre
+srpdeepseadanger:rotted_fish_cooked, Peixe Podre Cozido
+srpdeepseadanger:itemmobspawner_infdrowned, Spawn Afogado Assimilado
+srpdeepseadanger:itemmobspawner_infdolphin, Spawn Golfinho Assimilado
+srpdeepseadanger:itemmobspawner_horgo, Spawn Tubarão Martelo Primitivo
+srpdeepseadanger:itemmobspawner_horgoadapted, Spawn Tubarão Martelo Adaptado
+srpdeepseadanger:itemmobspawner_ryba, Spawn Nadador
+srpdeepseadanger:itemmobspawner_rekin, Spawn Sanguessuga
 techguns:basicmachine:0, Ammo Press
 techguns:basicmachine:1, Metal Press
 techguns:basicmachine:2, Chemical Laboratory
@@ -7286,8 +7852,16 @@ techguns:itemshared:75, TGX
 techguns:itemshared:76, Nether Charge
 techguns:itemshared:77, Treated Leather
 techguns:itemshared:78, Titanium Ore
+techguns:itemshared:79, Copper Ingot
+techguns:itemshared:80, Tin Ingot
+techguns:itemshared:81, Bronze Ingot
+techguns:itemshared:82, Lead Ingot
+techguns:itemshared:83, Steel Ingot
 techguns:itemshared:84, Obsidian Steel Ingot
 techguns:itemshared:85, Titanium Ingot
+techguns:itemshared:86, Copper Nugget
+techguns:itemshared:87, Lead Nugget
+techguns:itemshared:88, Steel Nugget
 techguns:itemshared:89, Gas Mask Filter
 techguns:itemshared:90, Glider Backpack
 techguns:itemshared:91, Glider Wing
@@ -7474,182 +8048,445 @@ techguns:tfg, TFG 10K
 techguns:laserpistol, Laser Pistol
 techguns:stielgranate, Stick Grenade
 techguns:fraggrenade, Frag Grenade
-buildcraftcore:spring:0, Fonte de Água
-buildcraftcore:spring:1, Fonte de Petróleo
-buildcraftcore:decorated:0, tile.decorated.destroy.name
-buildcraftcore:decorated:1, Blueprint (Decoration)
-buildcraftcore:decorated:2, Template (Decoration)
-buildcraftcore:decorated:3, tile.decorated.paper.name
-buildcraftcore:decorated:4, tile.decorated.leather.name
-buildcraftcore:decorated:5, Laser (Decoration)
-buildcraftcore:marker_volume, Marcador de Localização
-buildcraftcore:marker_path, Marcador de Caminhos
-buildcraftcore:engine:0, Motor de Redstone
-buildcraftcore:engine:1, Motor a Vapor
-buildcraftcore:engine:2, Motor de Combustão
-buildcraftcore:engine:3, Motor Criativo
-buildcraftcore:wrench, Chave Inglesa
-buildcraftcore:gear_wood, Engrenagem de Madeira
-buildcraftcore:gear_stone, Engrenagem de Pedra
-buildcraftcore:gear_iron, Engrenagem de Ferro
-buildcraftcore:gear_gold, Engrenagem de Ouro
-buildcraftcore:gear_diamond, Engrenagem de Diamante
-buildcraftcore:paintbrush:64, Paintbrush
-buildcraftcore:paintbrush:0, §z§0§fBranco§r Paintbrush
-buildcraftcore:paintbrush:0, §z§1§6Laranja§r Paintbrush
-buildcraftcore:paintbrush:0, §z§2§dMagenta§r Paintbrush
-buildcraftcore:paintbrush:0, §z§3§bAzul-claro§r Paintbrush
-buildcraftcore:paintbrush:0, §z§4§eAmarelo§r Paintbrush
-buildcraftcore:paintbrush:0, §z§5§aVerde-limão§r Paintbrush
-buildcraftcore:paintbrush:0, §z§6§dRosa§r Paintbrush
-buildcraftcore:paintbrush:0, §z§7§7Cinza§r Paintbrush
-buildcraftcore:paintbrush:0, §z§8§7Cinza-claro§r Paintbrush
-buildcraftcore:paintbrush:0, §z§9§3Ciano§r Paintbrush
-buildcraftcore:paintbrush:0, §z§a§dRoxo§r Paintbrush
-buildcraftcore:paintbrush:0, §9§9Azul§r Paintbrush
-buildcraftcore:paintbrush:0, §z§c§6Marrom§r Paintbrush
-buildcraftcore:paintbrush:0, §z§d§aVerde§r Paintbrush
-buildcraftcore:paintbrush:0, §z§e§cVermelho§r Paintbrush
-buildcraftcore:paintbrush:0, §0§7Preto§r Paintbrush
-buildcraftcore:list, Lista
-buildcraftcore:map_location:0, Mapa de Localização
-buildcraftcore:marker_connector, Marker Connector
-buildcraftcore:volume_box, item.volume_box.name
-buildcraftcore:fragile_fluid_shard, Fragile %s Shard
-buildcraftbuilders:snapshot:2, Diagrama
-buildcraftbuilders:snapshot:0, Modelo
-buildcraftbuilders:schematic_single:0, Single Block Schematic
-buildcraftbuilders:filler_planner, Filler Planner
-buildcraftbuilders:filler, Preenchedor
-buildcraftbuilders:builder, Construtor
-buildcraftbuilders:architect, Mesa de Arquitetura
-buildcraftbuilders:library, Biblioteca de Diagramas
-buildcraftbuilders:replacer, tile.replacerBlock.name
-buildcraftbuilders:frame, Armação
-buildcraftbuilders:quarry, Quarry
-buildcrafttransport:pipe_structure:0, Tubo de Estrutura de Pedregulho
-buildcrafttransport:pipe_wood_item:0, Tubo de Transporte de Madeira
-buildcrafttransport:pipe_cobble_item:0, Tubo de Transporte de Pedregulho
-buildcrafttransport:pipe_stone_item:0, Tubo de Transporte de Pedra
-buildcrafttransport:pipe_quartz_item:0, Tubo de Transporte de Quartzo
-buildcrafttransport:pipe_iron_item:0, Tubo de Transporte de Ferro
-buildcrafttransport:pipe_gold_item:0, Tubo de Transporte de Ouro
-buildcrafttransport:pipe_clay_item:0, Clay Transport Pipe
-buildcrafttransport:pipe_sandstone_item:0, Tubo de Transporte de Arenito
-buildcrafttransport:pipe_void_item:0, Tubo de Transporte Vazio
-buildcrafttransport:pipe_obsidian_item:0, Tubo de Transporte de Obsidiana
-buildcrafttransport:pipe_diamond_item:0, Tubo de Transporte de Diamante
-buildcrafttransport:pipe_diamond_wood_item:0, Wooden Diamond Transport Pipe
-buildcrafttransport:pipe_lapis_item:0, Tubo de Transporte de Lazuli
-buildcrafttransport:pipe_daizuli_item:0, Tubo de Transporte de Daizuli
-buildcrafttransport:pipe_emzuli_item:0, Tubo de Transporte de Emzuli
-buildcrafttransport:pipe_stripes_item:0, Tubo de Transporte Listrado
-buildcrafttransport:pipe_wood_fluid:0, Tubo de Fluído de Madeira
-buildcrafttransport:pipe_cobble_fluid:0, Tubo de Fluído de Pedregulho
-buildcrafttransport:pipe_stone_fluid:0, Tubo de Fluído de Pedra
-buildcrafttransport:pipe_quartz_fluid:0, Tubo de Fluído de Quartzo
-buildcrafttransport:pipe_gold_fluid:0, Tubo de Fluído de Ouro
-buildcrafttransport:pipe_iron_fluid:0, Tubo de Fluído de Ferro
-buildcrafttransport:pipe_clay_fluid:0, Clay Fluid Pipe
-buildcrafttransport:pipe_sandstone_fluid:0, Tubo de Fluído de Arenito
-buildcrafttransport:pipe_void_fluid:0, Tubo de Fluído Vazio
-buildcrafttransport:pipe_diamond_fluid:0, Diamond Fluid Pipe
-buildcrafttransport:pipe_diamond_wood_fluid:0, Wooden Diamond Fluid Pipe
-buildcrafttransport:pipe_wood_power:0, Tubo Cinético de Madeira
-buildcrafttransport:pipe_cobble_power:0, Tubo Cinético de Pedregulho
-buildcrafttransport:pipe_stone_power:0, Tubo Cinético de Pedra
-buildcrafttransport:pipe_quartz_power:0, Tubo Cinético de Quartzo
-buildcrafttransport:pipe_iron_power:0, Tubo Cinético de Ferro
-buildcrafttransport:pipe_gold_power:0, Tubo Cinético de Ouro
-buildcrafttransport:pipe_sandstone_power:0, Sandstone Kinesis Pipe
-buildcrafttransport:pipe_diamond_power:0, Tubo Cinético de Diamante
-buildcrafttransport:pipe_diamond_wood_power:0, Wooden Diamond Kinesis Pipe
-buildcrafttransport:pipe_wood_rf:0, Wooden Redstone Flux Pipe
-buildcrafttransport:pipe_cobble_rf:0, Cobblestone Redstone Flux Pipe
-buildcrafttransport:pipe_stone_rf:0, Stone Redstone Flux Pipe
-buildcrafttransport:pipe_quartz_rf:0, Quartz Redstone Flux Pipe
-buildcrafttransport:pipe_iron_rf:0, Iron Redstone Flux Pipe
-buildcrafttransport:pipe_gold_rf:0, Golden Redstone Flux Pipe
-buildcrafttransport:pipe_sandstone_rf:0, item.PipeRedstoneFluxSandstone.name
-buildcrafttransport:pipe_diamond_rf:0, Diamond Redstone Flux Pipe
-buildcrafttransport:pipe_diamond_wood_rf:0, Wooden Diamond Redstone Flux Pipe
-buildcrafttransport:filtered_buffer, Filtro de Buffer
-buildcrafttransport:waterproof, Vedação de Tubo
-buildcrafttransport:plug_blocker, Tampa de Tubo
-buildcrafttransport:plug_power_adaptor, Power Adapter
-buildcrafttransport:wire:0, §z§0§fBranco§r Pipe Wire
-buildcrafttransport:wire:1, §z§1§6Laranja§r Pipe Wire
-buildcrafttransport:wire:2, §z§2§dMagenta§r Pipe Wire
-buildcrafttransport:wire:3, §z§3§bAzul-claro§r Pipe Wire
-buildcrafttransport:wire:4, §z§4§eAmarelo§r Pipe Wire
-buildcrafttransport:wire:5, §z§5§aVerde-limão§r Pipe Wire
-buildcrafttransport:wire:6, §z§6§dRosa§r Pipe Wire
-buildcrafttransport:wire:7, §z§7§7Cinza§r Pipe Wire
-buildcrafttransport:wire:8, §z§8§7Cinza-claro§r Pipe Wire
-buildcrafttransport:wire:9, §z§9§3Ciano§r Pipe Wire
-buildcrafttransport:wire:10, §z§a§dRoxo§r Pipe Wire
-buildcrafttransport:wire:11, §9§9Azul§r Pipe Wire
-buildcrafttransport:wire:12, §z§c§6Marrom§r Pipe Wire
-buildcrafttransport:wire:13, §z§d§aVerde§r Pipe Wire
-buildcrafttransport:wire:14, §z§e§cVermelho§r Pipe Wire
-buildcrafttransport:wire:15, §0§7Preto§r Pipe Wire
-buildcraftsilicon:laser, Laser
-buildcraftsilicon:assembly_table, Mesa de Montagem
-buildcraftsilicon:advanced_crafting_table, Mesa de Trabalho Avançado
-buildcraftsilicon:integration_table, Mesa de Integração
-buildcraftsilicon:redstone_chipset:0, Chipset de Redstone
-buildcraftsilicon:redstone_chipset:1, Chipset de Ferro
-buildcraftsilicon:redstone_chipset:2, Chipset de Ouro
-buildcraftsilicon:redstone_chipset:3, Chipset de Quartzo
-buildcraftsilicon:redstone_chipset:4, Chipset de Diamante
-buildcraftsilicon:gate_copier, Copiadora de Porta Lógica
-buildcraftsilicon:plug_gate, item.gate.name
-buildcraftsilicon:plug_lens:0, §0§7Preto§r Lens
-buildcraftsilicon:plug_lens:1, §z§e§cVermelho§r Lens
-buildcraftsilicon:plug_lens:2, §z§d§aVerde§r Lens
-buildcraftsilicon:plug_lens:3, §z§c§6Marrom§r Lens
-buildcraftsilicon:plug_lens:4, §9§9Azul§r Lens
-buildcraftsilicon:plug_lens:5, §z§a§dRoxo§r Lens
-buildcraftsilicon:plug_lens:6, §z§9§3Ciano§r Lens
-buildcraftsilicon:plug_lens:7, §z§8§7Cinza-claro§r Lens
-buildcraftsilicon:plug_lens:8, §z§7§7Cinza§r Lens
-buildcraftsilicon:plug_lens:9, §z§6§dRosa§r Lens
-buildcraftsilicon:plug_lens:10, §z§5§aVerde-limão§r Lens
-buildcraftsilicon:plug_lens:11, §z§4§eAmarelo§r Lens
-buildcraftsilicon:plug_lens:12, §z§3§bAzul-claro§r Lens
-buildcraftsilicon:plug_lens:13, §z§2§dMagenta§r Lens
-buildcraftsilicon:plug_lens:14, §z§1§6Laranja§r Lens
-buildcraftsilicon:plug_lens:15, §z§0§fBranco§r Lens
-buildcraftsilicon:plug_lens:16, §0§7Preto§r Filter
-buildcraftsilicon:plug_lens:17, §z§e§cVermelho§r Filter
-buildcraftsilicon:plug_lens:18, §z§d§aVerde§r Filter
-buildcraftsilicon:plug_lens:19, §z§c§6Marrom§r Filter
-buildcraftsilicon:plug_lens:20, §9§9Azul§r Filter
-buildcraftsilicon:plug_lens:21, §z§a§dRoxo§r Filter
-buildcraftsilicon:plug_lens:22, §z§9§3Ciano§r Filter
-buildcraftsilicon:plug_lens:23, §z§8§7Cinza-claro§r Filter
-buildcraftsilicon:plug_lens:24, §z§7§7Cinza§r Filter
-buildcraftsilicon:plug_lens:25, §z§6§dRosa§r Filter
-buildcraftsilicon:plug_lens:26, §z§5§aVerde-limão§r Filter
-buildcraftsilicon:plug_lens:27, §z§4§eAmarelo§r Filter
-buildcraftsilicon:plug_lens:28, §z§3§bAzul-claro§r Filter
-buildcraftsilicon:plug_lens:29, §z§2§dMagenta§r Filter
-buildcraftsilicon:plug_lens:30, §z§1§6Laranja§r Filter
-buildcraftsilicon:plug_lens:31, §z§0§fBranco§r Filter
-buildcraftsilicon:plug_lens:32, Clear Lens
-buildcraftsilicon:plug_lens:33, Clear Filter
-buildcraftsilicon:plug_pulsar, Pipe Pulsar
-buildcraftsilicon:plug_light_sensor, Light Sensor
-buildcraftsilicon:plug_timer, Timer
-buildcraftenergy:glob_of_oil, item.globOil.name
-buildcraftfactory:autoworkbench_item, Mesa de Trabalho Automática
-buildcraftfactory:mining_well, Minerador de Poços
-buildcraftfactory:pump, Bomba de Fluídos
-buildcraftfactory:flood_gate, Comporta Hidráulica
-buildcraftfactory:tank, Tanque
-buildcraftfactory:chute, Chute
-buildcraftfactory:distiller, Distiller
-buildcraftfactory:heat_exchange, Heat Exchanger
-buildcraftfactory:water_gel_spawn, Water Gelifier
-buildcraftfactory:gel, Gelled Water
-buildcraftrobotics:zone_planner, Zone Planner
+travelersbackpack:travelers_backpack:0, Mochila do Viajante
+travelersbackpack:travelers_backpack:1, Mochila do Viajante
+travelersbackpack:travelers_backpack:2, Mochila do Viajante
+travelersbackpack:travelers_backpack:3, Mochila do Viajante
+travelersbackpack:travelers_backpack:4, Mochila do Viajante
+travelersbackpack:travelers_backpack:5, Mochila do Viajante
+travelersbackpack:travelers_backpack:6, Mochila do Viajante
+travelersbackpack:travelers_backpack:7, Mochila do Viajante
+travelersbackpack:travelers_backpack:8, Mochila do Viajante
+travelersbackpack:travelers_backpack:9, Mochila do Viajante
+travelersbackpack:travelers_backpack:10, Mochila do Viajante
+travelersbackpack:travelers_backpack:11, Mochila do Viajante
+travelersbackpack:travelers_backpack:12, Mochila do Viajante
+travelersbackpack:travelers_backpack:13, Mochila do Viajante
+travelersbackpack:travelers_backpack:14, Mochila do Viajante
+travelersbackpack:travelers_backpack:15, Mochila do Viajante
+travelersbackpack:travelers_backpack:16, Mochila do Viajante
+travelersbackpack:travelers_backpack:17, Mochila do Viajante
+travelersbackpack:travelers_backpack:18, Mochila do Viajante
+travelersbackpack:travelers_backpack:19, Mochila do Viajante
+travelersbackpack:travelers_backpack:20, Mochila do Viajante
+travelersbackpack:travelers_backpack:21, Mochila do Viajante
+travelersbackpack:travelers_backpack:22, Mochila do Viajante
+travelersbackpack:travelers_backpack:23, Mochila do Viajante
+travelersbackpack:travelers_backpack:24, Mochila do Viajante
+travelersbackpack:travelers_backpack:25, Mochila do Viajante
+travelersbackpack:travelers_backpack:26, Mochila do Viajante
+travelersbackpack:travelers_backpack:27, Mochila do Viajante
+travelersbackpack:travelers_backpack:28, Mochila do Viajante
+travelersbackpack:travelers_backpack:29, Mochila do Viajante
+travelersbackpack:travelers_backpack:30, Mochila do Viajante
+travelersbackpack:travelers_backpack:31, Mochila do Viajante
+travelersbackpack:travelers_backpack:32, Mochila do Viajante
+travelersbackpack:travelers_backpack:33, Mochila do Viajante
+travelersbackpack:travelers_backpack:34, Mochila do Viajante
+travelersbackpack:travelers_backpack:35, Mochila do Viajante
+travelersbackpack:travelers_backpack:36, Mochila do Viajante
+travelersbackpack:travelers_backpack:37, Mochila do Viajante
+travelersbackpack:travelers_backpack:38, Mochila do Viajante
+travelersbackpack:travelers_backpack:39, Mochila do Viajante
+travelersbackpack:travelers_backpack:40, Mochila do Viajante
+travelersbackpack:travelers_backpack:41, Mochila do Viajante
+travelersbackpack:travelers_backpack:42, Mochila do Viajante
+travelersbackpack:travelers_backpack:43, Mochila do Viajante
+travelersbackpack:travelers_backpack:44, Mochila do Viajante
+travelersbackpack:travelers_backpack:45, Mochila do Viajante
+travelersbackpack:travelers_backpack:46, Mochila do Viajante
+travelersbackpack:travelers_backpack:47, Mochila do Viajante
+travelersbackpack:travelers_backpack:48, Mochila do Viajante
+travelersbackpack:travelers_backpack:49, Mochila do Viajante
+travelersbackpack:travelers_backpack:50, Mochila do Viajante
+travelersbackpack:travelers_backpack:51, Mochila do Viajante
+travelersbackpack:travelers_backpack:52, Mochila do Viajante
+travelersbackpack:travelers_backpack:53, Mochila do Viajante
+travelersbackpack:travelers_backpack:54, Mochila do Viajante
+travelersbackpack:travelers_backpack:55, Mochila do Viajante
+travelersbackpack:travelers_backpack:56, Mochila do Viajante
+travelersbackpack:travelers_backpack:57, Mochila do Viajante
+travelersbackpack:travelers_backpack:58, Mochila do Viajante
+travelersbackpack:travelers_backpack:59, Mochila do Viajante
+travelersbackpack:travelers_backpack:60, Mochila do Viajante
+travelersbackpack:travelers_backpack:61, Mochila do Viajante
+travelersbackpack:travelers_backpack:62, Mochila do Viajante
+travelersbackpack:travelers_backpack:63, Mochila do Viajante
+travelersbackpack:travelers_backpack:64, Mochila do Viajante
+travelersbackpack:travelers_backpack:65, Mochila do Viajante
+travelersbackpack:travelers_backpack:66, Mochila do Viajante
+travelersbackpack:travelers_backpack:67, Mochila do Viajante
+travelersbackpack:travelers_backpack:68, Mochila do Viajante
+travelersbackpack:travelers_backpack:69, Mochila do Viajante
+travelersbackpack:travelers_backpack:70, Mochila do Viajante
+travelersbackpack:travelers_backpack:71, Mochila do Viajante
+travelersbackpack:travelers_backpack:72, Mochila do Viajante
+travelersbackpack:travelers_backpack:73, Mochila do Viajante
+travelersbackpack:travelers_backpack:74, Mochila do Viajante
+travelersbackpack:travelers_backpack:75, Mochila do Viajante
+travelersbackpack:travelers_backpack:76, Mochila do Viajante
+travelersbackpack:backpack_tank, Tanque da mochila
+travelersbackpack:sleeping_bag_bottom, Saco de dormir
+travelersbackpack:hose_nozzle, Ponta da mangueira
+travelersbackpack:hose, Mangueira
+pvj:short_grass:0, Grama Baixa
+pvj:frost_lotus:0, Lótus Gélido
+pvj:silverleaf:0, Folha Prateada
+pvj:chickweed:0, Morugem
+pvj:clovers:0, Trevo
+pvj:crabgrass:0, Capim-de-Caranguejo
+pvj:bracket_fungus:0, Poliporo
+pvj:flouropore:0, Flouroporo
+pvj:frogbit:0, Morsus Ranae
+pvj:duckweed:0, Lentilha D'água
+pvj:waxcap:0, Cogumelo Cônico
+pvj:orange_mushroom:0, Cogumelo Jack O' Lantern
+pvj:deathcap:0, Amanita-verde
+pvj:cattail:0, Taboa
+pvj:beach_grass:0, Grama de Praia
+pvj:sea_oats:0, Aveia Marinha
+pvj:sundew:0, Drosera
+pvj:small_cactus:0, Cacto Pequeno
+pvj:void_grass:0, Grama do Vazio
+pvj:wild_wheat:0, Trigo Selvagem
+pvj:wild_potato:0, Batata Selvagem
+pvj:wild_carrot:0, Cenoura Selvagem
+pvj:wild_beetroot:0, Beterraba Selvagem
+pvj:bloodnettle:0, Urtiga Sanguínea
+pvj:glowcap:0, Cogumelo Brilhante
+pvj:witherweed:0, Erva Murcha
+pvj:log_willow:0, Madeira de Salgueiro
+pvj:log_mangrove:0, Madeira de Mangue
+pvj:log_palm:0, Madeira de Palmeira
+pvj:log_redwood:0, Madeira de Sequoia
+pvj:log_fir:0, Madeira de Abeto
+pvj:log_pine:0, Madeira de Pinheiro
+pvj:log_aspen:0, Madeira de Álamo
+pvj:log_maple:0, Madeira de Bordo
+pvj:log_baobab:0, Madeira de Baobá
+pvj:log_cottonwood:0, Madeira de Cottonwood
+pvj:log_juniper:0, Madeira de Zimbro
+pvj:log_cherry_blossom:0, Madeira de Flor de Cerejeira
+pvj:log_jacaranda:0, Madeira de Jacarandá
+pvj:leaves_willow:3, Folhas de Salgueiro
+pvj:leaves_mangrove:3, Folhas de Mangue
+pvj:leaves_palm:3, Folhas de Palmeira
+pvj:leaves_redwood:3, Folhas de Sequoia
+pvj:leaves_fir:3, Folhas de Abeto
+pvj:leaves_pine:3, Folhas de Pinheiro
+pvj:leaves_aspen:3, Folhas de Álamo
+pvj:leaves_red_maple:3, Folhas de Bordo Vermelho
+pvj:leaves_orange_maple:3, Folhas de Bordo Laranja
+pvj:leaves_baobab:3, Folhas de Baobá
+pvj:leaves_cottonwood:3, Folhas de Cottonwood
+pvj:leaves_juniper:3, Folhas de Zimbro
+pvj:leaves_juniper_berried:3, Folhas de Zimbro com Bagas.name
+pvj:leaves_white_cherry_blossom:3, Folhas de Flor de Cerejeira Branca
+pvj:leaves_pink_cherry_blossom:3, Folhas de Flor de Cerejeira Rosa
+pvj:leaves_jacaranda:3, Folhas de Jacarandá
+pvj:sapling_willow:0, Muda de Salgueiro
+pvj:sapling_mangrove:0, Muda de Mangue
+pvj:sapling_palm:0, Muda de Palmeira
+pvj:sapling_redwood:0, Muda de Sequoia
+pvj:sapling_fir:0, Muda de Abeto
+pvj:sapling_pine:0, Muda de Pinheiro
+pvj:sapling_aspen:0, Muda de Álamo
+pvj:sapling_red_maple:0, Muda de Bordo Vermelho
+pvj:sapling_orange_maple:0, Muda de Bordo Laranja
+pvj:sapling_baobab:0, Muda de Baobá
+pvj:sapling_cottonwood:0, Muda de Cottonwood
+pvj:sapling_juniper:0, Muda de Zimbro
+pvj:sapling_juniper_berried:0, tile.sapling_juniper_berried.name
+pvj:sapling_white_cherry_blossom:0, Muda de Flor de Cerejeira Branca
+pvj:sapling_pink_cherry_blossom:0, Muda de Flor de Cerejeira Rosa
+pvj:sapling_jacaranda:0, Muda de Jacarandá
+pvj:planks_willow:0, Tábuas de Madeira de Salgueiro
+pvj:planks_mangrove:0, Tábuas de Madeira de Mangue
+pvj:planks_palm:0, Tábuas de Madeira de Palmeira
+pvj:planks_redwood:0, Tábuas de Madeira de Sequoia
+pvj:planks_fir:0, Tábuas de Madeira de Abeto
+pvj:planks_pine:0, Tábuas de Madeira de Pinheiro
+pvj:planks_aspen:0, Tábuas de Madeira de Álamo
+pvj:planks_maple:0, Tábuas de Madeira de Bordo
+pvj:planks_baobab:0, Tábuas de Madeira de Baobá
+pvj:planks_cottonwood:0, Tábuas de Cottonwood
+pvj:planks_juniper:0, Tábuas de Zimbro
+pvj:planks_cherry_blossom:0, Tábuas de Flor de Cerejeira
+pvj:planks_jacaranda:0, Tábuas de Jacarandá
+pvj:willow_stairs:0, Escadas de Salgueiro
+pvj:mangrove_stairs:0, Escadas de Mangue
+pvj:palm_stairs:0, Escadas de Palmeira
+pvj:redwood_stairs:0, Escadas de Sequoia
+pvj:fir_stairs:0, Escadas de Abeto
+pvj:pine_stairs:0, Escadas de Pinheiro
+pvj:aspen_stairs:0, Escadas de Álamo
+pvj:maple_stairs:0, Escadas de Bordo
+pvj:baobab_stairs:0, Escadas de Baobá
+pvj:cottonwood_stairs:0, Escadas de Cottonwood
+pvj:juniper_stairs:0, Escadas de Zimbro
+pvj:cherry_blossom_stairs:0, Escadas de Flor de Cerejeira
+pvj:jacaranda_stairs:0, Escadas de Jacarandá
+pvj:willow_slab:0, Laje de Salgueiro
+pvj:mangrove_slab:0, Laje de Mangue
+pvj:palm_slab:0, Laje de Palmeira
+pvj:redwood_slab:0, Laje de Sequoia
+pvj:fir_slab:0, Laje de Abeto
+pvj:pine_slab:0, Laje de Pinheiro
+pvj:aspen_slab:0, Laje de Álamo
+pvj:maple_slab:0, Laje de Bordo
+pvj:baobab_slab:0, Laje de Baobá
+pvj:cottonwood_slab:0, Laje de Cottonwood
+pvj:juniper_slab:0, Laje de Zimbro
+pvj:cherry_blossom_slab:0, Laje de Flor de Cerejeira
+pvj:jacaranda_slab:0, Laje de Jacarandá
+pvj:willow_fence:0, Cerca de Salgueiro
+pvj:mangrove_fence:0, Cerca de Mangue
+pvj:palm_fence:0, Cerca de Palmeira
+pvj:redwood_fence:0, Cerca de Sequoia
+pvj:fir_fence:0, Cerca de Abeto
+pvj:pine_fence:0, Cerca de Pinheiro
+pvj:aspen_fence:0, Cerca de Álamo
+pvj:maple_fence:0, Cerca de Bordo
+pvj:baobab_fence:0, Cerca de Baobá
+pvj:cottonwood_fence:0, Cerca de Cottonwood
+pvj:juniper_fence:0, Cerca de Zimbro
+pvj:cherry_blossom_fence:0, Cerca de Flor de Cerejeira
+pvj:jacaranda_fence:0, Cerca de Jacarandá
+pvj:willow_fence_gate:0, Portão de Cerca de Salgueiro
+pvj:mangrove_fence_gate:0, Portão de Cerca de Mangue
+pvj:palm_fence_gate:0, Portão de Cerca de Palmeira
+pvj:redwood_fence_gate:0, Portão de Cerca de Sequoia
+pvj:fir_fence_gate:0, Portão de Cerca de Abeto
+pvj:pine_fence_gate:0, Portão de Cerca de Pinheiro
+pvj:aspen_fence_gate:0, Portão de Cerca de Álamo
+pvj:maple_fence_gate:0, Portão de Cerca de Bordo
+pvj:baobab_fence_gate:0, Portão de Cerca de Baobá
+pvj:cottonwood_fence_gate:0, Portão de Cerca de Cottonwood
+pvj:juniper_fence_gate:0, Portão de Cerca de Zimbro
+pvj:cherry_blossom_fence_gate:0, Portão de Cerca de Flor de Cerejeira
+pvj:jacaranda_fence_gate:0, Portão de Cerca de Jacarandá
+pvj:willow_door:0, tile.willow_door.name
+pvj:willow_door_item, Porta de Salgueiro
+pvj:mangrove_door:0, tile.mangrove_door.name
+pvj:mangrove_door_item, Porta de Mangue
+pvj:palm_door:0, tile.palm_door.name
+pvj:palm_door_item, Porta de Palmeira
+pvj:redwood_door:0, tile.redwood_door.name
+pvj:redwood_door_item, Porta de Sequoia
+pvj:fir_door:0, tile.fir_door.name
+pvj:fir_door_item, Porta de Abeto
+pvj:pine_door:0, tile.pine_door.name
+pvj:pine_door_item, Porta de Pinheiro
+pvj:aspen_door:0, tile.aspen_door.name
+pvj:aspen_door_item, Porta de Álamo
+pvj:maple_door:0, tile.maple_door.name
+pvj:maple_door_item, Porta de Bordo
+pvj:baobab_door:0, tile.baobab_door.name
+pvj:baobab_door_item, Porta de Baobá
+pvj:cottonwood_door:0, tile.cottonwood_door.name
+pvj:cottonwood_door_item, Porta de Cottonwood
+pvj:juniper_door:0, tile.juniper_door.name
+pvj:juniper_door_item, Porta de Zimbro
+pvj:cherry_blossom_door:0, tile.cherry_blossom_door.name
+pvj:cherry_blossom_door_item, Porta de Flor de Cerejeira
+pvj:jacaranda_door:0, tile.jacaranda_door.name
+pvj:jacaranda_door_item, Porta de Jacarandá
+pvj:willow_trapdoor:0, Alçapão de Salgueiro
+pvj:mangrove_trapdoor:0, Alçapão de Mangue
+pvj:palm_trapdoor:0, Alçapão de Palmeira
+pvj:redwood_trapdoor:0, Alçapão de Sequoia
+pvj:fir_trapdoor:0, Alçapão de Abeto
+pvj:pine_trapdoor:0, Alçapão de Pinheiro
+pvj:aspen_trapdoor:0, Alçapão de Álamo
+pvj:maple_trapdoor:0, Alçapão de Bordo
+pvj:baobab_trapdoor:0, Alçapão de Baobá
+pvj:cottonwood_trapdoor:0, Alçapão de Cottonwood
+pvj:juniper_trapdoor:0, Alçapão de Zimbro
+pvj:cherry_blossom_trapdoor:0, Alçapão de Flor de Cerejeira
+pvj:jacaranda_trapdoor:0, Alçapão de Jacarandá
+pvj:willow_button:0, Botão de Salgueiro
+pvj:mangrove_button:0, Botão de Mangue
+pvj:palm_button:0, Botão de Palmeira
+pvj:redwood_button:0, Botão de Sequoia
+pvj:fir_button:0, Botão de Abeto
+pvj:pine_button:0, Botão de Pinheiro
+pvj:aspen_button:0, Botão de Álamo
+pvj:maple_button:0, Botão de Bordo
+pvj:baobab_button:0, Botão de Baobá
+pvj:cottonwood_button:0, Botão de Cottonwood
+pvj:juniper_button:0, Botão de Zimbro
+pvj:cherry_blossom_button:0, Botão de Flor de Cerejeira
+pvj:jacaranda_button:0, Botão de Jacarandá
+pvj:willow_pressure_plate:0, Placa de Pressão de Salgueiro
+pvj:mangrove_pressure_plate:0, Placa de Pressão de Mangue
+pvj:palm_pressure_plate:0, Placa de Pressão de Palmeira
+pvj:redwood_pressure_plate:0, Placa de Pressão de Sequoia
+pvj:fir_pressure_plate:0, Placa de Pressão de Abeto
+pvj:pine_pressure_plate:0, Placa de Pressão de Pinheiro
+pvj:aspen_pressure_plate:0, Placa de Pressão de Álamo
+pvj:maple_pressure_plate:0, Placa de Pressão de Bordo
+pvj:baobab_pressure_plate:0, Placa de Pressão de Baobá
+pvj:cottonwood_pressure_plate:0, Placa de Pressão de Cottonwood
+pvj:juniper_pressure_plate:0, Placa de Pressão de Zimbro.name
+pvj:cherry_blossom_pressure_plate:0, Placa de Pressão de Flor de Cerejeira.name
+pvj:jacaranda_pressure_plate:0, Placa de Pressão de Jacarandá.name
+pvj:redwood_bark:0, Casca de Sequoia
+pvj:fallenleaves_oak:0, Folhas Caídas de Carvalho
+pvj:fallenleaves_birch:0, Folhas Caídas de Bétula
+pvj:fallenleaves_spruce:0, Folhas Caídas de Abeto
+pvj:fallenleaves_jungle:0, Folhas Caídas da Selva
+pvj:fallenleaves_darkoak:0, Folhas Caídas de Carvalho Escuro
+pvj:fallenleaves_acacia:0, Folhas Caídas de Acácia
+pvj:fallenleaves_dead:0, Folhas Caídas Mortas
+pvj:fallenleaves_willow:0, Folhas Caídas de Salgueiro
+pvj:fallenleaves_mangrove:0, Folhas Caídas de Mangue
+pvj:fallenleaves_palm:0, Folhas Caídas de Palmeira
+pvj:fallenleaves_redwood:0, Folhas Caídas de Sequoia
+pvj:fallenleaves_fir:0, Folhas Caídas de Abeto
+pvj:fallenleaves_pine:0, Folhas Caídas de Pinheiro
+pvj:fallenleaves_aspen:0, Folhas Caídas de Álamo
+pvj:fallenleaves_red_maple:0, Folhas Caídas de Bordo Vermelho
+pvj:fallenleaves_orange_maple:0, Folhas Caídas de Bordo Laranja
+pvj:fallenleaves_baobab:0, Folhas Caídas de Baobá
+pvj:fallenleaves_cottonwood:0, Folhas Caídas de Cottonwood
+pvj:fallenleaves_juniper:0, Folhas Caídas de Zimbro
+pvj:fallenleaves_juniper_berried:0, tile.fallenleaves_juniper_berried.name
+pvj:fallenleaves_white_cherry_blossom:0, Folhas Caídas de Flor de Cerejeira Branca
+pvj:fallenleaves_pink_cherry_blossom:0, Folhas Caídas de Flor de Cerejeira Rosa
+pvj:fallenleaves_jacaranda:0, Folhas Caídas de Jacarandá
+pvj:oak_twigs:0, Galhos de Carvalho
+pvj:birch_twigs:0, Galhos de Bétula
+pvj:spruce_twigs:0, Galhos de Abeto
+pvj:jungle_twigs:0, Galhos da Selva
+pvj:acacia_twigs:0, Galhos de Acácia
+pvj:dark_oak_twigs:0, Galhos de Carvalho Escuro
+pvj:willow_twigs:0, Galhos de Salgueiro
+pvj:mangrove_twigs:0, Galhos de Mangue
+pvj:palm_twigs:0, Galhos de Palmeira
+pvj:redwood_twigs:0, Galhos de Sequoia
+pvj:fir_twigs:0, Galhos de Abeto
+pvj:pine_twigs:0, Galhos de Pinheiro
+pvj:aspen_twigs:0, Galhos de Álamo
+pvj:red_maple_twigs:0, Galhos de Bordo Vermelho
+pvj:orange_maple_twigs:0, Galhos de Bordo Laranja
+pvj:baobab_twigs:0, Galhos de Baobá
+pvj:cottonwood_twigs:0, Galhos de Cottonwood
+pvj:juniper_twigs:0, Galhos de Zimbro
+pvj:juniper_berried_twigs:0, tile.juniper_berried_twigs.name
+pvj:white_cherry_blossom_twigs:0, Galhos de Flor de Cerejeira Branca
+pvj:pink_cherry_blossom_twigs:0, Galhos de Flor de Cerejeira Rosa
+pvj:jacaranda_twigs:0, Galhos de Jacarandá
+pvj:coconut:0, Coco
+pvj:stone_rocks:0, Rochas de Pedra
+pvj:cobblestone_rocks:0, Rochas de Pedregulho
+pvj:mossy_cobblestone_rocks:0, Rochas de Pedregulho Musgoso
+pvj:andesite_rocks:0, Rochas de Andesito
+pvj:granite_rocks:0, Rochas de Granito
+pvj:diorite_rocks:0, Rochas de Diorito
+pvj:sandstone_rocks:0, Rochas de Arenito
+pvj:red_sandstone_rocks:0, Rochas de Arenito Vermelho
+pvj:bones:0, Ossos
+pvj:seashells:0, Conchas do Mar
+pvj:pinecones:0, Pinhas
+pvj:flower_patch:0, Canteiro de Flores
+pvj:cracked_sand:0, Areia Rachada
+pvj:red_cracked_sand:0, Areia Rachada Vermelha
+pvj:mud:0, Lama
+pvj:wet_adobe:0, Adobe Molhado
+pvj:cobblestone_brick:0, Tijolos de Pedregulho
+pvj:basalt:0, Basalto
+pvj:basalt_brick:0, Tijolos de Basalto
+pvj:limestone:0, Calcário
+pvj:marble:0, Mármore
+pvj:marble_brick:0, Tijolos de Mármore
+pvj:siltstone:0, Siltito
+pvj:adobe:0, Adobe
+pvj:adobe_brick:0, Tijolos de Adobe
+pvj:cobblestone_brick_stairs:0, Escadas de Tijolos de Pedregulho
+pvj:basalt_stairs:0, Escadas de Basalto
+pvj:basalt_brick_stairs:0, Escadas de Tijolos de Basalto
+pvj:limestone_stairs:0, Escadas de Calcário
+pvj:marble_stairs:0, Escadas de Mármore
+pvj:marble_brick_stairs:0, Escadas de Tijolos de Mármore
+pvj:siltstone_stairs:0, Escadas de Siltito
+pvj:adobe_stairs:0, Escadas de Adobe
+pvj:adobe_brick_stairs:0, Escadas de Tijolos de Adobe
+pvj:cobblestone_brick_slab:0, Laje de Tijolos de Pedregulho
+pvj:basalt_slab:0, Laje de Basalto
+pvj:basalt_brick_slab:0, Laje de Tijolos de Basalto
+pvj:limestone_slab:0, Laje de Calcário
+pvj:marble_slab:0, Laje de Mármore
+pvj:marble_brick_slab:0, Laje de Tijolos de Mármore
+pvj:siltstone_slab:0, Laje de Siltito
+pvj:adobe_slab:0, Laje de Adobe
+pvj:adobe_brick_slab:0, Laje de Tijolos de Adobe
+pvj:cobblestone_brick_wall:0, Muro de Tijolos de Pedregulho
+pvj:mystical_grill:0, Grelha Mística
+pvj:rock_formation:0, Formação Rochosa
+pvj:ice_formation:0, tile.ice_formation.name
+pvj:pvj_cobweb:0, tile.pvj_cobweb.name
+pvj:slime_droplet, Gota de Slime
+pvj:cracked_coconut, Coco Rachado
+pvj:coconut_milk, Leite de Coco
+pvj:juniper_berries, Baguinhas de Zimbro
+pvj:raw_squid, Lula Crua
+pvj:cooked_squid, Lula Cozida
+pvj:sugarcane_juice, Suco de Cana-de-Açúcar
+pvj:cactus_salad, Salada de Cacto
+pvj:raw_duck, Pato Cru
+pvj:cooked_duck, Pato Cozido
+pvj:clam, Amêijoa
+pvj:steamed_clam_meat, Carne de Amêijoa Cozida no Vapor
+pvj:clam_chowder, Ensopado de Amêijoa
+pvj:spectral_wrappings, Envoltórios Espectrais
+pvj:goon_bile, Bile de Goon
+pvj:unstable_essence, Essência Instável
+pvj:willow_boat, Barco de Salgueiro
+pvj:mangrove_boat, Barco de Mangue
+pvj:palm_boat, Barco de Palmeira
+pvj:redwood_boat, Barco de Sequoia
+pvj:fir_boat, Barco de Abeto
+pvj:pine_boat, Barco de Pinheiro
+pvj:aspen_boat, Barco de Álamo
+pvj:maple_boat, Barco de Bordo
+pvj:baobab_boat, Barco de Baobá
+pvj:cottonwood_boat, Barco de Cottonwood
+pvj:juniper_boat, Barco de Zimbro
+pvj:cherry_blossom_boat, Barco de Flor de Cerejeira
+pvj:jacaranda_boat, Barco de Jacarandá
+pvj:mystical_porkchop, Costeleta Mística de Porco
+pvj:mystical_beef, Carne Mística
+pvj:mystical_chicken, Frango Místico
+pvj:mystical_mutton, Carneiro Místico
+pvj:mystical_cod, Bacalhau Místico
+pvj:mystical_salmon, Salmão Místico
+pvj:mystical_potato, Batata Mística
+pvj:mystical_rabbit, Coelho Místico
+blockcraftery:editable_block, Framed Block
+blockcraftery:editable_stairs, Framed Stairs
+blockcraftery:editable_slab, Framed Slab
+blockcraftery:editable_slant, Framed Slant
+blockcraftery:editable_outer_corner, Framed Outer Corner
+blockcraftery:editable_inner_corner, Framed Inner Corner
+blockcraftery:editable_wall, Framed Wall
+blockcraftery:editable_fence, Framed Fence
+blockcraftery:editable_block_reinforced, Reinforced Framed Block
+blockcraftery:editable_stairs_reinforced, Reinforced Framed Stairs
+blockcraftery:editable_slab_reinforced, Reinforced Framed Slab
+blockcraftery:editable_slant_reinforced, Reinforced Framed Slant
+blockcraftery:editable_outer_corner_reinforced, Reinforced Framed Outer Corner
+blockcraftery:editable_inner_corner_reinforced, Reinforced Framed Inner Corner
+blockcraftery:editable_wall_reinforced, Reinforced Framed Wall
+blockcraftery:editable_fence_reinforced, Reinforced Framed Fence
+blockcraftery:editable_trap_door, Framed Trapdoor
+blockcraftery:editable_trap_door_reinforced, Reinforced Framed Trapdoor
+blockcraftery:editable_door, Framed Door
+blockcraftery:editable_door_reinforced, Reinforced Framed Door
+blockcraftery:editable_pressure_plate_all, Framed Pressure Plate (All)
+blockcraftery:editable_pressure_plate_items, Framed Pressure Plate (Items)
+blockcraftery:editable_pressure_plate_mobs, Framed Pressure Plate (Mobs)
+blockcraftery:editable_pressure_plate_player, Framed Pressure Plate (Players)
+blockcraftery:editable_pressure_plate_all_reinforced, Reinforced Framed Pressure Plate (All)
+blockcraftery:editable_pressure_plate_items_reinforced, Reinforced Framed Pressure Plate (Items)
+blockcraftery:editable_pressure_plate_mobs_reinforced, Reinforced Framed Pressure Plate (Mobs)
+blockcraftery:editable_pressure_plate_player_reinforced, Reinforced Framed Pressure Plate (Players)
